@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TOEIC単語テスト対策 1-84</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", sans-serif;
+    background: #f5f5f3;
+    margin: 0;
+    padding: 16px;
+    color: #222;
+  }
+  .wrap { max-width: 480px; margin: 0 auto; }
+  h1 { font-size: 18px; font-weight: 600; text-align: center; margin: 8px 0 16px; }
+  .controls { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+  button {
+    flex: 1;
+    min-width: 80px;
+    padding: 10px 8px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background: #fff;
+    font-size: 14px;
+    color: #222;
+  }
+  button:active { background: #eee; }
+  .progress { text-align: center; font-size: 13px; color: #777; margin-bottom: 10px; }
+  .card {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 14px;
+    padding: 24px 20px;
+    min-height: 160px;
+  }
+  .word { font-size: 22px; font-weight: 600; margin: 0 0 10px; }
+  .meaning { font-size: 16px; color: #444; margin: 0 0 12px; }
+  .example { font-size: 13px; color: #888; line-height: 1.5; margin: 0; }
+  .hint { font-size: 12px; color: #aaa; margin-top: 14px; }
+  .nav { display: flex; justify-content: space-between; margin-top: 14px; gap: 8px; }
+  .know { color: #1a7a4c; }
+  .dont { color: #c23b3b; }
+  .reveal-btn { background: #eef4ff; border-color: #b7d0ff; margin-bottom: 12px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<h1>TOEIC単語テスト対策 (1〜84)</h1>
+<div class="controls">
+  <button id="modeCard">カード</button>
+  <button id="modeQuiz">クイズ</button>
+  <button id="shuffleBtn">シャッフル</button>
+</div>
+<div class="progress" id="progress"></div>
+<div id="stage"></div>
+<div class="nav">
+  <button id="prevBtn">← 前へ</button>
+  <div id="quizControls" style="display:none;gap:8px;flex:2;">
+    <button id="knowBtn" class="know" style="flex:1">覚えた</button>
+    <button id="dontBtn" class="dont" style="flex:1">まだ</button>
+  </div>
+  <button id="nextBtn">次へ →</button>
+</div>
+</div>
+<script>
+let words = [];
+let idx = 0, mode = "card", results = {};
+const stage = document.getElementById("stage");
+const progress = document.getElementById("progress");
+
+function renderCard() {
+  const { word: w, meaning: m, example: ex, exampleJa: exj } = words[idx];
+  stage.innerHTML =
+    '<div class="card" id="flipZone">' +
+    '<p class="word">' + w + '</p>' +
+    '<p class="meaning" id="meaning" style="display:none">' + m + '</p>' +
+    '<p class="example" id="exWrap">' + ex + '<br>' + exj + '</p>' +
+    '<p class="hint">タップして意味を表示</p>' +
+    '</div>';
+  document.getElementById("flipZone").onclick = function () {
+    const el = document.getElementById("meaning");
+    el.style.display = el.style.display === "none" ? "block" : "none";
+  };
+  document.getElementById("quizControls").style.display = "none";
+  progress.textContent = (idx + 1) + " / " + words.length;
+}
+
+function renderQuiz() {
+  const { word: w, meaning: m, example: ex, exampleJa: exj } = words[idx];
+  const st = results[idx];
+  stage.innerHTML =
+    '<div class="card">' +
+    '<p class="word">' + w + '</p>' +
+    '<button class="reveal-btn" id="revealBtn">意味を見る</button>' +
+    '<p class="meaning" id="meaning" style="display:none">' + m + '</p>' +
+    '<p class="example" id="exWrap" style="display:none">' + ex + '<br>' + exj + '</p>' +
+    (st ? '<p class="hint ' + (st === "know" ? "know" : "dont") + '">前回: ' + (st === "know" ? "覚えた" : "まだ") + '</p>' : '') +
+    '</div>';
+  document.getElementById("revealBtn").onclick = function () {
+    document.getElementById("meaning").style.display = "block";
+    document.getElementById("exWrap").style.display = "block";
+  };
+  document.getElementById("quizControls").style.display = "flex";
+  const known = Object.values(results).filter(function (v) { return v === "know"; }).length;
+  progress.textContent = (idx + 1) + " / " + words.length + "　覚えた: " + known;
+}
+
+function render() { mode === "card" ? renderCard() : renderQuiz(); }
+
+document.getElementById("modeCard").onclick = function () { mode = "card"; render(); };
+document.getElementById("modeQuiz").onclick = function () { mode = "quiz"; render(); };
+document.getElementById("prevBtn").onclick = function () { idx = (idx - 1 + words.length) % words.length; render(); };
+document.getElementById("nextBtn").onclick = function () { idx = (idx + 1) % words.length; render(); };
+document.getElementById("knowBtn").onclick = function () { results[idx] = "know"; idx = (idx + 1) % words.length; render(); };
+document.getElementById("dontBtn").onclick = function () { results[idx] = "dont"; idx = (idx + 1) % words.length; render(); };
+document.getElementById("shuffleBtn").onclick = function () {
+  for (let i = words.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [words[i], words[j]] = [words[j], words[i]];
+  }
+  idx = 0;
+  render();
+};
+
+fetch("words.json")
+  .then(function (res) { return res.json(); })
+  .then(function (data) {
+    words = data;
+    render();
+  })
+  .catch(function (err) {
+    stage.innerHTML = '<div class="card"><p class="word">読み込みエラー</p><p class="example">words.jsonの読み込みに失敗しました。サーバー経由で開いてください。</p></div>';
+    console.error(err);
+  });
+</script>
+</body>
+</html>
