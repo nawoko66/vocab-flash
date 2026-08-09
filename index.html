@@ -116,7 +116,11 @@
 </div>
 
 <div id="grammarSection" style="display:none;">
-  <button id="tipsToggle" class="tips-toggle" style="width:100%;margin-bottom:12px;">📘 文法TIPS</button>
+  <div class="controls">
+    <button id="rulesToggle" class="tips-toggle">🧠 覚えるポイント</button>
+    <button id="tipsToggle" class="tips-toggle">📘 文法TIPS</button>
+  </div>
+  <div id="rulesPanel" style="display:none;margin-bottom:12px;"></div>
   <div id="tipsPanel" style="display:none;margin-bottom:12px;"></div>
   <div class="controls">
     <button id="gShuffleBtn">シャッフル</button>
@@ -156,6 +160,18 @@ function renderTips() {
   }
   panel.innerHTML = tips.slice().reverse().map(function (t) {
     return '<div class="tip-card"><p class="tip-title">' + t.title + '</p><p class="tip-date">' + t.date + '</p>' + t.html + '</div>';
+  }).join("");
+}
+
+let rules = [];
+function renderRules() {
+  const panel = document.getElementById("rulesPanel");
+  if (!rules.length) {
+    panel.innerHTML = '<div class="tip-card"><p>覚えるポイントはまだありません。</p></div>';
+    return;
+  }
+  panel.innerHTML = rules.map(function (r) {
+    return '<div class="tip-card"><p class="tip-title">' + r.title + '</p>' + r.html + '</div>';
   }).join("");
 }
 
@@ -323,6 +339,11 @@ document.getElementById("tipsToggle").onclick = function () {
   panel.style.display = panel.style.display === "none" ? "block" : "none";
 };
 
+document.getElementById("rulesToggle").onclick = function () {
+  const panel = document.getElementById("rulesPanel");
+  panel.style.display = panel.style.display === "none" ? "block" : "none";
+};
+
 document.getElementById("gPrevBtn").onclick = function () { gIdx = (gIdx - 1 + grammarQuestions.length) % grammarQuestions.length; renderGrammar(); };
 document.getElementById("gNextBtn").onclick = function () { gIdx = (gIdx + 1) % grammarQuestions.length; renderGrammar(); };
 document.getElementById("gResetBtn").onclick = function () { gResults = {}; renderGrammar(); };
@@ -364,6 +385,16 @@ fetch("tips.json")
   .then(function (data) {
     tips = data;
     renderTips();
+  })
+  .catch(function (err) {
+    console.error(err);
+  });
+
+fetch("rules.json")
+  .then(function (res) { return res.json(); })
+  .then(function (data) {
+    rules = data;
+    renderRules();
   })
   .catch(function (err) {
     console.error(err);
