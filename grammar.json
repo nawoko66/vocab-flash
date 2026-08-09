@@ -1,0 +1,20 @@
+[
+  {
+    "question": "The manager asked the staff to ______ the report before Friday.",
+    "choices": ["complete", "completes", "completing", "completion"],
+    "answer": 0,
+    "explanation": "ask + 人 + to do の形なので動詞の原形(complete)が入る。"
+  },
+  {
+    "question": "Sales figures have improved significantly ______ the new marketing strategy.",
+    "choices": ["because", "because of", "although", "despite of"],
+    "answer": 1,
+    "explanation": "後ろに名詞句(the new marketing strategy)が続くのでbecause ofを使う。becauseは後ろに節(主語+動詞)が必要。"
+  },
+  {
+    "question": "All employees must submit their expense reports ______ the end of the month.",
+    "choices": ["by", "until", "since", "for"],
+    "answer": 0,
+    "explanation": "期限(〜までに)を表すのでbyを使う。untilは動作の継続(〜まで続ける)を表すので不適切。"
+  }
+]

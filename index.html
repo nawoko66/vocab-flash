@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>TOEIC単語テスト対策 1-84</title>
+<title>TOEIC対策</title>
 <style>
   * { box-sizing: border-box; }
   body {
@@ -15,6 +15,9 @@
   }
   .wrap { max-width: 480px; margin: 0 auto; }
   h1 { font-size: 18px; font-weight: 600; text-align: center; margin: 8px 0 16px; }
+  .tabs { display: flex; gap: 8px; margin-bottom: 12px; }
+  .tab { flex: 1; padding: 10px 8px; border: 1px solid #ccc; border-radius: 8px; background: #fff; font-size: 14px; color: #222; }
+  .tab.active { background: #222; color: #fff; border-color: #222; }
   .controls { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
   button {
     flex: 1;
@@ -43,25 +46,67 @@
   .know { color: #1a7a4c; }
   .dont { color: #c23b3b; }
   .reveal-btn { background: #eef4ff; border-color: #b7d0ff; margin-bottom: 12px; }
+  .question { font-size: 16px; font-weight: 600; margin: 0 0 16px; line-height: 1.5; }
+  .choice {
+    display: block;
+    width: 100%;
+    text-align: left;
+    padding: 10px 12px;
+    margin-bottom: 8px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background: #fff;
+    font-size: 14px;
+  }
+  .choice.correct { background: #e6f7ee; border-color: #1a7a4c; color: #1a7a4c; }
+  .choice.wrong { background: #fdecec; border-color: #c23b3b; color: #c23b3b; }
+  .explanation {
+    font-size: 13px;
+    color: #555;
+    line-height: 1.5;
+    margin-top: 14px;
+    padding-top: 12px;
+    border-top: 1px solid #eee;
+  }
 </style>
 </head>
 <body>
 <div class="wrap">
-<h1>TOEIC単語テスト対策 (1〜84)</h1>
-<div class="controls">
-  <button id="modeCard">カード</button>
-  <button id="modeQuiz">クイズ</button>
-  <button id="shuffleBtn">シャッフル</button>
+<h1>TOEIC対策</h1>
+<div class="tabs">
+  <button id="tabWords" class="tab active">単語</button>
+  <button id="tabGrammar" class="tab">文法</button>
 </div>
-<div class="progress" id="progress"></div>
-<div id="stage"></div>
-<div class="nav">
-  <button id="prevBtn">← 前へ</button>
-  <div id="quizControls" style="display:none;gap:8px;flex:2;">
-    <button id="knowBtn" class="know" style="flex:1">覚えた</button>
-    <button id="dontBtn" class="dont" style="flex:1">まだ</button>
+
+<div id="wordsSection">
+  <div class="controls">
+    <button id="modeCard">カード</button>
+    <button id="modeQuiz">クイズ</button>
+    <button id="shuffleBtn">シャッフル</button>
   </div>
-  <button id="nextBtn">次へ →</button>
+  <div class="progress" id="progress"></div>
+  <div id="stage"></div>
+  <div class="nav">
+    <button id="prevBtn">← 前へ</button>
+    <div id="quizControls" style="display:none;gap:8px;flex:2;">
+      <button id="knowBtn" class="know" style="flex:1">覚えた</button>
+      <button id="dontBtn" class="dont" style="flex:1">まだ</button>
+    </div>
+    <button id="nextBtn">次へ →</button>
+  </div>
+</div>
+
+<div id="grammarSection" style="display:none;">
+  <div class="controls">
+    <button id="gShuffleBtn">シャッフル</button>
+    <button id="gResetBtn">スコアをリセット</button>
+  </div>
+  <div class="progress" id="gProgress"></div>
+  <div id="gStage"></div>
+  <div class="nav">
+    <button id="gPrevBtn">← 前へ</button>
+    <button id="gNextBtn">次へ →</button>
+  </div>
 </div>
 </div>
 <script>
@@ -69,6 +114,13 @@ let words = [];
 let idx = 0, mode = "card", results = {};
 const stage = document.getElementById("stage");
 const progress = document.getElementById("progress");
+
+let grammarQuestions = [];
+let gIdx = 0, gResults = {};
+const gStage = document.getElementById("gStage");
+const gProgress = document.getElementById("gProgress");
+
+let tab = "words";
 
 function renderCard() {
   const { word: w, meaning: m, example: ex, exampleJa: exj } = words[idx];
@@ -107,31 +159,104 @@ function renderQuiz() {
   progress.textContent = (idx + 1) + " / " + words.length + "　覚えた: " + known;
 }
 
-function render() { mode === "card" ? renderCard() : renderQuiz(); }
+function renderWords() {
+  if (!words.length) { stage.innerHTML = '<div class="card"><p class="word">読み込み中...</p></div>'; return; }
+  mode === "card" ? renderCard() : renderQuiz();
+}
 
-document.getElementById("modeCard").onclick = function () { mode = "card"; render(); };
-document.getElementById("modeQuiz").onclick = function () { mode = "quiz"; render(); };
-document.getElementById("prevBtn").onclick = function () { idx = (idx - 1 + words.length) % words.length; render(); };
-document.getElementById("nextBtn").onclick = function () { idx = (idx + 1) % words.length; render(); };
-document.getElementById("knowBtn").onclick = function () { results[idx] = "know"; idx = (idx + 1) % words.length; render(); };
-document.getElementById("dontBtn").onclick = function () { results[idx] = "dont"; idx = (idx + 1) % words.length; render(); };
+function renderGrammar() {
+  if (!grammarQuestions.length) {
+    gStage.innerHTML = '<div class="card"><p class="question">文法問題がまだありません。</p></div>';
+    gProgress.textContent = "";
+    return;
+  }
+  const q = grammarQuestions[gIdx];
+  const answered = gResults[gIdx] !== undefined;
+  gStage.innerHTML =
+    '<div class="card">' +
+    '<p class="question">' + (gIdx + 1) + '. ' + q.question + '</p>' +
+    q.choices.map(function (choice, i) {
+      let cls = "choice";
+      if (answered) {
+        if (i === q.answer) cls += " correct";
+        else if (i === gResults[gIdx]) cls += " wrong";
+      }
+      return '<button class="' + cls + '" data-i="' + i + '">' + choice + '</button>';
+    }).join("") +
+    (answered ? '<p class="explanation">' + q.explanation + '</p>' : '') +
+    '</div>';
+
+  gStage.querySelectorAll(".choice").forEach(function (btn) {
+    btn.onclick = function () {
+      if (gResults[gIdx] !== undefined) return;
+      gResults[gIdx] = Number(btn.dataset.i);
+      renderGrammar();
+    };
+  });
+
+  const answeredCount = Object.keys(gResults).length;
+  const correctCount = Object.keys(gResults).filter(function (k) { return gResults[k] === grammarQuestions[k].answer; }).length;
+  gProgress.textContent = (gIdx + 1) + " / " + grammarQuestions.length + "　正解: " + correctCount + " / " + answeredCount;
+}
+
+function switchTab(t) {
+  tab = t;
+  document.getElementById("wordsSection").style.display = t === "words" ? "" : "none";
+  document.getElementById("grammarSection").style.display = t === "grammar" ? "" : "none";
+  document.getElementById("tabWords").classList.toggle("active", t === "words");
+  document.getElementById("tabGrammar").classList.toggle("active", t === "grammar");
+  t === "words" ? renderWords() : renderGrammar();
+}
+
+document.getElementById("tabWords").onclick = function () { switchTab("words"); };
+document.getElementById("tabGrammar").onclick = function () { switchTab("grammar"); };
+
+document.getElementById("modeCard").onclick = function () { mode = "card"; renderWords(); };
+document.getElementById("modeQuiz").onclick = function () { mode = "quiz"; renderWords(); };
+document.getElementById("prevBtn").onclick = function () { idx = (idx - 1 + words.length) % words.length; renderWords(); };
+document.getElementById("nextBtn").onclick = function () { idx = (idx + 1) % words.length; renderWords(); };
+document.getElementById("knowBtn").onclick = function () { results[idx] = "know"; idx = (idx + 1) % words.length; renderWords(); };
+document.getElementById("dontBtn").onclick = function () { results[idx] = "dont"; idx = (idx + 1) % words.length; renderWords(); };
 document.getElementById("shuffleBtn").onclick = function () {
   for (let i = words.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [words[i], words[j]] = [words[j], words[i]];
   }
   idx = 0;
-  render();
+  renderWords();
+};
+
+document.getElementById("gPrevBtn").onclick = function () { gIdx = (gIdx - 1 + grammarQuestions.length) % grammarQuestions.length; renderGrammar(); };
+document.getElementById("gNextBtn").onclick = function () { gIdx = (gIdx + 1) % grammarQuestions.length; renderGrammar(); };
+document.getElementById("gResetBtn").onclick = function () { gResults = {}; renderGrammar(); };
+document.getElementById("gShuffleBtn").onclick = function () {
+  for (let i = grammarQuestions.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [grammarQuestions[i], grammarQuestions[j]] = [grammarQuestions[j], grammarQuestions[i]];
+  }
+  gIdx = 0;
+  gResults = {};
+  renderGrammar();
 };
 
 fetch("words.json")
   .then(function (res) { return res.json(); })
   .then(function (data) {
     words = data;
-    render();
+    if (tab === "words") renderWords();
   })
   .catch(function (err) {
     stage.innerHTML = '<div class="card"><p class="word">読み込みエラー</p><p class="example">words.jsonの読み込みに失敗しました。サーバー経由で開いてください。</p></div>';
+    console.error(err);
+  });
+
+fetch("grammar.json")
+  .then(function (res) { return res.json(); })
+  .then(function (data) {
+    grammarQuestions = data;
+    if (tab === "grammar") renderGrammar();
+  })
+  .catch(function (err) {
     console.error(err);
   });
 </script>
