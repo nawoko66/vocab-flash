@@ -68,6 +68,19 @@
     padding-top: 12px;
     border-top: 1px solid #eee;
   }
+  .tips-toggle { background: #fff7e6; border-color: #f0d78c; }
+  .tip-card { background: #fff; border: 1px solid #ddd; border-radius: 14px; padding: 16px 18px; margin-bottom: 12px; }
+  .tip-title { font-size: 15px; font-weight: 600; margin: 0 0 2px; }
+  .tip-date { font-size: 11px; color: #999; margin: 0 0 10px; }
+  .tip-card h4 { font-size: 14px; margin: 14px 0 6px; }
+  .tip-card h4:first-of-type { margin-top: 0; }
+  .tip-card p, .tip-card li { font-size: 13px; line-height: 1.6; color: #333; }
+  .tip-card p { margin: 6px 0; }
+  .tip-card ul, .tip-card ol { margin: 6px 0; padding-left: 20px; }
+  .tip-card table { width: 100%; border-collapse: collapse; font-size: 12px; margin: 8px 0; }
+  .tip-card th, .tip-card td { border: 1px solid #ddd; padding: 4px 6px; text-align: left; }
+  .tip-card .note-meta { font-size: 12px; color: #999; margin-top: -6px; }
+  .tip-card .note-practice { font-size: 12px; color: #666; background: #f7f7f5; padding: 8px 10px; border-radius: 8px; }
 </style>
 </head>
 <body>
@@ -103,6 +116,8 @@
 </div>
 
 <div id="grammarSection" style="display:none;">
+  <button id="tipsToggle" class="tips-toggle" style="width:100%;margin-bottom:12px;">📘 文法TIPS</button>
+  <div id="tipsPanel" style="display:none;margin-bottom:12px;"></div>
   <div class="controls">
     <button id="gShuffleBtn">シャッフル</button>
     <button id="gResetBtn">スコアをリセット</button>
@@ -131,6 +146,18 @@ let grammarQuestions = [];
 let gIdx = 0, gResults = {};
 const gStage = document.getElementById("gStage");
 const gProgress = document.getElementById("gProgress");
+
+let tips = [];
+function renderTips() {
+  const panel = document.getElementById("tipsPanel");
+  if (!tips.length) {
+    panel.innerHTML = '<div class="tip-card"><p>TIPSはまだありません。</p></div>';
+    return;
+  }
+  panel.innerHTML = tips.slice().reverse().map(function (t) {
+    return '<div class="tip-card"><p class="tip-title">' + t.title + '</p><p class="tip-date">' + t.date + '</p>' + t.html + '</div>';
+  }).join("");
+}
 
 let tab = "words";
 
@@ -291,6 +318,11 @@ document.getElementById("shuffleBtn").onclick = function () {
   renderWords();
 };
 
+document.getElementById("tipsToggle").onclick = function () {
+  const panel = document.getElementById("tipsPanel");
+  panel.style.display = panel.style.display === "none" ? "block" : "none";
+};
+
 document.getElementById("gPrevBtn").onclick = function () { gIdx = (gIdx - 1 + grammarQuestions.length) % grammarQuestions.length; renderGrammar(); };
 document.getElementById("gNextBtn").onclick = function () { gIdx = (gIdx + 1) % grammarQuestions.length; renderGrammar(); };
 document.getElementById("gResetBtn").onclick = function () { gResults = {}; renderGrammar(); };
@@ -322,6 +354,16 @@ fetch("grammar.json")
   .then(function (data) {
     grammarQuestions = data;
     if (tab === "grammar") renderGrammar();
+  })
+  .catch(function (err) {
+    console.error(err);
+  });
+
+fetch("tips.json")
+  .then(function (res) { return res.json(); })
+  .then(function (data) {
+    tips = data;
+    renderTips();
   })
   .catch(function (err) {
     console.error(err);
