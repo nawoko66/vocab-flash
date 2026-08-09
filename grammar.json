@@ -30,7 +30,7 @@
       "agreeably"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「agreeable」です。be動詞(is)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "------- for the competition should be submitted by November 28 at the latest.",
@@ -41,7 +41,7 @@
       "Entries"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「Entries」です。この文の主語(S)になっています。"
   },
   {
     "question": "Creek County approved ------- to create a transportation council, which will coordinate the planning of new roads and tunnels.",
@@ -52,7 +52,7 @@
       "legislates"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「legislation」です。動詞 approved の目的語(O)になっています。"
   },
   {
     "question": "The award ceremony ------- with a speech by the Chief Executive Officer, Harry Robinson.",
@@ -63,7 +63,7 @@
       "opened"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は動詞の「opened」です。主語 ceremony を受けて、この文の述語動詞(V)になっています。"
   },
   {
     "question": "The ensemble's performance was ------- impressive because they decided to enter the contest at the last minute.",
@@ -74,7 +74,7 @@
       "particularly"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「particularly」です。be動詞(was)の後ろで形容詞 impressive を修飾しています。"
   },
   {
     "question": "Ogawara Electronics is going to relocate its corporate headquarters to a larger facility in order to accommodate the ------- of a legal department.",
@@ -85,7 +85,7 @@
       "add"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「addition」です。動詞 accommodate の目的語(O)になっています。"
   },
   {
     "question": "The shareholders meeting will begin ------- at 2 P.M. so all presenters should be well prepared by that time.",
@@ -96,7 +96,7 @@
       "promptness"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「promptly」です。直前の動詞 begin を修飾しています。"
   },
   {
     "question": "During yesterday's press conference, Mr. Shimura ------- denied that the company would acquire Seattle-based White Corporation.",
@@ -107,7 +107,7 @@
       "emphasis"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「emphatically」です。主語と動詞の間に置かれ、動詞 denied を修飾しています。"
   },
   {
     "question": "A proposal to upgrade the data security software will be considered at the next ------- scheduled meeting.",
@@ -118,7 +118,7 @@
       "regulation"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「regularly」です。後ろの過去分詞 scheduled を修飾しています。"
   },
   {
     "question": "Job ------- will be posted on the college Web site and normally remain open for one to two weeks depending on the position.",
@@ -129,7 +129,7 @@
       "openings"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「openings」です。この文の主語(S)になっています。"
   },
   {
     "question": "During the company banquet, David Thomas was presented with a watch in ------- of his thirty years of service.",
@@ -140,7 +140,7 @@
       "appreciation"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「appreciation」です。直前の前置詞 in の目的語になっています。"
   },
   {
     "question": "Shipping costs will be calculated ------- at the sales counter based on the product weight, size, and destination.",
@@ -151,7 +151,7 @@
       "automated"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「automatically」です。受け身の文(be動詞+過去分詞)の後ろに置かれ、過去分詞 calculated を修飾しています。"
   },
   {
     "question": "Passengers on Air Atlanta may cancel their ------- for a nominal fee, if the requests are filed one week in advance.",
@@ -162,7 +162,7 @@
       "bookable"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「bookings」です。動詞 cancel の目的語(O)になっています。"
   },
   {
     "question": "Ms. Kelly was able to solve the issues with the new software ------- after consulting Mr. Lee in the technical support department.",
@@ -173,7 +173,7 @@
       "ease"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は副詞の「easily」です。動詞 solve を修飾しています。"
   },
   {
     "question": "Mr. Garcia's ------- for updating the current inventory control system will be reviewed at the next board meeting.",
@@ -184,7 +184,7 @@
       "recommendable"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「recommendation」です。この文の主語(S)になっています。"
   },
   {
     "question": "Department managers are required to ensure all the staff members they supervise have a ------- understanding of the company mission.",
@@ -195,7 +195,7 @@
       "clears"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「clear」です。後ろの名詞 understanding を修飾しています。"
   },
   {
     "question": "Yearly utility costs for the new energy efficient headquarters will be about 50% lower than those of ------- designed buildings.",
@@ -206,7 +206,7 @@
       "conventional"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は副詞の「conventionally」です。後ろの過去分詞 designed を修飾しています。"
   },
   {
     "question": "New and transferred employees must become ------- with company policies and procedures in order to perform their jobs safely and efficiently.",
@@ -217,7 +217,7 @@
       "familiarization"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「familiar」です。become の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Dream Painting Ltd. is a painting contractor with a solid reputation for ------- completing projects by tight deadlines.",
@@ -228,7 +228,7 @@
       "succeed"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「successfully」です。後ろの分詞(-ing形) completing を修飾しています。"
   },
   {
     "question": "Over the past few years as the domestic market has matured, manufacturers in Japan have ------- turned to overseas markets.",
@@ -239,7 +239,7 @@
       "increasingly"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「increasingly」です。have/has/had と過去分詞 turned の間に置かれ、過去分詞 turned を修飾しています。"
   },
   {
     "question": "The purpose of the survey is to collect information from our customers in order to make our operations more efficient and -------.",
@@ -250,7 +250,7 @@
       "reliance"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「reliable」です。「make operations reliable」(SVOC)の形で、目的語 operations を説明する補語(C)になっています。"
   },
   {
     "question": "The most recently completed section of the water tunnel is considered to be the largest ------- project ever undertaken in Nagasaki.",
@@ -261,7 +261,7 @@
       "construction"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「construction」です。後ろの名詞 project を直接修飾して、construction project のような複合名詞(名詞+名詞)を作っています。"
   },
   {
     "question": "Some of the ------- for employees at Sky Manufacturing include a company car and company stock options.",
@@ -272,7 +272,7 @@
       "beneficially"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「benefits」です。直前の前置詞 of の目的語になっています。"
   },
   {
     "question": "Francesco Romano opened a new wellness ------- on the first floor of his house after quitting his job as a television repairman.",
@@ -283,7 +283,7 @@
       "facilitation"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「facility」です。動詞 opened の目的語(O)になっています。"
   },
   {
     "question": "According to the event manager, it is important to complete urgent ------- in order of importance.",
@@ -294,7 +294,7 @@
       "tasks"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「tasks」です。動詞 complete の目的語(O)になっています。"
   },
   {
     "question": "Harold's Ice Cream recently launched a newly ------- Web site that showcases its innovative ice-cream desserts.",
@@ -305,7 +305,7 @@
       "designing"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は過去分詞の「designed」です。ここでは形容詞のように使われ、直前の副詞 newly とともに「新しくデザインされた」という意味で、後ろの名詞 Web site を修飾しています。"
   },
   {
     "question": "The demand for electric automobiles has increased by ------- 50 percent over the past 10 years in Australia.",
@@ -316,7 +316,7 @@
       "nearness"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「nearly」です。後ろの数量表現 50 percent を修飾しています。"
   },
   {
     "question": "Half of the board members of Bell Corporation are appointed on a ------- two-year basis.",
@@ -327,7 +327,7 @@
       "rotation"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は現在分詞の「rotating」です。ここでは形容詞のように使われ、後ろの名詞句 two-year basis を修飾し、「交代制の」という意味を表しています。"
   },
   {
     "question": "Restoration work on the Marysville Museum is ------- much slower than residents had hoped.",
@@ -338,7 +338,7 @@
       "regrettably"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「regrettably」です。直前の動詞 is を修飾しています。"
   },
   {
     "question": "On many ------- Ms. Humphrey sketched and painted until after midnight, when the only sound was the cooing of pigeons on the roof.",
@@ -349,7 +349,7 @@
       "occasion"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「occasions」です。直前の前置詞 On の目的語になっています。"
   },
   {
     "question": "Word-of-mouth ------- is considered highly effective, but remains a rarely studied phenomenon.",
@@ -360,7 +360,7 @@
       "advertisements"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「advertising」です。この文の主語(S)になっています。"
   },
   {
     "question": "It is the job of cabin attendants to make passengers feel as ------- as possible during the flight.",
@@ -371,7 +371,7 @@
       "comforting"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「comfortable」です。feel の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Mr. Tomiyasu returned the ------- merchandise to the manufacturer at his own expense.",
@@ -382,7 +382,7 @@
       "defection"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「defective」です。後ろの名詞 merchandise を修飾しています。"
   },
   {
     "question": "Mr. Santos, who joined Wood Eco Institute just three months ago, has already proved himself to be a ------- employee.",
@@ -393,7 +393,7 @@
       "valuation"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「valuable」です。be動詞(be)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "A customer placing an order through our Web site should receive a ------- within 24 hours.",
@@ -404,7 +404,7 @@
       "responding"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「response」です。動詞 receive の目的語(O)になっています。"
   },
   {
     "question": "After 30 years of ------- to Johnson City, Donna Stover stepped down as mayor and council secretary.",
@@ -415,7 +415,7 @@
       "service"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「service」です。直前の前置詞 of の目的語になっています。"
   },
   {
     "question": "Mr. Sanders won this quarter's Best Employee award for his ------- service to clients and early achievement of his yearly sales target.",
@@ -426,7 +426,7 @@
       "exceptions"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「exceptional」です。後ろの名詞 service を修飾しています。"
   },
   {
     "question": "The appearance of the CEO at the Beijing Motor Show was a ------- that his company is eager to expand into China.",
@@ -437,7 +437,7 @@
       "reminding"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「reminder」です。be動詞(was)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Public health inspectors monitor pools ------- to ensure that they meet specific guidelines and local laws.",
@@ -448,7 +448,7 @@
       "regularity"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「regularly」です。動詞 monitor を修飾しています。"
   },
   {
     "question": "The final chapter is the most ------- part of *Amazing Ads*, in which the author provides reviews, remarks, and analyses of a number of advertising strategies.",
@@ -459,7 +459,7 @@
       "essentiality"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「essential」です。be動詞(is)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "A change in the price of ------- is expected by the end of the year.",
@@ -470,7 +470,7 @@
       "electricity"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「electricity」です。直前の前置詞 of の目的語になっています。"
   },
   {
     "question": "Employees are reminded to record their vacation days ------- on their time sheets.",
@@ -481,7 +481,7 @@
       "carefulness"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「carefully」です。動詞 record を修飾しています。"
   },
   {
     "question": "Sun Watch Corporation offers ------- replacement batteries for all of its products.",
@@ -492,7 +492,7 @@
       "freedom"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「free」です。後ろの名詞 replacement を修飾しています。"
   },
   {
     "question": "Mr. Yashima spoke ------- with the vice president about his decision to step down as CEO.",
@@ -503,7 +503,7 @@
       "exclusiveness"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は副詞の「exclusively」です。直前の動詞 spoke を修飾しています。"
   },
   {
     "question": "Summaries of the ------- among the hiring committee will be distributed to board members by the end of the week.",
@@ -514,7 +514,7 @@
       "discussions"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「discussions」です。直前の前置詞 of の目的語になっています。"
   },
   {
     "question": "The best way to help people reduce their ------- on non-renewable energy sources is to educate consumers about the potential of solar energy.",
@@ -525,7 +525,7 @@
       "dependence"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「dependence」です。動詞 reduce の目的語(O)になっています。"
   },
   {
     "question": "It is important that the materials used for the building be ------- for the climate of the area.",
@@ -536,7 +536,7 @@
       "suitability"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「suitable」です。be動詞(be)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "There are blankets and pillows in the overhead compartments for the passengers'------- during the flight.",
@@ -547,7 +547,7 @@
       "comfort"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「comfort」です。この文の主語(S)になっています。"
   },
   {
     "question": "Please view the written ------- of the product online before contacting a company representative with a question.",
@@ -558,7 +558,7 @@
       "description"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「description」です。動詞 view の目的語(O)になっています。"
   },
   {
     "question": "Lucky Corporation often receives interest from the most promising applicants because of the ------- package it offers to its staff.",
@@ -569,7 +569,7 @@
       "attraction"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「attractive」です。後ろの名詞 package を修飾しています。"
   },
   {
     "question": "The Westchester Philharmonic received a ------- award for its education program three years ago.",
@@ -580,7 +580,7 @@
       "nationally"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「national」です。後ろの名詞 award を修飾しています。"
   },
   {
     "question": "City employees ------- endorsed the new benefits plan proposed by the city's Department of Health.",
@@ -591,7 +591,7 @@
       "enthuse"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は副詞の「enthusiastically」です。主語と動詞の間に置かれ、動詞 endorsed を修飾しています。"
   },
   {
     "question": "It is estimated that Coyote Oil's net profit last year was in ------- of 1 billion dollars.",
@@ -602,7 +602,7 @@
       "exceed"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「excess」です。直前の前置詞 in の目的語になっています。"
   },
   {
     "question": "The Department of Transportation has ------- requested information about Mr. Becker's updated address.",
@@ -613,7 +613,7 @@
       "repeats"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「repeatedly」です。have/has/had と過去分詞 requested の間に置かれ、過去分詞 requested を修飾しています。"
   },
   {
     "question": "Buy one of our surfboards and get a free ------- to *Surfing Life* magazine.",
@@ -624,7 +624,7 @@
       "subscribing"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「subscription」です。動詞 get の目的語(O)になっています。"
   },
   {
     "question": "The supermarket chain has had a very successful year under the ------- of its new CEO, Aditya Kumar.",
@@ -635,7 +635,7 @@
       "directly"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「direction」です。直前の前置詞 under の目的語になっています。"
   },
   {
     "question": "No seats for the concert are guaranteed unless you make ------- and payments in advance.",
@@ -646,7 +646,7 @@
       "reservations"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「reservations」です。動詞 make の目的語(O)になっています。"
   },
   {
     "question": "The new sales manager has been putting an ------- on attracting new clients rather than just selling higher volumes.",
@@ -657,7 +657,7 @@
       "emphasizes"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「emphasis」です。動詞 putting の目的語(O)になっています。"
   },
   {
     "question": "A reviewer who attended the opening night of Max Cabernet's new musical reported that it was exciting and -------.",
@@ -668,7 +668,7 @@
       "memorably"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「memorable」です。「it was exciting and memorable」という形で、be動詞(was)の補語 exciting と and で結ばれ、主語を説明する補語(C)になっています。"
   },
   {
     "question": "The TexPhone was found to be unattractive to consumers due to weaknesses in terms of color, design, and ------- of use.",
@@ -679,7 +679,7 @@
       "easier"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「ease」です。この文の主語(S)になっています。"
   },
   {
     "question": "Experts ------- that new building insulation regulations will reduce the state's dependency on fossil fuels.",
@@ -690,7 +690,7 @@
       "prediction"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は動詞の「predict」です。主語 Experts を受けて、この文の述語動詞(V)になっています。"
   },
   {
     "question": "If the City Council ------- the renovation plan for the airport, workers will begin construction late this year.",
@@ -701,7 +701,7 @@
       "approvingly"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は動詞の「approves」です。主語 Council を受けて、この文の述語動詞(V)になっています。"
   },
   {
     "question": "Dr. Matthews has received a ------- large number of calls in response to her lectures at medical schools nationwide.",
@@ -712,7 +712,7 @@
       "surprises"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「surprisingly」です。後ろの形容詞 large を修飾しています。"
   },
   {
     "question": "BioTech's corporate structure and financial information are ------- accessible to customers on the Web site at www.biotech.com.",
@@ -723,7 +723,7 @@
       "readiness"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「readily」です。be動詞(are)の後ろで形容詞 accessible を修飾しています。"
   },
   {
     "question": "There has been speculation that Techsoft's board is trying to find a ------- for its chief executive by the end of the year.",
@@ -734,7 +734,7 @@
       "replacement"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「replacement」です。動詞 find の目的語(O)になっています。"
   },
   {
     "question": "Our design consultants generate concepts combining visual impact, clear messages, and a high level of -------.",
@@ -745,7 +745,7 @@
       "creativity"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「creativity」です。直前の前置詞 of の目的語になっています。"
   },
   {
     "question": "Bookmart.com promises to make ------- to the Web site, and there could be an updated version as early as November.",
@@ -756,7 +756,7 @@
       "improving"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「improvements」です。動詞 make の目的語(O)になっています。"
   },
   {
     "question": "The company will provide an ------- day of paid vacation when an annual leave day falls on a public holiday.",
@@ -767,7 +767,7 @@
       "additive"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「additional」です。後ろの名詞 day を修飾しています。"
   },
   {
     "question": "Travelpal Luggage is the perfect choice for travelers whether they are traveling on business or for -------.",
@@ -778,7 +778,7 @@
       "please"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「pleasure」です。直前の前置詞 for の目的語になっています。"
   },
   {
     "question": "All visitors to the hotel during the construction phase must wear ------- goggles and helmets at all times.",
@@ -789,7 +789,7 @@
       "protectively"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「protective」です。後ろの名詞 goggles を修飾しています。"
   },
   {
     "question": "The client's files must be arranged ------- rather than by date to allow for easier searching.",
@@ -800,7 +800,7 @@
       "alphabetically"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「alphabetically」です。受け身の文(be動詞+過去分詞)の後ろに置かれ、過去分詞 arranged を修飾しています。"
   },
   {
     "question": "Kaseguma Design has brightly colored meeting spaces, which are intended to help employees think -------.",
@@ -811,7 +811,7 @@
       "creation"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「creatively」です。動詞 think の後ろに置かれて、それを修飾しています。"
   },
   {
     "question": "TAA Airlines has a ------- dress code which all staff adhere to diligently.",
@@ -822,7 +822,7 @@
       "strictest"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「strict」です。後ろの名詞 dress を修飾しています。"
   },
   {
     "question": "The spokesperson for Carter Robotics says its new room cleaning robot will ------- be revolutionary.",
@@ -833,7 +833,7 @@
       "assuredly"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「assuredly」です。助動詞 will と動詞の原形 be の間に置かれ、動詞を修飾しています。"
   },
   {
     "question": "The office manager is ------- for regularly checking the inventory of office supplies and placing orders if needed.",
@@ -844,7 +844,7 @@
       "responsibly"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「responsible」です。be動詞(is)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Shares of Wellington Depot rose ------- after the retailer reported record sales in December.",
@@ -855,7 +855,7 @@
       "sharpness"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「sharply」です。直前の動詞 rose を修飾しています。"
   },
   {
     "question": "A professional ------- is one of the key elements of a successful job interview.",
@@ -866,7 +866,7 @@
       "appears"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「appearance」です。この文の主語(S)になっています。"
   },
   {
     "question": "Located in the heart of Manhattan, Gilford's café offers a large ------- of traditional and contemporary American, Japanese, and Chinese dishes.",
@@ -877,7 +877,7 @@
       "selecting"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「selection」です。動詞 offers の目的語(O)になっています。"
   },
   {
     "question": "Although Michael Young has been performing as a guitarist for many years, he is ------- unknown in the Japanese music industry.",
@@ -888,7 +888,7 @@
       "relate"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「relatively」です。be動詞(is)の後ろで形容詞 unknown を修飾しています。"
   },
   {
     "question": "Ms. Patel's ------- novel, *Clipped Wings*, has been translated into 13 languages since it was first published.",
@@ -899,7 +899,7 @@
       "lateness"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「latest」です。後ろの名詞 novel を修飾しています。"
   },
   {
     "question": "The residents of Jamestown and Tomasville ------- approved the construction of a highway to connect the two cities.",
@@ -910,7 +910,7 @@
       "overwhelmed"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「overwhelmingly」です。主語と動詞の間に置かれ、動詞 approved を修飾しています。"
   },
   {
     "question": "The most imaginative ------- in the photography competition will receive a new laptop computer from Candy Computers.",
@@ -921,7 +921,7 @@
       "submitting"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「submission」です。この文の主語(S)になっています。"
   },
   {
     "question": "A great ------- of employees use public transport to get to work because of the cost of parking in the city.",
@@ -932,7 +932,7 @@
       "majoring"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「majority」です。この文の主語(S)になっています。"
   },
   {
     "question": "The communications manager from Golden Egg Appliances says the company is studying the ------- of retooling its factory in Ohio.",
@@ -943,7 +943,7 @@
       "feasibly"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「feasibility」です。動詞 studying の目的語(O)になっています。"
   },
   {
     "question": "Hospital staff members are not permitted to share patients' ------- details with outside parties without written consent.",
@@ -954,7 +954,7 @@
       "privatization"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「private」です。後ろの名詞 details を修飾しています。"
   },
   {
     "question": "The large drugstore includes a pharmacy with a doctor on hand for ------- during the week.",
@@ -965,7 +965,7 @@
       "to consult"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「consultation」です。直前の前置詞 for の目的語になっています。"
   },
   {
     "question": "The fashion chain announced that it expected to record a substantial ------- in the second quarter.",
@@ -976,7 +976,7 @@
       "losing"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「loss」です。動詞 record の目的語(O)になっています。"
   },
   {
     "question": "At the dawn of the Internet, a ------- venture called Next Net was founded to create one of the first search engines.",
@@ -987,7 +987,7 @@
       "cooperative"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は形容詞の「cooperative」です。後ろの名詞 venture を修飾しています。"
   },
   {
     "question": "A ------- variety of amenities and services are provided by the newly opened Oakridge Hotel.",
@@ -998,7 +998,7 @@
       "broadly"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「broad」です。後ろの名詞 variety を修飾しています。"
   },
   {
     "question": "Consumers tend to prefer domestic brands when buying ------- like milk, medicines, or diapers.",
@@ -1009,7 +1009,7 @@
       "necessities"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「necessities」です。動詞 buying の目的語(O)になっています。"
   },
   {
     "question": "Hareyama Flowers provides the ------- arrangements for any occasion including anniversaries, graduations, and weddings.",
@@ -1020,7 +1020,7 @@
       "perfection"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「perfect」です。後ろの名詞 arrangements を修飾しています。"
   },
   {
     "question": "Hiring ------- for the new board members will be announced at the meeting this afternoon.",
@@ -1031,7 +1031,7 @@
       "to decide"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「decisions」です。この文の主語(S)になっています。"
   },
   {
     "question": "The photographs featured on our Web site may be purchased ------- from the photographers using the links provided below.",
@@ -1042,7 +1042,7 @@
       "directly"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「directly」です。受け身の文(be動詞+過去分詞)の後ろに置かれ、過去分詞 purchased を修飾しています。"
   },
   {
     "question": "Attendees will be asked to complete a ------- survey at the beginning and end of the training program.",
@@ -1053,7 +1053,7 @@
       "briefly"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「brief」です。後ろの名詞 survey を修飾しています。"
   },
   {
     "question": "Mr. Hamilton pointed out that most clerical errors are -------, and suggested a system of checks to resolve the problem.",
@@ -1064,7 +1064,7 @@
       "prevention"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「preventable」です。be動詞(are)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Urbandale City College provides several management courses that will improve your employment prospects and add to your -------.",
@@ -1075,7 +1075,7 @@
       "qualifier"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「qualifications」です。直前の前置詞 to の目的語になっています。"
   },
   {
     "question": "The use of recyclable materials has expanded ------- in the last few years, thanks to the conscientious effort of manufacturers.",
@@ -1086,7 +1086,7 @@
       "considerably"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「considerably」です。直前の過去分詞 expanded を修飾しています。"
   },
   {
     "question": "Torres Furniture's old location has been ------- since last February, when the store moved to 1630 Sherman Avenue.",
@@ -1097,7 +1097,7 @@
       "vacantly"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「vacant」です。be動詞(been)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "The results of recent water quality monitoring in the area verify that community health and safety concerns have been ------- addressed.",
@@ -1108,7 +1108,7 @@
       "effectiveness"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「effectively」です。be動詞(been)の後ろで分詞 addressed を修飾し、動作の様子を表しています。"
   },
   {
     "question": "The curtains, designed by Elaine Hutton, are ------- by such distinctive motifs as tulips, stylized birds, and other animals.",
@@ -1119,7 +1119,7 @@
       "identifiable"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は形容詞の「identifiable」です。be動詞(are)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "The ------- use of office space and equipment in the Tokyo branch has been emulated by several of the other international branches.",
@@ -1130,7 +1130,7 @@
       "economist"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「economical」です。後ろの名詞 use を修飾しています。"
   },
   {
     "question": "For the agreement to be -------, you need to fill out the attached application form and submit it to the human resources manager.",
@@ -1141,7 +1141,7 @@
       "validates"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「valid」です。be動詞(be)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Huber Online Bookstore guarantees ------- of your order within two working days, provided you order before 4 P.M.",
@@ -1152,7 +1152,7 @@
       "delivery"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「delivery」です。この文の主語(S)になっています。"
   },
   {
     "question": "One of the ------- of the office manager is to identify volunteers for the emergency evacuation team.",
@@ -1163,7 +1163,7 @@
       "responsibilities"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「responsibilities」です。直前の前置詞 of の目的語になっています。"
   },
   {
     "question": "Ms. Kim received a ------- just three months after being hired as a sales representative at Wilson Manufacturing.",
@@ -1174,7 +1174,7 @@
       "promoted"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「promotion」です。動詞 received の目的語(O)になっています。"
   },
   {
     "question": "The product concept is derived from the Karaoke sing-along, a popular pastime in Japan that has been ------- successful in the U.S. as well.",
@@ -1185,7 +1185,7 @@
       "moderator"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「moderately」です。be動詞(been)の後ろで形容詞 successful を修飾しています。"
   },
   {
     "question": "Due to positive reviews and popular demand, the theatrical production will continue for an ------- period of time.",
@@ -1196,7 +1196,7 @@
       "extension"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「extended」です。後ろの名詞 period を修飾しています。"
   },
   {
     "question": "R&D managers must ------- find a way to reduce the production cost of the new portable computer.",
@@ -1207,7 +1207,7 @@
       "quickly"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「quickly」です。助動詞 must と動詞の原形 find の間に置かれ、動詞を修飾しています。"
   },
   {
     "question": "A well-designed logo that is ------- recognizable makes a company seem more dependable.",
@@ -1218,7 +1218,7 @@
       "universality"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「universally」です。be動詞(is)の後ろで形容詞 recognizable を修飾しています。"
   },
   {
     "question": "Located approximately 150 miles south of Rome, Deer Island can ------- be reached by plane from Napoli Airport.",
@@ -1229,7 +1229,7 @@
       "easiness"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は副詞の「easily」です。助動詞 can と動詞の原形 be の間に置かれ、動詞を修飾しています。"
   },
   {
     "question": "The age of its components and the cost of repair can indicate whether or not it is ------- to purchase a new computer.",
@@ -1240,7 +1240,7 @@
       "necessarily"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「necessary」です。be動詞(is)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Employee training is ------- to running a smooth business and maintaining compliance with industry standards.",
@@ -1251,7 +1251,7 @@
       "vitally"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「vital」です。be動詞(is)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Once the board of directors approves the plan, construction of the new ------- will begin.",
@@ -1262,7 +1262,7 @@
       "building"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「building」です。直前の前置詞 of の目的語になっています。"
   },
   {
     "question": "Strong Steels Inc. is ------- regarded as one of the leading steel engineering companies in Asia.",
@@ -1273,7 +1273,7 @@
       "widely"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「widely」です。be動詞(is)の後ろで分詞 regarded を修飾し、動作の様子を表しています。"
   },
   {
     "question": "Ms. Anderson is looking for a dress that is both ------- and comfortable to wear to her supervisor's retirement party.",
@@ -1284,7 +1284,7 @@
       "more elegantly"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「elegant」です。be動詞(is)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Iznik, the site of the ancient Greek Council of Nicaea, has ------- been an important center for ceramics production.",
@@ -1295,7 +1295,7 @@
       "historically"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「historically」です。have/has/had と過去分詞 been の間に置かれ、過去分詞 been を修飾しています。"
   },
   {
     "question": "Most of the business travelers surveyed rated Starlight Hotel highly because of the ------- of the rooms and its convenient location.",
@@ -1306,7 +1306,7 @@
       "cleans"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「cleanliness」です。直前の前置詞 of の目的語になっています。"
   },
   {
     "question": "Venture capital firms are considering contests that offer competing entrepreneurs multimillion-dollar prizes if they come up with ------- technologies.",
@@ -1317,7 +1317,7 @@
       "innovatively"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「innovative」です。後ろの名詞 technologies を修飾しています。"
   },
   {
     "question": "The company's recent rise in ------- can be attributed to the managerial acumen of the newly appointed CEO, Leonie Wagner.",
@@ -1328,7 +1328,7 @@
       "to profit"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「profitability」です。直前の前置詞 in の目的語になっています。"
   },
   {
     "question": "Smile Fitness Center, an exclusive fitness club in Seoul, is ------- seeking full-time personal trainers.",
@@ -1339,7 +1339,7 @@
       "urgently"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「urgently」です。be動詞(is)の後ろで分詞 seeking を修飾し、動作の様子を表しています。"
   },
   {
     "question": "------- of your order will be sent within 24 hours to the e-mail address you have provided.",
@@ -1350,7 +1350,7 @@
       "Confirming"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「Confirmation」です。この文の主語(S)になっています。"
   },
   {
     "question": "Smokey Joe's café has three ------- in Tokyo, including one recently opened in Aoyama.",
@@ -1361,7 +1361,7 @@
       "locations"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「locations」です。動詞 has の目的語(O)になっています。"
   },
   {
     "question": "During the probationary period, all newly hired engineers of Thunder Engineering work very ------- with their supervisors.",
@@ -1372,7 +1372,7 @@
       "closest"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「closely」です。動詞 work の後ろに置かれて、それを修飾しています(all newly hired engineers ... work very closely with their supervisors)。"
   },
   {
     "question": "The company's annual strategy meeting was held at the headquarters on Tuesday to discuss steps to enhance ------- among the different departments.",
@@ -1383,7 +1383,7 @@
       "cooperation"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「cooperation」です。動詞 enhance の目的語(O)になっています。"
   },
   {
     "question": "The strategic partnership agreement with a leading Canadian business publisher will enable Bear Publishing to reach a ------- group of readers.",
@@ -1394,7 +1394,7 @@
       "diversify"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「diverse」です。後ろの名詞 group を修飾しています。"
   },
   {
     "question": "Situated in the center of Budapest, Royal Sky Hotel is easily ------- to business travelers using public transport.",
@@ -1405,7 +1405,7 @@
       "accessibility"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「accessible」です。be動詞(is)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Please show ------- for other guests by refraining from conversing during the performance.",
@@ -1416,7 +1416,7 @@
       "considerably"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「consideration」です。動詞 show の目的語(O)になっています。"
   },
   {
     "question": "Ms. Carter's presentation included a ------- explanation of the hiring practices leading companies use to find suitable candidates.",
@@ -1427,7 +1427,7 @@
       "lengthen"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「lengthy」です。後ろの名詞 explanation を修飾しています。"
   },
   {
     "question": "Sales figures from the Shinjuku, Shibuya, and Yokohama stores showed a ------- rise in the volume of winter clothing sold during September and October.",
@@ -1438,7 +1438,7 @@
       "noticeably"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「noticeable」です。後ろの名詞 rise を修飾しています。"
   },
   {
     "question": "Mr. Ali ------- threw away the copies of his itinerary for his trip to Mumbai, so he had to have new ones printed.",
@@ -1449,7 +1449,7 @@
       "mistook"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「mistakenly」です。主語と動詞の間に置かれ、動詞 threw を修飾しています。"
   },
   {
     "question": "Repairs on Highway 12 are likely to cause ------- in the delivery of supplies to local restaurants.",
@@ -1460,7 +1460,7 @@
       "be delayed"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「delays」です。動詞 cause の目的語(O)になっています。"
   },
   {
     "question": "The ------- in the produce section of the Freshone Supermarket will feature exotic fruit from Australia.",
@@ -1471,7 +1471,7 @@
       "displayable"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「display」です。この文の主語(S)になっています。"
   },
   {
     "question": "The company picnic will be held on a beach, but the weather ------- is predicting heavy rain.",
@@ -1482,7 +1482,7 @@
       "to forecast"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「forecast」です。この文の主語(S)になっています。"
   },
   {
     "question": "The board conducted a second round of ------- with the four selected candidates for the position on Tuesday.",
@@ -1493,7 +1493,7 @@
       "interviewer"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「interviews」です。直前の前置詞 of の目的語になっています。"
   },
   {
     "question": "More than half of the respondents said television was more ------- than any other form of advertising.",
@@ -1504,7 +1504,7 @@
       "memorably"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「memorable」です。be動詞(was)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "All students who wish to be considered for financial aid for the fall semester should file their ------- by May 30.",
@@ -1515,7 +1515,7 @@
       "applies"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「applications」です。動詞 file の目的語(O)になっています。"
   },
   {
     "question": "Texas Carbide is looking for three marketing professionals who have work experience in the textile -------.",
@@ -1526,7 +1526,7 @@
       "industrialist"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「industry」です。直前の前置詞 in の目的語になっています。"
   },
   {
     "question": "The company performed well this year and ------- surpassed last year's profits.",
@@ -1537,7 +1537,7 @@
       "nearness"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「nearly」です。後ろの過去分詞 surpassed を修飾しています。"
   },
   {
     "question": "After the six-month probationary period, new employees may be eligible for an ------- in salary.",
@@ -1548,7 +1548,7 @@
       "increased"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「increase」です。直前の前置詞 for の目的語になっています。"
   },
   {
     "question": "It took several days for the managers to decide on which applicant was the most ------- for the position.",
@@ -1559,7 +1559,7 @@
       "qualifies"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「qualified」です。be動詞(was)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "In December, toy stores usually receive lots of shipments and prices remain ------- until after the holidays.",
@@ -1570,7 +1570,7 @@
       "competition"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「competitive」です。remain の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Because of its cool climate, the eastern region of Hokkaido is ------- for dairy farming.",
@@ -1581,7 +1581,7 @@
       "idealistic"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「ideal」です。be動詞(is)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Seth Greene agreed to undertake the ------- task of redesigning the mining equipment.",
@@ -1592,7 +1592,7 @@
       "challenging"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は現在分詞の「challenging」です。ここでは形容詞のように使われ、後ろの名詞 task を修飾し、「やりがいのある、難しい」という意味を表しています。"
   },
   {
     "question": "Mr. Song was recently awarded a prestigious research grant, which should come as no surprise to anyone ------- with his work.",
@@ -1603,7 +1603,7 @@
       "familiarity"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「familiar」です。直前の名詞(代名詞) anyone を後ろから修飾しています。"
   },
   {
     "question": "A week has been set aside in February for new and current staff to undergo employee -------.",
@@ -1614,7 +1614,7 @@
       "training"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「training」です。動詞 undergo の目的語(O)になっています。"
   },
   {
     "question": "Members of the finance ------- have been in deliberations since 10 A.M., discussing the proposed budget cuts.",
@@ -1625,7 +1625,7 @@
       "committee"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「committee」です。直前の前置詞 of の目的語になっています。"
   },
   {
     "question": "Fujiyama Restaurant offers a variety of dishes made from fresh seasonal and ------- grown vegetables.",
@@ -1636,7 +1636,7 @@
       "localize"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「locally」です。後ろの形容詞 grown を修飾しています。"
   },
   {
     "question": "The tables at the banquet were prepared in a style that was ------- yet elegant.",
@@ -1647,7 +1647,7 @@
       "simplification"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「simple」です。be動詞(was)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Conference organizers made arrangements for all ------- guests to be presented with an information package.",
@@ -1658,7 +1658,7 @@
       "arriving"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は現在分詞の「arriving」です。ここでは形容詞のように使われ、後ろの名詞 guests を修飾して「到着する客」という意味を表しています。"
   },
   {
     "question": "The number of orders for the month of May was estimated extremely ------- resulting in a substantial reduction in waste.",
@@ -1669,7 +1669,7 @@
       "accuracies"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「accurately」です。後ろの分詞(-ing形) resulting を修飾しています。"
   },
   {
     "question": "The store display attracted a lot of attention from customers with its ------- colored packages and entertaining animated mannequins.",
@@ -1680,7 +1680,7 @@
       "brightness"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「brightly」です。後ろの過去分詞 colored を修飾しています。"
   },
   {
     "question": "As one of the fastest ------- distributors in the country, Falcon Supply Inc., is known for its commitment to quality.",
@@ -1691,7 +1691,7 @@
       "growth"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は現在分詞の「growing」です。ここでは形容詞のように使われ、fastest とともに後ろの名詞 distributors を修飾し、「最も急成長している卸売業者」という意味を表しています。"
   },
   {
     "question": "Crown Corporation has been the leading ------- of innovative fabrics for over 25 years.",
@@ -1702,7 +1702,7 @@
       "producer"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「producer」です。be動詞(been)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "If all single rooms are already booked, guests will be offered a double room for single use at a ------- higher rate.",
@@ -1713,7 +1713,7 @@
       "correspondence"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「correspondingly」です。後ろの形容詞 higher を修飾しています。"
   },
   {
     "question": "Dylan Clarke has been promoted to the position of marketing manager because he organized a national campaign -------.",
@@ -1724,7 +1724,7 @@
       "commended"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「commendably」です。動詞 organized を修飾しています。"
   },
   {
     "question": "Although construction has already been approved, the city is still looking for an ------- to coordinate the project.",
@@ -1735,7 +1735,7 @@
       "architecturally"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「architect」です。直前の前置詞 for の目的語になっています。"
   },
   {
     "question": "Since his appointment as CEO, Nathan Lee has been running the company much ------- than his predecessor.",
@@ -1746,7 +1746,7 @@
       "more efficiently"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「more efficiently」です。分詞(-ing形) running を修飾しています。"
   },
   {
     "question": "The Independent School Association has welcomed some of the ------- lecturers, authors, and performing artists in California.",
@@ -1757,7 +1757,7 @@
       "most prominently"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「most prominent」です。後ろの名詞 lecturers を修飾しています。"
   },
   {
     "question": "The City University offers masters programs in civil engineering, construction, project -------, and information technology.",
@@ -1768,7 +1768,7 @@
       "management"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「management」です。この文の主語(S)になっています。"
   },
   {
     "question": "Some contractors use special ------- tools to help pinpoint the source of common home problems.",
@@ -1779,7 +1779,7 @@
       "diagnostically"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「diagnostic」です。後ろの名詞 tools を修飾しています。"
   },
   {
     "question": "The policy that late fees are charged for books returned after the due date is stated quite ------- in the agreement.",
@@ -1790,7 +1790,7 @@
       "clearer"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「clearly」です。過去分詞 stated を修飾しています。"
   },
   {
     "question": "Tullox Shoes are constructed in South East Asia according to the ------- standards for durability and comfort.",
@@ -1801,7 +1801,7 @@
       "strictness"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「strictest」です。後ろの名詞 standards を修飾しています。"
   },
   {
     "question": "The highly anticipated second album of William Roy is ------- from the first but no less remarkable.",
@@ -1812,7 +1812,7 @@
       "distinctly"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「distinct」です。be動詞(is)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "The mission of the university store is to provide a wide range of ------- priced merchandise to students and faculty members.",
@@ -1823,7 +1823,7 @@
       "competition"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「competitively」です。後ろの過去分詞 priced を修飾しています。"
   },
   {
     "question": "Easy to handle, light, maneuverable, and powerful, the lawnmower is perfectly ------- to small lawns of up to 2,000 square feet.",
@@ -1834,7 +1834,7 @@
       "suits"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は過去分詞の「suited」です。be動詞 is のあとに置かれて「be suited to〜」(〜に適している)という受け身の述語動詞を作っています。"
   },
   {
     "question": "Japanese cuisine has received a lot of attention in the last 10 years, and ------- has gained popularity all over the world.",
@@ -1845,7 +1845,7 @@
       "consequences"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「consequently」です。後ろの動詞 has を修飾しています。"
   },
   {
     "question": "Should you require ------- with your selection of tools, please talk to one of our experienced advisors.",
@@ -1856,7 +1856,7 @@
       "assists"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「assistance」です。動詞 require の目的語(O)になっています。"
   },
   {
     "question": "Not only does the new sedan have an ------- design, but it also offers its passengers more luggage room.",
@@ -1867,7 +1867,7 @@
       "appealingly"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「appealing」です。後ろの名詞 design を修飾しています。"
   },
   {
     "question": "------- scheduling vacation leave of one full week or more must obtain permission from their supervisors in advance.",
@@ -1878,7 +1878,7 @@
       "Employees"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「Employees」です。この文の主語(S)になっています。"
   },
   {
     "question": "New ------- are eligible for a 30 day free trial period and will receive one free song download upon signing up.",
@@ -1889,7 +1889,7 @@
       "subscribers"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「subscribers」です。この文の主語(S)になっています。"
   },
   {
     "question": "Rubber ------- are working hard to fill orders from the automobile industry which is expecting to sell record numbers of vehicles this year.",
@@ -1900,7 +1900,7 @@
       "producers"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「producers」です。この文の主語(S)になっています。"
   },
   {
     "question": "Fast & Falls is a Dallas-based interior design firm, known for ------- service and a sophisticated style.",
@@ -1911,7 +1911,7 @@
       "personalizing"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「personalized」です。後ろの名詞 service を修飾しています。"
   },
   {
     "question": "This ------- should only be taken as directed by a qualified physician.",
@@ -1922,7 +1922,7 @@
       "medications"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「medication」です。この文の主語(S)になっています。"
   },
   {
     "question": "The jewelry box is covered in a thin layer of hand-stitched black leather stretched ------- around the frame.",
@@ -1933,7 +1933,7 @@
       "tightness"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「tightly」です。直前の動詞 stretched を修飾しています。"
   },
   {
     "question": "Fun Toys is pleased to announce two shipments of the popular game will arrive this month, the first of which should come -------.",
@@ -1944,7 +1944,7 @@
       "shortness"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は副詞の「shortly」です。動詞 come の後ろに置かれて、それを修飾しています。"
   },
   {
     "question": "Ms. Watanabe's new coffee tumbler, which cost over 30 dollars, is stylish as well as -------.",
@@ -1955,7 +1955,7 @@
       "functionally"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「functional」です。「stylish as well as -------」で、be動詞(is)の補語 stylish と対になり、主語を説明する補語(C)になっています。"
   },
   {
     "question": "When placing an order during holiday seasons, please note that it will take ------- five to seven days for the delivery.",
@@ -1966,7 +1966,7 @@
       "approximates"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「approximately」です。後ろの数量表現 five to seven days を修飾しています。"
   },
   {
     "question": "Justin Moore's ------- jazz album from Spark Records combines modern rhythms with traditional elements.",
@@ -1977,7 +1977,7 @@
       "newness"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「newest」です。後ろの名詞 jazz を修飾しています。"
   },
   {
     "question": "The Darren Theater opened on Oct. 5, 1987, ------- eight years before Ms. Gonzalez was hired.",
@@ -1988,7 +1988,7 @@
       "preciseness"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「precisely」です。後ろの eight years という数量表現を修飾し、「ちょうど8年」という意味を表しています。"
   },
   {
     "question": "Mr. McConnell studied Japanese business culture and practices ------- before transferring to the Sendai branch.",
@@ -1999,7 +1999,7 @@
       "exhaustively"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「exhaustively」です。動詞 studied を修飾しています。"
   },
   {
     "question": "Located near the Dallas Convention Center, Hotel Camel is the perfect choice for convention ------- who want accommodations close to the venue.",
@@ -2010,7 +2010,7 @@
       "attended"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「attendees」です。直前の前置詞 for の目的語になっています。"
   },
   {
     "question": "Mr. Larsen's name, which appeared in the original movie, was mistakenly removed from the ------- version.",
@@ -2021,7 +2021,7 @@
       "edits"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「edited」です。後ろの名詞 version を修飾しています。"
   },
   {
     "question": "Only one year after its -------, Denton Publishing was awarded the Prize for Exceptional Creativity at an international competition in Vienna.",
@@ -2032,7 +2032,7 @@
       "foundation"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「foundation」です。直前の前置詞 after の目的語になっています。"
   },
   {
     "question": "Grape Computers is known for running ------- commercials to promote its innovative electronic devices.",
@@ -2043,7 +2043,7 @@
       "imaginary"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「imaginative」です。後ろの名詞 commercials を修飾しています。"
   },
   {
     "question": "Original copies of *Pirate Island* are ------- rare, with only 18 copies in existence, of which 12 are in private hands.",
@@ -2054,7 +2054,7 @@
       "exceedingly"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「exceedingly」です。be動詞(are)の後ろで形容詞 rare を修飾しています。"
   },
   {
     "question": "Most users agree that the new smartphone has a ------- better picture and sound quality.",
@@ -2065,7 +2065,7 @@
       "noticing"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「noticeably」です。後ろの比較級 better(形容詞的に picture を修飾する語)を修飾し、「目に見えて良くなった」という意味を表しています。"
   },
   {
     "question": "While Fire Art's new video games have already been launched in Asia, they will not be available ------- anytime soon.",
@@ -2076,7 +2076,7 @@
       "globalization"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「globally」です。直前の形容詞 available を修飾しています。"
   },
   {
     "question": "Presented by Whole Family Foods, the event will feature cooking ------- and activities for kids.",
@@ -2087,7 +2087,7 @@
       "demonstrated"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「demonstrations」です。動詞 feature の目的語(O)になっています。"
   },
   {
     "question": "Paul Tanaka, the founder of Wheaton Technology, will come to the Seattle headquarters to participate in ------- and interact with employees.",
@@ -2098,7 +2098,7 @@
       "lecturer"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「lectures」です。直前の前置詞 in の目的語になっています。"
   },
   {
     "question": "All staff members of Premium Promotion have extensive experience in ------- or a related field.",
@@ -2109,7 +2109,7 @@
       "advertises"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「advertising」です。直前の前置詞 in の目的語になっています。"
   },
   {
     "question": "The award ceremony would not have been possible without ------- from several members, notably Mal Benjamin, who chairs the award committee.",
@@ -2120,7 +2120,7 @@
       "contributor"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「contributions」です。直前の前置詞 without の目的語になっています。"
   },
   {
     "question": "Since the benefits seemed evident, Mr. Tucker was ------- that his proposal would be accepted by the board of directors.",
@@ -2131,7 +2131,7 @@
       "confidence"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「confident」です。be動詞(was)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "All requests for personal time off must be submitted for ------- using the appropriate request form.",
@@ -2142,7 +2142,7 @@
       "approvingly"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「approval」です。直前の前置詞 for の目的語になっています。"
   },
   {
     "question": "The assistant office manager, Ms. Reed, will explain the ------- paper recycling policy at the next weekly meeting.",
@@ -2153,7 +2153,7 @@
       "revision"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「revised」です。後ろの名詞 paper を修飾しています。"
   },
   {
     "question": "Pacific Home Designs has been a reliable ------- of home furnishings for more than 30 years.",
@@ -2164,7 +2164,7 @@
       "manufacturer"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「manufacturer」です。be動詞(been)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Mr. Li should be available to meet with the newly hired employees this week as he has no ------- travel plans.",
@@ -2175,7 +2175,7 @@
       "scheduler"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は過去分詞の「scheduled」です。ここでは形容詞のように使われ、後ろの名詞句 travel plans を修飾して「予定されている出張」という意味を表しています。"
   },
   {
     "question": "To spread the workload more ------- within the organization, the project team has decided to assign roles to specific individuals.",
@@ -2186,7 +2186,7 @@
       "evenly"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「evenly」です。動詞 spread を修飾しています。"
   },
   {
     "question": "------- are nearly complete for the product demonstration at the press conference on Friday next week.",
@@ -2197,7 +2197,7 @@
       "Preparers"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「Preparations」です。この文の主語(S)になっています。"
   },
   {
     "question": "An ------- large number of our customers now make reservations online rather than by phone.",
@@ -2208,7 +2208,7 @@
       "increasingly"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「increasingly」です。後ろの形容詞 large を修飾しています。"
   },
   {
     "question": "News of Felix Schneider's retirement spread quickly as he had made many friends and ------- during his 20 years on the job.",
@@ -2219,7 +2219,7 @@
       "acquaintances"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「acquaintances」です。この文の主語(S)になっています。"
   },
   {
     "question": "The advertising campaigns Mr. Weyden had developed before he left were ------- implemented by his colleagues.",
@@ -2230,7 +2230,7 @@
       "subsequence"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「subsequently」です。be動詞(were)の後ろで分詞 implemented を修飾し、動作の様子を表しています。"
   },
   {
     "question": "Under ------- and CEO Jack Thompson, Thompson Legal has become a successful law firm within a relatively short span of time.",
@@ -2241,7 +2241,7 @@
       "founded"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「founder」です。直前の前置詞 Under の目的語になっています。"
   },
   {
     "question": "Mr. Aiden Roy, an award-winning ------- at *Calgary Daily Press*, has agreed to chair an ad hoc committee on the newspaper's 75th anniversary.",
@@ -2252,7 +2252,7 @@
       "journalistic"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「journalist」です。文頭の Mr. Aiden Roy と同格の関係にあり、Mr. Aiden Roy がどのような人・会社かを説明しています。"
   },
   {
     "question": "The award will promote workplace values within the company by giving recognition to successful managers who demonstrate ------- for subordinates.",
@@ -2263,7 +2263,7 @@
       "respectable"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「respect」です。動詞 demonstrate の目的語(O)になっています。"
   },
   {
     "question": "Small manufacturers operating using a limited workforce with ------- skills have recently been on the rise.",
@@ -2274,7 +2274,7 @@
       "specialization"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「specialized」です。後ろの名詞 skills を修飾しています。"
   },
   {
     "question": "Happy Wholesale is the main ------- of Wonder Toys' products including toys, video games, and kids' PCs.",
@@ -2285,7 +2285,7 @@
       "distribution"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「distributor」です。be動詞(is)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Current plant workers will be given hiring preference for the newly ------- jobs at the company's production facility in Kawasaki.",
@@ -2296,7 +2296,7 @@
       "creation"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は過去分詞の「created」です。ここでは形容詞のように使われ、直前の副詞 newly とともに後ろの名詞 jobs を修飾し、「新しく作られた仕事」という意味を表しています。"
   },
   {
     "question": "As of February 1, the no-smoking policy at the Mountain Tower apartments will be more ------- enforced.",
@@ -2307,7 +2307,7 @@
       "strictness"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「strictly」です。後ろの過去分詞 enforced を修飾しています。"
   },
   {
     "question": "In the last decade, there has been a ------- rapid increase in the number of public locations for wireless Internet usage.",
@@ -2318,7 +2318,7 @@
       "remarkably"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「remarkably」です。後ろの形容詞 rapid を修飾しています。"
   },
   {
     "question": "All products made by Trust Computers come with a user's manual that contains ------- for installation as well as operating procedures.",
@@ -2329,7 +2329,7 @@
       "explaining"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「explanations」です。動詞 contains の目的語(O)になっています。"
   },
   {
     "question": "During the workshop, small business owners will learn how to develop ------- business relationships with their clients.",
@@ -2340,7 +2340,7 @@
       "prospered"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「prosperous」です。後ろの名詞 business を修飾しています。"
   },
   {
     "question": "Green Net Corporation reported a net profit of 40 million dollars for the third quarter, ------- exceeding analysts' forecasts.",
@@ -2351,7 +2351,7 @@
       "easily"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「easily」です。後ろの分詞(-ing形) exceeding を修飾しています。"
   },
   {
     "question": "Tiger Motors intentionally cut back on fleet sales, which are less ------- than sales to individual customers.",
@@ -2362,7 +2362,7 @@
       "profits"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「profitable」です。be動詞(are)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Newly hired staff members are required to attend a three-day training course on airport -------.",
@@ -2373,7 +2373,7 @@
       "securely"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「security」です。直前の前置詞 on の目的語になっています。"
   },
   {
     "question": "Diego Martinez is going to appear on a prime-time news program as a ------- for the anchor, David Lee.",
@@ -2384,7 +2384,7 @@
       "substitutes"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「substitute」です。直前の前置詞 as の目的語になっています。"
   },
   {
     "question": "Charlie Evans starts his day with a cup of coffee at Turner's Café ------- every morning.",
@@ -2395,7 +2395,7 @@
       "practicing"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「practically」です。後ろの every morning という表現を修飾し、「ほとんど毎朝」という意味を表しています。"
   },
   {
     "question": "If you wish to enroll in the course, please complete the ------- application form and send it to us as quickly as possible.",
@@ -2406,7 +2406,7 @@
       "attachment"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「attached」です。後ろの名詞 application を修飾しています。"
   },
   {
     "question": "The delayed departure of the plane added a further ------- to Mr. Gonzalez's journey.",
@@ -2417,7 +2417,7 @@
       "complication"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「complication」です。動詞 added の目的語(O)になっています。"
   },
   {
     "question": "Nelson College of Marketing will take on a more ------- strategy to attract participants for its training workshops.",
@@ -2428,7 +2428,7 @@
       "aggressor"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「aggressive」です。後ろの名詞 strategy を修飾しています。"
   },
   {
     "question": "Charmody skin cream is only effective if applied ------- and immediately after the skin has been washed.",
@@ -2439,7 +2439,7 @@
       "corrects"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「correctly」です。過去分詞 applied の後ろに置かれて、それを修飾しています。"
   },
   {
     "question": "Every business owner knows that quality of service is a top ------- to attract and retain customers.",
@@ -2450,7 +2450,7 @@
       "prioritized"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「priority」です。be動詞(is)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Lion Construction reported yesterday that its net income had increased by nearly 20 percent in the second quarter, mainly because of ------- market conditions.",
@@ -2461,7 +2461,7 @@
       "improvement"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「improved」です。後ろの名詞 market を修飾しています。"
   },
   {
     "question": "With time running out before the busy season, the board ------- approved a plan to hire temporary factory workers until production targets were met.",
@@ -2472,7 +2472,7 @@
       "swifts"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は副詞の「swiftly」です。主語と動詞の間に置かれ、動詞 approved を修飾しています。"
   },
   {
     "question": "The hiring committee have ------- decided that they will appoint Mr. Tremblay as the next CEO.",
@@ -2483,7 +2483,7 @@
       "seems"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「seemingly」です。have/has/had と過去分詞 decided の間に置かれ、過去分詞 decided を修飾しています。"
   },
   {
     "question": "Tracy Hahn is a ------- trained pastry chef who has been working professionally with chocolate for over 10 years.",
@@ -2494,7 +2494,7 @@
       "formality"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「formally」です。後ろの形容詞 trained を修飾しています。"
   },
   {
     "question": "Mr. Gao ------- grants interviews and almost never allows journalists onto his company's campus.",
@@ -2505,7 +2505,7 @@
       "rareness"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「rarely」です。主語と動詞の間に置かれ、動詞 grants を修飾しています。"
   },
   {
     "question": "Big Buy, an appliance ------- serving New Jersey, has recently opened a new store on Route 17 in Paramus.",
@@ -2516,7 +2516,7 @@
       "retailers"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「retailer」です。文頭の Big Buy と同格の関係にあり、Big Buy がどのような人・会社かを説明しています。"
   },
   {
     "question": "Janet Morris ------- declined an award for product design, as she felt others had contributed much more than her.",
@@ -2527,7 +2527,7 @@
       "respects"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「respectfully」です。主語と動詞の間に置かれ、動詞 declined を修飾しています。"
   },
   {
     "question": "After their flight was canceled, the airline assured passengers that ------- had been made for them to stay at a hotel.",
@@ -2538,7 +2538,7 @@
       "arrangements"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「arrangements」です。この文の主語(S)になっています。"
   },
   {
     "question": "Walter Kling, an accomplished fashion -------, has been hired by the company to create images for the May catalog.",
@@ -2549,7 +2549,7 @@
       "photographer"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「photographer」です。文頭の Walter Kling と同格の関係にあり、Walter Kling がどのような人・会社かを説明しています。"
   },
   {
     "question": "A team of animators was employed to create ------- unique animated logos for the company's television advertisements.",
@@ -2560,7 +2560,7 @@
       "visualizes"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「visually」です。後ろの形容詞 unique を修飾しています。"
   },
   {
     "question": "Please refer to the product identification -------, which is printed in the upper right hand corner of the warranty.",
@@ -2571,7 +2571,7 @@
       "numbering"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「number」です。直前の前置詞 to の目的語になっています。"
   },
   {
     "question": "Residents were concerned about increased traffic and ------- so, considering the size of the housing project approved for their suburb.",
@@ -2582,7 +2582,7 @@
       "understanding"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「understandably」です。「understandably so」という決まった言い方で、直前の内容(traffic が増えて住民が懸念していること)が「もっともなことだ」という話者の判断を表しています。"
   },
   {
     "question": "Any information about the impending merger with Sakura First Bank should be kept strictly -------.",
@@ -2593,7 +2593,7 @@
       "confidentially"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「confidential」です。「be kept confidential」という受け身の形(SVOCの受け身)で、主語の状態を説明する補語(C)になっています。"
   },
   {
     "question": "The Archeological Museum of New York is an inexpensive attraction that is not listed in major guidebooks but well ------- a visit.",
@@ -2604,7 +2604,7 @@
       "worthless"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「worth」です。ふつうの形容詞と違い、後ろに前置詞なしで名詞(a visit)を直接続けることができ、(is) well worth a visit で「一見の価値が十分にある」という意味の補語になっています。"
   },
   {
     "question": "------- the most important invention of the last 60 years, computers are used in almost every aspect of our lives.",
@@ -2615,7 +2615,7 @@
       "Argument"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「Arguably」です。文頭に置かれ、後ろの the most important invention という表現を修飾して、「おそらく〜だろう」という話者の見解を文全体に加えています。"
   },
   {
     "question": "------- with this letter is a survey, which should be returned using the self-addressed envelope also supplied.",
@@ -2626,7 +2626,7 @@
       "Enclosure"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は過去分詞の「Enclosed」です。「Enclosed with A is B」(Aに同封されているのはBです)という倒置の構文で、文頭に置かれて補語(C)の働きをしています。"
   },
   {
     "question": "The Green Scholars Program offers undergraduate students who have a ------- interest in environmental issues an opportunity to attend the Oslo Green Forum.",
@@ -2637,7 +2637,7 @@
       "demonstration"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「demonstrated」です。後ろの名詞 interest を修飾しています。"
   },
   {
     "question": "The ideal candidate for the position will require at least 10 years of work experience in human resources at a ------- level.",
@@ -2648,7 +2648,7 @@
       "managerial"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は形容詞の「managerial」です。後ろの名詞 level を修飾しています。"
   },
   {
     "question": "To ventilate your home during the summer, windows and internal doors should be left ------- overnight in a secure manner.",
@@ -2659,7 +2659,7 @@
       "opens"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「open」です。「be left open」という受け身の形(SVOCの受け身)で、主語の状態を説明する補語(C)になっています。"
   },
   {
     "question": "Scientists at Warsaw's Central Laboratory have been trying to find cleaner ways of ------- coal.",
@@ -2670,7 +2670,7 @@
       "burns"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は動名詞(動詞のing形が名詞の働きをするもの)の「burning」です。前置詞 of の目的語になっており、burning coal で「石炭を燃やすこと」という意味を表しています。"
   },
   {
     "question": "All ------- must be picked up from the storage room at least one hour before the store opens.",
@@ -2681,7 +2681,7 @@
       "delivering"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「deliveries」です。この文の主語(S)になっています。"
   },
   {
     "question": "A survey shows that only an ------- 30 percent of the workforce in the textile industry is female.",
@@ -2692,7 +2692,7 @@
       "estimating"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は過去分詞の「estimated」です。ここでは形容詞のように使われ、後ろの数量表現 30 percent を修飾して「概算で30パーセント」という意味を表しています。"
   },
   {
     "question": "Nishiwaki Corporation has been acquired by Blue Ocean Electronics in a deal ------- at 1 billion yen.",
@@ -2703,7 +2703,7 @@
       "values"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は過去分詞の「valued」です。ここでは形容詞のように使われ、直前の名詞 deal を後ろから修飾し、「10億円と評価された取引」という意味を表しています。"
   },
   {
     "question": "The rules ------- employee use of company-owned mobile phones are outlined in the employee handbook.",
@@ -2714,7 +2714,7 @@
       "concerned"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は現在分詞の「concerning」です。ここでは前置詞のように使われ、直前の名詞 rules を後ろから修飾して「〜に関する規則」という意味を表しています。"
   },
   {
     "question": "Factory workers were ------- of the company for its failure to keep them informed about the shutdown plans.",
@@ -2725,7 +2725,7 @@
       "criticism"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「critical」です。be動詞(were)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "FastLine Computers opened 10 call centers last year and plans to add another 10 this year as part of its growth -------.",
@@ -2736,7 +2736,7 @@
       "initialization"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「initiative」です。直前の前置詞 of の目的語になっています。"
   },
   {
     "question": "------- to the state from Europe consist of food and beverages despite the large farming industry that exists here.",
@@ -2747,7 +2747,7 @@
       "Imported"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「Imports」です。この文の主語(S)になっています。"
   },
   {
     "question": "Only applications from candidates who meet all eligibility ------- will be replied to.",
@@ -2758,7 +2758,7 @@
       "requires"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「requirements」です。動詞 meet の目的語(O)になっています。"
   },
   {
     "question": "Some industry experts predict that Sunrise Computers will continue to make ------- in computer technology.",
@@ -2769,7 +2769,7 @@
       "advanced"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「advances」です。動詞 make の目的語(O)になっています。"
   },
   {
     "question": "Icon Air confirmed today that it plans to resume aircraft ------- at its factory in Kerrville in January after a five-year absence from the market.",
@@ -2780,7 +2780,7 @@
       "production"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「production」です。動詞 resume の目的語(O)になっています。"
   },
   {
     "question": "Furniture ------- made online may be returned for any reason, so long as the packaging has not been removed.",
@@ -2791,7 +2791,7 @@
       "purchasing"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「purchases」です。この文の主語(S)になっています。"
   },
   {
     "question": "Prospective students are required to complete the introductory course prior to ------- for Advanced Programming Theory.",
@@ -2802,7 +2802,7 @@
       "registrar"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は動名詞の「registering」です。前置詞 to の目的語になっており、「prior to registering」(登録する前に)という形で使われています。"
   },
   {
     "question": "Far more calls were received from disappointed fans than ------- after the concerts by Jack Chan were canceled.",
@@ -2813,7 +2813,7 @@
       "anticipated"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は過去分詞の「anticipated」です。「than anticipated」は「than it was anticipated」(予想されていたよりも)を省略した形で、anticipated は受け身の動詞として使われています。"
   },
   {
     "question": "The Indiana Mineral Association has secured a room rate of $109 per night ------- taxes at the Marion Hotel during the annual convention.",
@@ -2824,7 +2824,7 @@
       "excludes"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は現在分詞の「excluding」です。ここでは前置詞のように使われ、「税金を除いて」という意味で直前の宿泊料金の説明を補っています。"
   },
   {
     "question": "Cooper House dental surgery recognizes that all members of the team have a legal and ethical duty to keep patient ------- confidential.",
@@ -2835,7 +2835,7 @@
       "information"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「information」です。動詞 keep の目的語(O)になっています。"
   },
   {
     "question": "The amount of traffic the company Web site attracted before the product launch was an ------- sign for the marketing division.",
@@ -2846,7 +2846,7 @@
       "encourages"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「encouraging」です。be動詞(was)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "As a special benefit for conference attendees, complimentary Wi-Fi service will be available in hotel rooms ------- through this Web site.",
@@ -2857,7 +2857,7 @@
       "booking"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は過去分詞の「booked」です。ここでは形容詞のように使われ、直前の名詞 rooms を後ろから修飾し、「このウェブサイトから予約された部屋」という意味を表しています。"
   },
   {
     "question": "It was decided to post the important safety video on the Internet to ensure that it reached the ------- possible audience.",
@@ -2868,7 +2868,7 @@
       "broaden"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「broadest」です。後ろの名詞 audience を修飾しています。"
   },
   {
     "question": "The parks department has plans for three new inner city parks and has made the information ------- accessible from its Web site.",
@@ -2879,7 +2879,7 @@
       "readiness"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は副詞の「readily」です。後ろの形容詞 accessible を修飾しています。"
   },
   {
     "question": "Eagle Joe's Pizza delivers to Mermaid Waters and ------- areas at no extra cost.",
@@ -2890,7 +2890,7 @@
       "surrounds"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は現在分詞の「surrounding」です。ここでは形容詞として使われ、後ろの名詞 areas を修飾して「周辺の地域」という意味を表しています。"
   },
   {
     "question": "Alan Chan was entrusted with a ------- and costly project due to the high degree of success he had been enjoying.",
@@ -2901,7 +2901,7 @@
       "challengingly"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「challenging」です。後ろの名詞 project を修飾しています。"
   },
   {
     "question": "------- housed in a facility designed by a Swiss architecture firm, the Nagano Youth Museum reopened in October 2012.",
@@ -2912,7 +2912,7 @@
       "Newly"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「Newly」です。後ろの過去分詞 housed を修飾しています。"
   },
   {
     "question": "The apparel catalog is divided into ------- by clothing type so that customers can easily locate the items they wish to purchase.",
@@ -2923,7 +2923,7 @@
       "sectioned"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「sections」です。直前の前置詞 into の目的語になっています。"
   },
   {
     "question": "With its spas, saunas, massage rooms, and fitness center, Stallard Towers Hotel provides a ------- stay for business and leisure travelers alike.",
@@ -2934,7 +2934,7 @@
       "refreshments"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「refreshing」です。後ろの名詞 stay を修飾しています。"
   },
   {
     "question": "Colorado Café will introduce a new line of coffee with a free ------- at Braxton Supermarket on Thursday, June 16, from 2 P.M.",
@@ -2945,7 +2945,7 @@
       "taste"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「tasting」です。直前の前置詞 with の目的語になっています。"
   },
   {
     "question": "A recent survey found that more than a quarter of Japanese mobile broadband subscribers are ------- to renew their contracts.",
@@ -2956,7 +2956,7 @@
       "unlikeness"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「unlikely」です。be動詞(are)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "After having lived in a small town in Ohio for ten years, Ms. Wright wants to move to a more ------- city like New York.",
@@ -2967,7 +2967,7 @@
       "stimulating"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は形容詞の「stimulating」です。後ろの名詞 city を修飾しています。"
   },
   {
     "question": "This book contains 15 tips to help improve ------- morale and boost productivity within an organization.",
@@ -2978,7 +2978,7 @@
       "employee"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「employee」です。後ろの名詞 morale を直接修飾して、employee morale のような複合名詞(名詞+名詞)を作っています。"
   },
   {
     "question": "Now the owner of a large restaurant chain, Mr. Lim believes that persistence is a ------- of a successful entrepreneur.",
@@ -2989,7 +2989,7 @@
       "characterization"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「characteristic」です。be動詞(is)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "According to a recent survey, real estate agencies remain cautiously ------- about the housing market in Miami.",
@@ -3000,7 +3000,7 @@
       "optimism"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「optimistic」です。remain の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "In her recent book, *Marketing Success*, the author claims that ------- targeting specific audiences are often the most successful.",
@@ -3011,7 +3011,7 @@
       "advertises"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「advertisements」です。この文の主語(S)になっています。"
   },
   {
     "question": "Thanks to clear skies and careful -------, the seventh annual Greenfield Road Race saw its biggest turnout yet, with approximately 500 runners.",
@@ -3022,7 +3022,7 @@
       "planner"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「planning」です。この文の主語(S)になっています。"
   },
   {
     "question": "The Axis 3000, a new energy-efficient hybrid car, has extraordinary ------- for global sales, said automotive writer, Alex Tokudaiji.",
@@ -3033,7 +3033,7 @@
       "potentiality"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「potential」です。動詞 has の目的語(O)になっています。"
   },
   {
     "question": "Mr. Hoffman, a company spokesperson, said on TV that Nile Electronics Ltd. has raised worker ------- through consistent training programs.",
@@ -3044,7 +3044,7 @@
       "productively"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「productivity」です。動詞 raised の目的語(O)になっています。"
   },
   {
     "question": "Since its ------- 50 years ago, the Richmond Chamber of Commerce has worked tirelessly to build the local economy.",
@@ -3055,7 +3055,7 @@
       "established"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「establishment」です。直前の前置詞 Since の目的語になっています。"
   },
   {
     "question": "Seaside Resort Hotel is offering ------- of up to 40 percent on all stays until September 30 as long as they are booked by July 1.",
@@ -3066,7 +3066,7 @@
       "discounting"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「discounts」です。動詞 offering の目的語(O)になっています。"
   },
   {
     "question": "If guests find noise from the renovation work -------, they may transfer to another local hotel after the first day.",
@@ -3077,7 +3077,7 @@
       "objectionable"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は形容詞の「objectionable」です。「find noise ... objectionable」(SVOC)の形で、目的語 noise を説明する補語(C)になっています。"
   },
   {
     "question": "When renovations are required, a completed building ------- form must be forwarded to the department head.",
@@ -3088,7 +3088,7 @@
       "modification"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「modification」です。後ろの名詞 form を直接修飾して、modification form のような複合名詞(名詞+名詞)を作っています。"
   },
   {
     "question": "Superior Design Company has held ------- among its employees to create its new company logo.",
@@ -3099,7 +3099,7 @@
       "competitively"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「competitions」です。動詞 held の目的語(O)になっています。"
   },
   {
     "question": "As part of the marketing study, customers were given samples of three different fruit juices with brand labels ------- concealed.",
@@ -3110,7 +3110,7 @@
       "purposely"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「purposely」です。主語と動詞の間に置かれ、動詞 concealed を修飾しています。"
   },
   {
     "question": "Some business leaders believe increasing the size of their organizations will lead to corporate -------.",
@@ -3121,7 +3121,7 @@
       "prospered"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「prosperity」です。直前の前置詞 to の目的語になっています。"
   },
   {
     "question": "The application deadline for Speedsoft's summer internship program is drawing -------, so interested students should contact the office by April 30.",
@@ -3132,7 +3132,7 @@
       "nearby"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は副詞の「near」です。分詞(-ing形) drawing の後ろに置かれて、それを修飾しています。"
   },
   {
     "question": "Classic Line perfume is the ------- of one of the most well-known fragrance designers in Asia.",
@@ -3143,7 +3143,7 @@
       "creating"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「creation」です。be動詞(is)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "There is still some uncertainty among the employees as to how ------- the new advertising campaign will be in boosting sales.",
@@ -3154,7 +3154,7 @@
       "effective"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は形容詞の「effective」です。「how ------- ... will be」は「~はどれくらい効果的か」という間接疑問文で、be動詞(will be)の補語になっています。"
   },
   {
     "question": "The Flagstaff city council is committed to ------- the environment and has approved a plan to encourage more residents to commute by bicycle.",
@@ -3165,7 +3165,7 @@
       "preserves"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は動名詞の「preserving」です。前置詞 to の目的語になっており、「committed to preserving the environment」(環境を守ることに力を注いでいる)という形で使われています。"
   },
   {
     "question": "The new range of McGinty silicon mobile phone covers are fashionable and ------- priced.",
@@ -3176,7 +3176,7 @@
       "affordability"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「affordably」です。後ろの過去分詞 priced を修飾しています。"
   },
   {
     "question": "Max Davis's books are borrowed from the library so ------- that it has become necessary to purchase additional copies.",
@@ -3187,7 +3187,7 @@
       "frequently"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「frequently」です。過去分詞 borrowed を修飾しています。"
   },
   {
     "question": "An ------- 10 percent discount is available to shoppers who show their loyalty card to staff at the register.",
@@ -3198,7 +3198,7 @@
       "addition"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「additional」です。後ろの 10 percent discount という表現全体を修飾し、「追加の10パーセント割引」という意味を表しています。"
   },
   {
     "question": "The seminar started about 30 minutes later than ------- scheduled, as many of those who had signed up were delayed by the weather.",
@@ -3209,7 +3209,7 @@
       "origin"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「originally」です。後ろの過去分詞 scheduled を修飾しています。"
   },
   {
     "question": "Professor Santiago is ------- that he can find a qualified assistant by the end of the month.",
@@ -3220,7 +3220,7 @@
       "doubtfully"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「doubtful」です。be動詞(is)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Barrow Construction is committed to providing the highest quality service to our customers in a ------- and efficient fashion.",
@@ -3231,7 +3231,7 @@
       "timeliness"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「timely」です。後ろの名詞 fashion を修飾しています。"
   },
   {
     "question": "Now that Alex Gupta has hired additional sales clerks for the store, he hopes that there will be fewer ------- from shoppers.",
@@ -3242,7 +3242,7 @@
       "complaints"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「complaints」です。be動詞(be)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "All inquiries ------- the Orange Appliance returns policy should be directed to the e-mail address provided on the warranty form.",
@@ -3253,7 +3253,7 @@
       "regards"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は現在分詞の「regarding」です。ここでは前置詞のように使われ、直前の名詞 inquiries を後ろから修飾して「〜に関する問い合わせ」という意味を表しています。"
   },
   {
     "question": "All car batteries sold at Oil World come with a ------- two-year warranty.",
@@ -3264,7 +3264,7 @@
       "comprehensiveness"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「comprehensive」です。後ろの名詞 warranty を修飾しています。"
   },
   {
     "question": "All of the negotiations that had been held between the two companies became ------- after ownership changed hands this month.",
@@ -3275,7 +3275,7 @@
       "pointless"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は形容詞の「pointless」です。became の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Breakthrough Business School is rated highly among students as its teachers ------- engage in discussions with students before and after classes.",
@@ -3286,7 +3286,7 @@
       "activity"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「actively」です。主語と動詞の間に置かれ、動詞 engage を修飾しています。"
   },
   {
     "question": "In recent years, municipal governments have taken on ------- more responsibilities for social services and community development than in the past.",
@@ -3297,7 +3297,7 @@
       "considerably"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「considerably」です。後ろの形容詞 more を修飾しています。"
   },
   {
     "question": "Lorenzo Rossi, the CEO of Rossi Cosmetics, announced his decision to appoint Ms. Moretti as vice-president, ------- next month.",
@@ -3308,7 +3308,7 @@
       "effectively"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「effective」です。後ろの名詞 month を修飾しています。"
   },
   {
     "question": "All of the artwork used in the short film was painted by John English, a local animation -------.",
@@ -3319,7 +3319,7 @@
       "enthusiast"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「enthusiast」です。この文の主語(S)になっています。"
   },
   {
     "question": "Donations to the school's art department are strictly ------- and contributions are only accepted anonymously.",
@@ -3330,7 +3330,7 @@
       "volunteered"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「voluntary」です。be動詞(are)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Tullworth Stores provide refunds and exchanges only for items ------- by the original receipts.",
@@ -3341,7 +3341,7 @@
       "accompanied"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は過去分詞の「accompanied」です。ここでは形容詞のように使われ、直前の名詞 items を後ろから修飾し、「領収書が添えられた商品」という意味を表しています。"
   },
   {
     "question": "As -------, Nobel Corporations' new advertising campaign has increased its sales substantially in the southern region of the country.",
@@ -3352,7 +3352,7 @@
       "predicted"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は過去分詞の「predicted」です。文頭の「As predicted」は「As it was predicted」(予想通り)を省略した表現で、predicted は受け身の動詞として文全体を修飾しています。"
   },
   {
     "question": "At *Metal Rock Magazine*, rules regarding the submission deadlines for articles are applied ------- than at other publications.",
@@ -3363,7 +3363,7 @@
       "more stringently"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「more stringently」です。受け身の文(be動詞+過去分詞)の後ろに置かれ、過去分詞 applied を修飾しています。"
   },
   {
     "question": "The Thomas Walker Comic Fair's director of public relations said that he was surprised at how ------- the tickets had been sold.",
@@ -3374,7 +3374,7 @@
       "quickest"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「quickly」です。「how ------- the tickets had been sold」は「チケットがどれくらい早く売れたか」という間接疑問文で、後ろの動詞 sold(had been sold)を修飾しています。"
   },
   {
     "question": "With thousands of visitors attending the Harbor Markets' events, all vendors must park their cars in the ------- area.",
@@ -3385,7 +3385,7 @@
       "designation"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「designated」です。後ろの名詞 area を修飾しています。"
   },
   {
     "question": "BookOn has reported that Oliver Harris, a senior vice president, is a ------- candidate to take over from Ms. Hoffmann as CEO.",
@@ -3396,7 +3396,7 @@
       "likeness"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は形容詞の「likely」です。be動詞(is)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Your mailing and e-mail addresses are kept entirely ------- and used solely for the purpose of notifying you of upcoming shows at Roadside Theater.",
@@ -3407,7 +3407,7 @@
       "privately"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「private」です。「be kept private」という受け身の形(SVOCの受け身)で、主語の状態を説明する補語(C)になっています。"
   },
   {
     "question": "When making an online flight booking, passengers are requested to specify their meal -------.",
@@ -3418,7 +3418,7 @@
       "preferences"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「preferences」です。動詞 specify の目的語(O)になっています。"
   },
   {
     "question": "The results of the survey were declared ------- when an error was found in the counting system.",
@@ -3429,7 +3429,7 @@
       "invalided"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「invalid」です。「be declared invalid」という受け身の形(SVOCの受け身)で、主語の状態を説明する補語(C)になっています。"
   },
   {
     "question": "The Glasgow Glass Factory recently issued important updates to its ------- regulations for employees.",
@@ -3440,7 +3440,7 @@
       "safes"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「safety」です。後ろの名詞 regulations を直接修飾して、safety regulations のような複合名詞(名詞+名詞)を作っています。"
   },
   {
     "question": "According to a recent survey, a company's performance is ------- on employees' perceptions that they are receiving fair performance evaluations.",
@@ -3451,7 +3451,7 @@
       "dependent"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は形容詞の「dependent」です。be動詞(is)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "An ------- from Ms. Nielsen's award-winning novel, *Number the Stars* was printed in today's *Copenhagen Times*.",
@@ -3462,7 +3462,7 @@
       "extractability"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「extract」です。この文の主語(S)になっています。"
   },
   {
     "question": "Mr. Schulz said that results in the first half of the fiscal year were not always ------- of outcomes for the full year.",
@@ -3473,7 +3473,7 @@
       "indication"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「indicative」です。be動詞(were)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Mars Motors' new clamping system makes their vehicles ------- even during emergency braking.",
@@ -3484,7 +3484,7 @@
       "controls"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「controllable」です。「make + 目的語 + 形容詞」(〜を…な状態にする)の形で、目的語 vehicles を説明する補語(C)になっています。"
   },
   {
     "question": "The newspaper recently employed an interior designer to match the drapes and wallpaper ------- with the antique desk in the editor's office.",
@@ -3495,7 +3495,7 @@
       "perfection"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は副詞の「perfectly」です。動詞 match の後ろに置かれて、それを修飾しています(match the drapes and wallpaper perfectly with the antique desk)。"
   },
   {
     "question": "The walls of the main dining room were decorated with a pattern ------- different from the other dining areas to create a sense of exclusivity.",
@@ -3506,7 +3506,7 @@
       "distinction"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「distinctly」です。後ろの形容詞 different を修飾しています。"
   },
   {
     "question": "Yamato Insurance Group has designed a new automobile insurance policy ------- to appeal to senior drivers.",
@@ -3517,7 +3517,7 @@
       "specifically"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「specifically」です。過去分詞 designed を修飾しています。"
   },
   {
     "question": "OnePhone is getting ready to send a software update to its customers that will allow the device to more ------- display signal reception.",
@@ -3528,7 +3528,7 @@
       "accuracies"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は副詞の「accurately」です。後ろの形容詞 display を修飾しています。"
   },
   {
     "question": "A number of major airlines are planning to offer Internet ------- to passengers on international flights for a fee.",
@@ -3539,7 +3539,7 @@
       "connects"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「connections」です。この文の主語(S)になっています。"
   },
   {
     "question": "Mr. Lydon is an ------- musician who has performed with several of the world's most famous symphonic orchestras.",
@@ -3550,7 +3550,7 @@
       "accomplishment"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は形容詞の「accomplished」です。be動詞(is)の後ろに置かれて、主語を説明する補語(C)になっています。"
   },
   {
     "question": "Due to low ------- last year, it has been decided that this year's conference will be held in a smaller venue.",
@@ -3561,7 +3561,7 @@
       "attending"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「attendance」です。直前の前置詞 to の目的語になっています。"
   },
   {
     "question": "Tropical Hotel's central location makes it ------- for business and leisure travelers who wish to stay in the hub of Melbourne.",
@@ -3572,7 +3572,7 @@
       "idealization"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は形容詞の「ideal」です。「makes it ideal」(SVOC)の形で、目的語 it を説明する補語(C)になっています。"
   },
   {
     "question": "Many restaurants in the state have been selling their ------- cooking oil for use as an alternative fuel source.",
@@ -3583,7 +3583,7 @@
       "uses"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は過去分詞の「used」です。ここでは形容詞のように使われ、後ろの名詞句 cooking oil を修飾して「使用済みの食用油」という意味を表しています。"
   },
   {
     "question": "Some delays can be expected during the ------- of the Southeast Freeway from two lanes to four.",
@@ -3594,7 +3594,7 @@
       "width"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「widening」です。直前の前置詞 during の目的語になっています。"
   },
   {
     "question": "Seminar ------- who filled in the survey on the last day were awarded a pen marked with the logo of the organizers.",
@@ -3605,7 +3605,7 @@
       "participants"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は名詞の「participants」です。この文の主語(S)になっています。"
   },
   {
     "question": "Lucas Janssen has requested that the marketing department examine trends ------- when implementing promotional campaigns.",
@@ -3616,7 +3616,7 @@
       "more attentively"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は副詞の「more attentively」です。動詞 examine を修飾しています。"
   },
   {
     "question": "Each ------- is asked to fill out an evaluation form to provide comments and suggestions for improving the workshop.",
@@ -3627,7 +3627,7 @@
       "individualism"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "正解は名詞の「individual」です。この文の主語(S)になっています。"
   },
   {
     "question": "The acknowledgements section of a book usually appears on the page ------- the table of contents.",
@@ -3638,7 +3638,7 @@
       "follower"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は現在分詞の「following」です。ここでは前置詞のように使われ、直前の名詞 page を後ろから修飾して「目次の次のページ」という意味を表しています。"
   },
   {
     "question": "Philips Pharmaceuticals announced to ------- that its sales revenue in the fourth quarter is likely to exceed expectations.",
@@ -3649,7 +3649,7 @@
       "investing"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "正解は名詞の「investors」です。直前の前置詞 to の目的語になっています。"
   },
   {
     "question": "Of all the ------- in the museum, the landscape painting by Susan Owen is by far the most famous.",
@@ -3660,7 +3660,7 @@
       "worked"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "正解は名詞の「works」です。この文の主語(S)になっています。"
   },
   {
     "question": "Please ensure that your submissions are ------- with the requirements of the Jules Mann Art Prize as outlined in the rulebook.",
@@ -3671,6 +3671,6 @@
       "compliant"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "正解は形容詞の「compliant」です。be動詞(are)の後ろに置かれて、主語を説明する補語(C)になっています。"
   }
 ]
