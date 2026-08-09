@@ -1,20 +1,3676 @@
 [
   {
-    "question": "The manager asked the staff to ______ the report before Friday.",
-    "choices": ["complete", "completes", "completing", "completion"],
-    "answer": 0,
-    "explanation": "ask + 人 + to do の形なので動詞の原形(complete)が入る。"
+    "question": "------- to the Queensland Museum from local residents and corporations are welcome but entirely optional.",
+    "choices": [
+      "Donate",
+      "Donating",
+      "Donated",
+      "Donations"
+    ],
+    "answer": 3,
+    "explanation": "Queensland博物館への地元の住人の皆さんや企業様からの寄付は歓迎ですが、決して強制ではありません。"
   },
   {
-    "question": "Sales figures have improved significantly ______ the new marketing strategy.",
-    "choices": ["because", "because of", "although", "despite of"],
+    "question": "Roux Corporation conducted an ------- analysis on its new product by surveying its customers.",
+    "choices": [
+      "extend",
+      "extensive",
+      "extensively",
+      "extension"
+    ],
     "answer": 1,
-    "explanation": "後ろに名詞句(the new marketing strategy)が続くのでbecause ofを使う。becauseは後ろに節(主語+動詞)が必要。"
+    "explanation": "Roux社は、顧客にアンケート調査を行うことで、新製品の詳細な分析を行った。"
   },
   {
-    "question": "All employees must submit their expense reports ______ the end of the month.",
-    "choices": ["by", "until", "since", "for"],
+    "question": "The weather in Merizo is very ------- year-round, though there are showers almost daily from December through March.",
+    "choices": [
+      "agreeable",
+      "agree",
+      "agreement",
+      "agreeably"
+    ],
     "answer": 0,
-    "explanation": "期限(〜までに)を表すのでbyを使う。untilは動作の継続(〜まで続ける)を表すので不適切。"
+    "explanation": ""
+  },
+  {
+    "question": "------- for the competition should be submitted by November 28 at the latest.",
+    "choices": [
+      "Enter",
+      "Entered",
+      "Entering",
+      "Entries"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Creek County approved ------- to create a transportation council, which will coordinate the planning of new roads and tunnels.",
+    "choices": [
+      "legislation",
+      "legislate",
+      "legislated",
+      "legislates"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "The award ceremony ------- with a speech by the Chief Executive Officer, Harry Robinson.",
+    "choices": [
+      "opening",
+      "to open",
+      "opener",
+      "opened"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "The ensemble's performance was ------- impressive because they decided to enter the contest at the last minute.",
+    "choices": [
+      "particular",
+      "particularity",
+      "particulars",
+      "particularly"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Ogawara Electronics is going to relocate its corporate headquarters to a larger facility in order to accommodate the ------- of a legal department.",
+    "choices": [
+      "additive",
+      "addition",
+      "added",
+      "add"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "The shareholders meeting will begin ------- at 2 P.M. so all presenters should be well prepared by that time.",
+    "choices": [
+      "prompt",
+      "prompted",
+      "promptly",
+      "promptness"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "During yesterday's press conference, Mr. Shimura ------- denied that the company would acquire Seattle-based White Corporation.",
+    "choices": [
+      "emphasized",
+      "emphatic",
+      "emphatically",
+      "emphasis"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "A proposal to upgrade the data security software will be considered at the next ------- scheduled meeting.",
+    "choices": [
+      "regulating",
+      "regularly",
+      "regulate",
+      "regulation"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Job ------- will be posted on the college Web site and normally remain open for one to two weeks depending on the position.",
+    "choices": [
+      "open",
+      "opens",
+      "opened",
+      "openings"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "During the company banquet, David Thomas was presented with a watch in ------- of his thirty years of service.",
+    "choices": [
+      "appreciate",
+      "appreciated",
+      "appreciating",
+      "appreciation"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Shipping costs will be calculated ------- at the sales counter based on the product weight, size, and destination.",
+    "choices": [
+      "automatic",
+      "automatically",
+      "automation",
+      "automated"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Passengers on Air Atlanta may cancel their ------- for a nominal fee, if the requests are filed one week in advance.",
+    "choices": [
+      "book",
+      "booked",
+      "bookings",
+      "bookable"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Ms. Kelly was able to solve the issues with the new software ------- after consulting Mr. Lee in the technical support department.",
+    "choices": [
+      "easily",
+      "easy",
+      "eased",
+      "ease"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Mr. Garcia's ------- for updating the current inventory control system will be reviewed at the next board meeting.",
+    "choices": [
+      "recommend",
+      "recommending",
+      "recommendation",
+      "recommendable"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Department managers are required to ensure all the staff members they supervise have a ------- understanding of the company mission.",
+    "choices": [
+      "clear",
+      "clearly",
+      "clarity",
+      "clears"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Yearly utility costs for the new energy efficient headquarters will be about 50% lower than those of ------- designed buildings.",
+    "choices": [
+      "conventionally",
+      "convention",
+      "conventions",
+      "conventional"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "New and transferred employees must become ------- with company policies and procedures in order to perform their jobs safely and efficiently.",
+    "choices": [
+      "familiar",
+      "familiarize",
+      "familiarizing",
+      "familiarization"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Dream Painting Ltd. is a painting contractor with a solid reputation for ------- completing projects by tight deadlines.",
+    "choices": [
+      "success",
+      "successful",
+      "successfully",
+      "succeed"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Over the past few years as the domestic market has matured, manufacturers in Japan have ------- turned to overseas markets.",
+    "choices": [
+      "increase",
+      "increases",
+      "increasing",
+      "increasingly"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "The purpose of the survey is to collect information from our customers in order to make our operations more efficient and -------.",
+    "choices": [
+      "rely",
+      "reliable",
+      "reliably",
+      "reliance"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "The most recently completed section of the water tunnel is considered to be the largest ------- project ever undertaken in Nagasaki.",
+    "choices": [
+      "construct",
+      "constructed",
+      "constructs",
+      "construction"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Some of the ------- for employees at Sky Manufacturing include a company car and company stock options.",
+    "choices": [
+      "benefit",
+      "benefits",
+      "beneficial",
+      "beneficially"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Francesco Romano opened a new wellness ------- on the first floor of his house after quitting his job as a television repairman.",
+    "choices": [
+      "facilitate",
+      "facility",
+      "facilitates",
+      "facilitation"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "According to the event manager, it is important to complete urgent ------- in order of importance.",
+    "choices": [
+      "task",
+      "tasked",
+      "tasking",
+      "tasks"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Harold's Ice Cream recently launched a newly ------- Web site that showcases its innovative ice-cream desserts.",
+    "choices": [
+      "design",
+      "designs",
+      "designed",
+      "designing"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "The demand for electric automobiles has increased by ------- 50 percent over the past 10 years in Australia.",
+    "choices": [
+      "nears",
+      "nearly",
+      "nearing",
+      "nearness"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Half of the board members of Bell Corporation are appointed on a ------- two-year basis.",
+    "choices": [
+      "rotate",
+      "rotates",
+      "rotating",
+      "rotation"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Restoration work on the Marysville Museum is ------- much slower than residents had hoped.",
+    "choices": [
+      "regret",
+      "regretful",
+      "regrettable",
+      "regrettably"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "On many ------- Ms. Humphrey sketched and painted until after midnight, when the only sound was the cooing of pigeons on the roof.",
+    "choices": [
+      "occasionally",
+      "occasions",
+      "occasional",
+      "occasion"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Word-of-mouth ------- is considered highly effective, but remains a rarely studied phenomenon.",
+    "choices": [
+      "advertise",
+      "advertised",
+      "advertising",
+      "advertisements"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "It is the job of cabin attendants to make passengers feel as ------- as possible during the flight.",
+    "choices": [
+      "comfortable",
+      "comfortably",
+      "comfort",
+      "comforting"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Mr. Tomiyasu returned the ------- merchandise to the manufacturer at his own expense.",
+    "choices": [
+      "defect",
+      "defective",
+      "defectively",
+      "defection"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Mr. Santos, who joined Wood Eco Institute just three months ago, has already proved himself to be a ------- employee.",
+    "choices": [
+      "value",
+      "valuable",
+      "valuing",
+      "valuation"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "A customer placing an order through our Web site should receive a ------- within 24 hours.",
+    "choices": [
+      "response",
+      "respond",
+      "responded",
+      "responding"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "After 30 years of ------- to Johnson City, Donna Stover stepped down as mayor and council secretary.",
+    "choices": [
+      "serve",
+      "served",
+      "serves",
+      "service"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Mr. Sanders won this quarter's Best Employee award for his ------- service to clients and early achievement of his yearly sales target.",
+    "choices": [
+      "except",
+      "exceptional",
+      "exceptionally",
+      "exceptions"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "The appearance of the CEO at the Beijing Motor Show was a ------- that his company is eager to expand into China.",
+    "choices": [
+      "reminder",
+      "remind",
+      "reminded",
+      "reminding"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Public health inspectors monitor pools ------- to ensure that they meet specific guidelines and local laws.",
+    "choices": [
+      "regular",
+      "regulate",
+      "regularly",
+      "regularity"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "The final chapter is the most ------- part of *Amazing Ads*, in which the author provides reviews, remarks, and analyses of a number of advertising strategies.",
+    "choices": [
+      "essence",
+      "essential",
+      "essentially",
+      "essentiality"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "A change in the price of ------- is expected by the end of the year.",
+    "choices": [
+      "electrify",
+      "electrical",
+      "electrically",
+      "electricity"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Employees are reminded to record their vacation days ------- on their time sheets.",
+    "choices": [
+      "careful",
+      "more careful",
+      "carefully",
+      "carefulness"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Sun Watch Corporation offers ------- replacement batteries for all of its products.",
+    "choices": [
+      "free",
+      "freely",
+      "freeing",
+      "freedom"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Mr. Yashima spoke ------- with the vice president about his decision to step down as CEO.",
+    "choices": [
+      "exclusively",
+      "exclusive",
+      "exclusivity",
+      "exclusiveness"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Summaries of the ------- among the hiring committee will be distributed to board members by the end of the week.",
+    "choices": [
+      "discuss",
+      "discussed",
+      "discusses",
+      "discussions"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "The best way to help people reduce their ------- on non-renewable energy sources is to educate consumers about the potential of solar energy.",
+    "choices": [
+      "dependent",
+      "dependently",
+      "dependable",
+      "dependence"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "It is important that the materials used for the building be ------- for the climate of the area.",
+    "choices": [
+      "suit",
+      "suitable",
+      "suitably",
+      "suitability"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "There are blankets and pillows in the overhead compartments for the passengers'------- during the flight.",
+    "choices": [
+      "comfortable",
+      "comforted",
+      "comfortably",
+      "comfort"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Please view the written ------- of the product online before contacting a company representative with a question.",
+    "choices": [
+      "describe",
+      "describes",
+      "described",
+      "description"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Lucky Corporation often receives interest from the most promising applicants because of the ------- package it offers to its staff.",
+    "choices": [
+      "attract",
+      "attractive",
+      "attractively",
+      "attraction"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "The Westchester Philharmonic received a ------- award for its education program three years ago.",
+    "choices": [
+      "nation",
+      "national",
+      "nationality",
+      "nationally"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "City employees ------- endorsed the new benefits plan proposed by the city's Department of Health.",
+    "choices": [
+      "enthusiastically",
+      "enthusiastic",
+      "enthusiasm",
+      "enthuse"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "It is estimated that Coyote Oil's net profit last year was in ------- of 1 billion dollars.",
+    "choices": [
+      "excessive",
+      "excess",
+      "excessively",
+      "exceed"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "The Department of Transportation has ------- requested information about Mr. Becker's updated address.",
+    "choices": [
+      "repeat",
+      "repeated",
+      "repeatedly",
+      "repeats"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Buy one of our surfboards and get a free ------- to *Surfing Life* magazine.",
+    "choices": [
+      "subscription",
+      "subscribe",
+      "subscribed",
+      "subscribing"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "The supermarket chain has had a very successful year under the ------- of its new CEO, Aditya Kumar.",
+    "choices": [
+      "direct",
+      "direction",
+      "directed",
+      "directly"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "No seats for the concert are guaranteed unless you make ------- and payments in advance.",
+    "choices": [
+      "reserve",
+      "reserves",
+      "reserved",
+      "reservations"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "The new sales manager has been putting an ------- on attracting new clients rather than just selling higher volumes.",
+    "choices": [
+      "emphasize",
+      "emphasized",
+      "emphasis",
+      "emphasizes"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "A reviewer who attended the opening night of Max Cabernet's new musical reported that it was exciting and -------.",
+    "choices": [
+      "memory",
+      "memorable",
+      "memorize",
+      "memorably"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "The TexPhone was found to be unattractive to consumers due to weaknesses in terms of color, design, and ------- of use.",
+    "choices": [
+      "easy",
+      "easily",
+      "ease",
+      "easier"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Experts ------- that new building insulation regulations will reduce the state's dependency on fossil fuels.",
+    "choices": [
+      "predict",
+      "predicting",
+      "predictable",
+      "prediction"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "If the City Council ------- the renovation plan for the airport, workers will begin construction late this year.",
+    "choices": [
+      "approves",
+      "approvable",
+      "approval",
+      "approvingly"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Dr. Matthews has received a ------- large number of calls in response to her lectures at medical schools nationwide.",
+    "choices": [
+      "surprise",
+      "surprised",
+      "surprisingly",
+      "surprises"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "BioTech's corporate structure and financial information are ------- accessible to customers on the Web site at www.biotech.com.",
+    "choices": [
+      "ready",
+      "readying",
+      "readily",
+      "readiness"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "There has been speculation that Techsoft's board is trying to find a ------- for its chief executive by the end of the year.",
+    "choices": [
+      "replace",
+      "replaced",
+      "replacing",
+      "replacement"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Our design consultants generate concepts combining visual impact, clear messages, and a high level of -------.",
+    "choices": [
+      "create",
+      "creative",
+      "creatively",
+      "creativity"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Bookmart.com promises to make ------- to the Web site, and there could be an updated version as early as November.",
+    "choices": [
+      "improve",
+      "improvements",
+      "improves",
+      "improving"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "The company will provide an ------- day of paid vacation when an annual leave day falls on a public holiday.",
+    "choices": [
+      "add",
+      "additional",
+      "additionally",
+      "additive"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Travelpal Luggage is the perfect choice for travelers whether they are traveling on business or for -------.",
+    "choices": [
+      "pleased",
+      "pleasant",
+      "pleasure",
+      "please"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "All visitors to the hotel during the construction phase must wear ------- goggles and helmets at all times.",
+    "choices": [
+      "protect",
+      "protects",
+      "protective",
+      "protectively"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "The client's files must be arranged ------- rather than by date to allow for easier searching.",
+    "choices": [
+      "alphabet",
+      "alphabets",
+      "alphabetical",
+      "alphabetically"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Kaseguma Design has brightly colored meeting spaces, which are intended to help employees think -------.",
+    "choices": [
+      "create",
+      "creative",
+      "creatively",
+      "creation"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "TAA Airlines has a ------- dress code which all staff adhere to diligently.",
+    "choices": [
+      "strict",
+      "strictly",
+      "strictness",
+      "strictest"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "The spokesperson for Carter Robotics says its new room cleaning robot will ------- be revolutionary.",
+    "choices": [
+      "assured",
+      "assuredness",
+      "more assured",
+      "assuredly"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "The office manager is ------- for regularly checking the inventory of office supplies and placing orders if needed.",
+    "choices": [
+      "responsibilities",
+      "responsibility",
+      "responsible",
+      "responsibly"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Shares of Wellington Depot rose ------- after the retailer reported record sales in December.",
+    "choices": [
+      "sharp",
+      "sharpen",
+      "sharply",
+      "sharpness"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "A professional ------- is one of the key elements of a successful job interview.",
+    "choices": [
+      "appearance",
+      "appear",
+      "appeared",
+      "appears"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Located in the heart of Manhattan, Gilford's café offers a large ------- of traditional and contemporary American, Japanese, and Chinese dishes.",
+    "choices": [
+      "select",
+      "selection",
+      "selects",
+      "selecting"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Although Michael Young has been performing as a guitarist for many years, he is ------- unknown in the Japanese music industry.",
+    "choices": [
+      "relative",
+      "relatively",
+      "relation",
+      "relate"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Ms. Patel's ------- novel, *Clipped Wings*, has been translated into 13 languages since it was first published.",
+    "choices": [
+      "late",
+      "lately",
+      "latest",
+      "lateness"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "The residents of Jamestown and Tomasville ------- approved the construction of a highway to connect the two cities.",
+    "choices": [
+      "overwhelm",
+      "overwhelming",
+      "overwhelmingly",
+      "overwhelmed"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "The most imaginative ------- in the photography competition will receive a new laptop computer from Candy Computers.",
+    "choices": [
+      "submission",
+      "submitted",
+      "submit",
+      "submitting"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "A great ------- of employees use public transport to get to work because of the cost of parking in the city.",
+    "choices": [
+      "major",
+      "majority",
+      "majors",
+      "majoring"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "The communications manager from Golden Egg Appliances says the company is studying the ------- of retooling its factory in Ohio.",
+    "choices": [
+      "feasible",
+      "more feasible",
+      "feasibility",
+      "feasibly"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Hospital staff members are not permitted to share patients' ------- details with outside parties without written consent.",
+    "choices": [
+      "private",
+      "privatize",
+      "privately",
+      "privatization"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "The large drugstore includes a pharmacy with a doctor on hand for ------- during the week.",
+    "choices": [
+      "consulted",
+      "consultation",
+      "consultant",
+      "to consult"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "The fashion chain announced that it expected to record a substantial ------- in the second quarter.",
+    "choices": [
+      "lost",
+      "loss",
+      "lose",
+      "losing"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "At the dawn of the Internet, a ------- venture called Next Net was founded to create one of the first search engines.",
+    "choices": [
+      "cooperate",
+      "cooperatively",
+      "cooperatives",
+      "cooperative"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "A ------- variety of amenities and services are provided by the newly opened Oakridge Hotel.",
+    "choices": [
+      "broad",
+      "breadth",
+      "broaden",
+      "broadly"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Consumers tend to prefer domestic brands when buying ------- like milk, medicines, or diapers.",
+    "choices": [
+      "necessitate",
+      "necessary",
+      "necessarily",
+      "necessities"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Hareyama Flowers provides the ------- arrangements for any occasion including anniversaries, graduations, and weddings.",
+    "choices": [
+      "perfect",
+      "perfectly",
+      "perfects",
+      "perfection"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Hiring ------- for the new board members will be announced at the meeting this afternoon.",
+    "choices": [
+      "deciding",
+      "decisions",
+      "decided",
+      "to decide"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "The photographs featured on our Web site may be purchased ------- from the photographers using the links provided below.",
+    "choices": [
+      "direction",
+      "directing",
+      "directed",
+      "directly"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Attendees will be asked to complete a ------- survey at the beginning and end of the training program.",
+    "choices": [
+      "brief",
+      "briefed",
+      "briefest",
+      "briefly"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Mr. Hamilton pointed out that most clerical errors are -------, and suggested a system of checks to resolve the problem.",
+    "choices": [
+      "preventable",
+      "prevent",
+      "preventing",
+      "prevention"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Urbandale City College provides several management courses that will improve your employment prospects and add to your -------.",
+    "choices": [
+      "qualify",
+      "qualified",
+      "qualifications",
+      "qualifier"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "The use of recyclable materials has expanded ------- in the last few years, thanks to the conscientious effort of manufacturers.",
+    "choices": [
+      "consider",
+      "considerate",
+      "considerable",
+      "considerably"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Torres Furniture's old location has been ------- since last February, when the store moved to 1630 Sherman Avenue.",
+    "choices": [
+      "vacant",
+      "vacating",
+      "vacancy",
+      "vacantly"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "The results of recent water quality monitoring in the area verify that community health and safety concerns have been ------- addressed.",
+    "choices": [
+      "effect",
+      "effective",
+      "effectively",
+      "effectiveness"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "The curtains, designed by Elaine Hutton, are ------- by such distinctive motifs as tulips, stylized birds, and other animals.",
+    "choices": [
+      "identify",
+      "identifies",
+      "identity",
+      "identifiable"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "The ------- use of office space and equipment in the Tokyo branch has been emulated by several of the other international branches.",
+    "choices": [
+      "economize",
+      "economical",
+      "economy",
+      "economist"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "For the agreement to be -------, you need to fill out the attached application form and submit it to the human resources manager.",
+    "choices": [
+      "valid",
+      "validate",
+      "validity",
+      "validates"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Huber Online Bookstore guarantees ------- of your order within two working days, provided you order before 4 P.M.",
+    "choices": [
+      "deliver",
+      "delivers",
+      "delivering",
+      "delivery"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "One of the ------- of the office manager is to identify volunteers for the emergency evacuation team.",
+    "choices": [
+      "responsible",
+      "responsibly",
+      "responsibility",
+      "responsibilities"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Ms. Kim received a ------- just three months after being hired as a sales representative at Wilson Manufacturing.",
+    "choices": [
+      "promote",
+      "promoting",
+      "promotion",
+      "promoted"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "The product concept is derived from the Karaoke sing-along, a popular pastime in Japan that has been ------- successful in the U.S. as well.",
+    "choices": [
+      "moderate",
+      "moderately",
+      "moderating",
+      "moderator"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Due to positive reviews and popular demand, the theatrical production will continue for an ------- period of time.",
+    "choices": [
+      "extend",
+      "extended",
+      "extensively",
+      "extension"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "R&D managers must ------- find a way to reduce the production cost of the new portable computer.",
+    "choices": [
+      "quick",
+      "quicker",
+      "quickest",
+      "quickly"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "A well-designed logo that is ------- recognizable makes a company seem more dependable.",
+    "choices": [
+      "universe",
+      "universal",
+      "universally",
+      "universality"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Located approximately 150 miles south of Rome, Deer Island can ------- be reached by plane from Napoli Airport.",
+    "choices": [
+      "easily",
+      "easy",
+      "ease",
+      "easiness"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "The age of its components and the cost of repair can indicate whether or not it is ------- to purchase a new computer.",
+    "choices": [
+      "necessitate",
+      "necessity",
+      "necessary",
+      "necessarily"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Employee training is ------- to running a smooth business and maintaining compliance with industry standards.",
+    "choices": [
+      "vitalize",
+      "vitality",
+      "vital",
+      "vitally"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Once the board of directors approves the plan, construction of the new ------- will begin.",
+    "choices": [
+      "build",
+      "builder",
+      "to build",
+      "building"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Strong Steels Inc. is ------- regarded as one of the leading steel engineering companies in Asia.",
+    "choices": [
+      "wider",
+      "widened",
+      "widening",
+      "widely"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Ms. Anderson is looking for a dress that is both ------- and comfortable to wear to her supervisor's retirement party.",
+    "choices": [
+      "elegant",
+      "elegance",
+      "elegantly",
+      "more elegantly"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Iznik, the site of the ancient Greek Council of Nicaea, has ------- been an important center for ceramics production.",
+    "choices": [
+      "history",
+      "historian",
+      "historical",
+      "historically"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Most of the business travelers surveyed rated Starlight Hotel highly because of the ------- of the rooms and its convenient location.",
+    "choices": [
+      "clean",
+      "cleanly",
+      "cleanliness",
+      "cleans"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Venture capital firms are considering contests that offer competing entrepreneurs multimillion-dollar prizes if they come up with ------- technologies.",
+    "choices": [
+      "innovate",
+      "innovative",
+      "innovates",
+      "innovatively"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "The company's recent rise in ------- can be attributed to the managerial acumen of the newly appointed CEO, Leonie Wagner.",
+    "choices": [
+      "profitability",
+      "profitable",
+      "profited",
+      "to profit"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Smile Fitness Center, an exclusive fitness club in Seoul, is ------- seeking full-time personal trainers.",
+    "choices": [
+      "urgent",
+      "most urgent",
+      "urgency",
+      "urgently"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "------- of your order will be sent within 24 hours to the e-mail address you have provided.",
+    "choices": [
+      "Confirmation",
+      "Confirms",
+      "Confirmed",
+      "Confirming"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Smokey Joe's café has three ------- in Tokyo, including one recently opened in Aoyama.",
+    "choices": [
+      "locate",
+      "locates",
+      "located",
+      "locations"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "During the probationary period, all newly hired engineers of Thunder Engineering work very ------- with their supervisors.",
+    "choices": [
+      "close",
+      "closely",
+      "closer",
+      "closest"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "The company's annual strategy meeting was held at the headquarters on Tuesday to discuss steps to enhance ------- among the different departments.",
+    "choices": [
+      "cooperate",
+      "cooperated",
+      "cooperative",
+      "cooperation"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "The strategic partnership agreement with a leading Canadian business publisher will enable Bear Publishing to reach a ------- group of readers.",
+    "choices": [
+      "diverse",
+      "diversity",
+      "diversely",
+      "diversify"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Situated in the center of Budapest, Royal Sky Hotel is easily ------- to business travelers using public transport.",
+    "choices": [
+      "access",
+      "accesses",
+      "accessible",
+      "accessibility"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Please show ------- for other guests by refraining from conversing during the performance.",
+    "choices": [
+      "consider",
+      "considerate",
+      "consideration",
+      "considerably"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Ms. Carter's presentation included a ------- explanation of the hiring practices leading companies use to find suitable candidates.",
+    "choices": [
+      "length",
+      "lengthy",
+      "lengthily",
+      "lengthen"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Sales figures from the Shinjuku, Shibuya, and Yokohama stores showed a ------- rise in the volume of winter clothing sold during September and October.",
+    "choices": [
+      "notice",
+      "noticing",
+      "noticeable",
+      "noticeably"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Mr. Ali ------- threw away the copies of his itinerary for his trip to Mumbai, so he had to have new ones printed.",
+    "choices": [
+      "mistake",
+      "mistakenly",
+      "mistakes",
+      "mistook"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Repairs on Highway 12 are likely to cause ------- in the delivery of supplies to local restaurants.",
+    "choices": [
+      "delays",
+      "delayed",
+      "to delay",
+      "be delayed"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "The ------- in the produce section of the Freshone Supermarket will feature exotic fruit from Australia.",
+    "choices": [
+      "display",
+      "displaying",
+      "displayed",
+      "displayable"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "The company picnic will be held on a beach, but the weather ------- is predicting heavy rain.",
+    "choices": [
+      "forecast",
+      "forecasts",
+      "will forecast",
+      "to forecast"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "The board conducted a second round of ------- with the four selected candidates for the position on Tuesday.",
+    "choices": [
+      "interview",
+      "interviews",
+      "interviewed",
+      "interviewer"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "More than half of the respondents said television was more ------- than any other form of advertising.",
+    "choices": [
+      "memory",
+      "memorize",
+      "memorable",
+      "memorably"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "All students who wish to be considered for financial aid for the fall semester should file their ------- by May 30.",
+    "choices": [
+      "applications",
+      "applicants",
+      "applicability",
+      "applies"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Texas Carbide is looking for three marketing professionals who have work experience in the textile -------.",
+    "choices": [
+      "industry",
+      "industrialize",
+      "industrial",
+      "industrialist"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "The company performed well this year and ------- surpassed last year's profits.",
+    "choices": [
+      "neared",
+      "nearly",
+      "nearest",
+      "nearness"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "After the six-month probationary period, new employees may be eligible for an ------- in salary.",
+    "choices": [
+      "increase",
+      "increasing",
+      "increasingly",
+      "increased"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "It took several days for the managers to decide on which applicant was the most ------- for the position.",
+    "choices": [
+      "qualify",
+      "qualified",
+      "qualification",
+      "qualifies"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "In December, toy stores usually receive lots of shipments and prices remain ------- until after the holidays.",
+    "choices": [
+      "compete",
+      "competitive",
+      "competitively",
+      "competition"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Because of its cool climate, the eastern region of Hokkaido is ------- for dairy farming.",
+    "choices": [
+      "ideal",
+      "idea",
+      "ideally",
+      "idealistic"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Seth Greene agreed to undertake the ------- task of redesigning the mining equipment.",
+    "choices": [
+      "challenge",
+      "challenges",
+      "challenged",
+      "challenging"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Mr. Song was recently awarded a prestigious research grant, which should come as no surprise to anyone ------- with his work.",
+    "choices": [
+      "familiar",
+      "familiarize",
+      "familiarizing",
+      "familiarity"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "A week has been set aside in February for new and current staff to undergo employee -------.",
+    "choices": [
+      "train",
+      "trainer",
+      "trainable",
+      "training"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Members of the finance ------- have been in deliberations since 10 A.M., discussing the proposed budget cuts.",
+    "choices": [
+      "committed",
+      "committing",
+      "commitment",
+      "committee"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Fujiyama Restaurant offers a variety of dishes made from fresh seasonal and ------- grown vegetables.",
+    "choices": [
+      "local",
+      "locally",
+      "locality",
+      "localize"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "The tables at the banquet were prepared in a style that was ------- yet elegant.",
+    "choices": [
+      "simple",
+      "simply",
+      "simplify",
+      "simplification"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Conference organizers made arrangements for all ------- guests to be presented with an information package.",
+    "choices": [
+      "arrive",
+      "arrives",
+      "arrival",
+      "arriving"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "The number of orders for the month of May was estimated extremely ------- resulting in a substantial reduction in waste.",
+    "choices": [
+      "accurate",
+      "accurately",
+      "accuracy",
+      "accuracies"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "The store display attracted a lot of attention from customers with its ------- colored packages and entertaining animated mannequins.",
+    "choices": [
+      "brighten",
+      "brightly",
+      "brightened",
+      "brightness"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "As one of the fastest ------- distributors in the country, Falcon Supply Inc., is known for its commitment to quality.",
+    "choices": [
+      "grow",
+      "grew",
+      "growing",
+      "growth"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Crown Corporation has been the leading ------- of innovative fabrics for over 25 years.",
+    "choices": [
+      "produce",
+      "produced",
+      "production",
+      "producer"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "If all single rooms are already booked, guests will be offered a double room for single use at a ------- higher rate.",
+    "choices": [
+      "correspond",
+      "corresponding",
+      "correspondingly",
+      "correspondence"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Dylan Clarke has been promoted to the position of marketing manager because he organized a national campaign -------.",
+    "choices": [
+      "commend",
+      "commendable",
+      "commendably",
+      "commended"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Although construction has already been approved, the city is still looking for an ------- to coordinate the project.",
+    "choices": [
+      "architect",
+      "architecture",
+      "architectural",
+      "architecturally"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Since his appointment as CEO, Nathan Lee has been running the company much ------- than his predecessor.",
+    "choices": [
+      "efficient",
+      "efficiently",
+      "more efficient",
+      "more efficiently"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "The Independent School Association has welcomed some of the ------- lecturers, authors, and performing artists in California.",
+    "choices": [
+      "more prominent",
+      "most prominent",
+      "more prominently",
+      "most prominently"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "The City University offers masters programs in civil engineering, construction, project -------, and information technology.",
+    "choices": [
+      "manage",
+      "managed",
+      "manageable",
+      "management"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Some contractors use special ------- tools to help pinpoint the source of common home problems.",
+    "choices": [
+      "diagnose",
+      "diagnosed",
+      "diagnostic",
+      "diagnostically"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "The policy that late fees are charged for books returned after the due date is stated quite ------- in the agreement.",
+    "choices": [
+      "clear",
+      "clearly",
+      "clarity",
+      "clearer"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Tullox Shoes are constructed in South East Asia according to the ------- standards for durability and comfort.",
+    "choices": [
+      "strictly",
+      "more strictly",
+      "strictest",
+      "strictness"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "The highly anticipated second album of William Roy is ------- from the first but no less remarkable.",
+    "choices": [
+      "distinct",
+      "distinguish",
+      "distinction",
+      "distinctly"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "The mission of the university store is to provide a wide range of ------- priced merchandise to students and faculty members.",
+    "choices": [
+      "compete",
+      "competitive",
+      "competitively",
+      "competition"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Easy to handle, light, maneuverable, and powerful, the lawnmower is perfectly ------- to small lawns of up to 2,000 square feet.",
+    "choices": [
+      "suit",
+      "suited",
+      "suiting",
+      "suits"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Japanese cuisine has received a lot of attention in the last 10 years, and ------- has gained popularity all over the world.",
+    "choices": [
+      "consequent",
+      "consequently",
+      "consequence",
+      "consequences"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Should you require ------- with your selection of tools, please talk to one of our experienced advisors.",
+    "choices": [
+      "assist",
+      "assisted",
+      "assistance",
+      "assists"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Not only does the new sedan have an ------- design, but it also offers its passengers more luggage room.",
+    "choices": [
+      "appeal",
+      "appealed",
+      "appealing",
+      "appealingly"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "------- scheduling vacation leave of one full week or more must obtain permission from their supervisors in advance.",
+    "choices": [
+      "Employs",
+      "Employed",
+      "Employment",
+      "Employees"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "New ------- are eligible for a 30 day free trial period and will receive one free song download upon signing up.",
+    "choices": [
+      "subscribe",
+      "subscriptions",
+      "subscribed",
+      "subscribers"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Rubber ------- are working hard to fill orders from the automobile industry which is expecting to sell record numbers of vehicles this year.",
+    "choices": [
+      "produce",
+      "produces",
+      "productions",
+      "producers"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Fast & Falls is a Dallas-based interior design firm, known for ------- service and a sophisticated style.",
+    "choices": [
+      "personalized",
+      "personalize",
+      "personalizes",
+      "personalizing"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "This ------- should only be taken as directed by a qualified physician.",
+    "choices": [
+      "medication",
+      "medically",
+      "medicated",
+      "medications"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "The jewelry box is covered in a thin layer of hand-stitched black leather stretched ------- around the frame.",
+    "choices": [
+      "tightening",
+      "tightly",
+      "tighten",
+      "tightness"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Fun Toys is pleased to announce two shipments of the popular game will arrive this month, the first of which should come -------.",
+    "choices": [
+      "shortly",
+      "shorten",
+      "short",
+      "shortness"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Ms. Watanabe's new coffee tumbler, which cost over 30 dollars, is stylish as well as -------.",
+    "choices": [
+      "function",
+      "functioned",
+      "functional",
+      "functionally"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "When placing an order during holiday seasons, please note that it will take ------- five to seven days for the delivery.",
+    "choices": [
+      "approximate",
+      "approximately",
+      "approximation",
+      "approximates"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Justin Moore's ------- jazz album from Spark Records combines modern rhythms with traditional elements.",
+    "choices": [
+      "newer",
+      "newly",
+      "newest",
+      "newness"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "The Darren Theater opened on Oct. 5, 1987, ------- eight years before Ms. Gonzalez was hired.",
+    "choices": [
+      "precise",
+      "precision",
+      "precisely",
+      "preciseness"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Mr. McConnell studied Japanese business culture and practices ------- before transferring to the Sendai branch.",
+    "choices": [
+      "exhaustive",
+      "exhaustion",
+      "exhausting",
+      "exhaustively"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Located near the Dallas Convention Center, Hotel Camel is the perfect choice for convention ------- who want accommodations close to the venue.",
+    "choices": [
+      "attendance",
+      "attendees",
+      "attend",
+      "attended"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Mr. Larsen's name, which appeared in the original movie, was mistakenly removed from the ------- version.",
+    "choices": [
+      "edit",
+      "edited",
+      "editing",
+      "edits"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Only one year after its -------, Denton Publishing was awarded the Prize for Exceptional Creativity at an international competition in Vienna.",
+    "choices": [
+      "found",
+      "foundations",
+      "founded",
+      "foundation"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Grape Computers is known for running ------- commercials to promote its innovative electronic devices.",
+    "choices": [
+      "imaginative",
+      "imagination",
+      "imagine",
+      "imaginary"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Original copies of *Pirate Island* are ------- rare, with only 18 copies in existence, of which 12 are in private hands.",
+    "choices": [
+      "excessive",
+      "exceed",
+      "excess",
+      "exceedingly"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Most users agree that the new smartphone has a ------- better picture and sound quality.",
+    "choices": [
+      "notice",
+      "noticeable",
+      "noticeably",
+      "noticing"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "While Fire Art's new video games have already been launched in Asia, they will not be available ------- anytime soon.",
+    "choices": [
+      "globe",
+      "global",
+      "globally",
+      "globalization"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Presented by Whole Family Foods, the event will feature cooking ------- and activities for kids.",
+    "choices": [
+      "demonstrations",
+      "demonstrates",
+      "demonstrator",
+      "demonstrated"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Paul Tanaka, the founder of Wheaton Technology, will come to the Seattle headquarters to participate in ------- and interact with employees.",
+    "choices": [
+      "lecture",
+      "lectured",
+      "lectures",
+      "lecturer"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "All staff members of Premium Promotion have extensive experience in ------- or a related field.",
+    "choices": [
+      "advertising",
+      "advertiser",
+      "advertised",
+      "advertises"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "The award ceremony would not have been possible without ------- from several members, notably Mal Benjamin, who chairs the award committee.",
+    "choices": [
+      "contribute",
+      "contributed",
+      "contributions",
+      "contributor"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Since the benefits seemed evident, Mr. Tucker was ------- that his proposal would be accepted by the board of directors.",
+    "choices": [
+      "confident",
+      "confidential",
+      "confidently",
+      "confidence"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "All requests for personal time off must be submitted for ------- using the appropriate request form.",
+    "choices": [
+      "approve",
+      "approved",
+      "approval",
+      "approvingly"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "The assistant office manager, Ms. Reed, will explain the ------- paper recycling policy at the next weekly meeting.",
+    "choices": [
+      "revise",
+      "revised",
+      "revising",
+      "revision"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Pacific Home Designs has been a reliable ------- of home furnishings for more than 30 years.",
+    "choices": [
+      "manufacture",
+      "manufactures",
+      "manufacturing",
+      "manufacturer"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Mr. Li should be available to meet with the newly hired employees this week as he has no ------- travel plans.",
+    "choices": [
+      "schedule",
+      "scheduled",
+      "scheduling",
+      "scheduler"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "To spread the workload more ------- within the organization, the project team has decided to assign roles to specific individuals.",
+    "choices": [
+      "even",
+      "evens",
+      "evening",
+      "evenly"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "------- are nearly complete for the product demonstration at the press conference on Friday next week.",
+    "choices": [
+      "Preparations",
+      "Prepare",
+      "Prepares",
+      "Preparers"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "An ------- large number of our customers now make reservations online rather than by phone.",
+    "choices": [
+      "increase",
+      "increases",
+      "increasing",
+      "increasingly"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "News of Felix Schneider's retirement spread quickly as he had made many friends and ------- during his 20 years on the job.",
+    "choices": [
+      "acquaint",
+      "acquainted",
+      "acquaintance",
+      "acquaintances"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "The advertising campaigns Mr. Weyden had developed before he left were ------- implemented by his colleagues.",
+    "choices": [
+      "subsequent",
+      "most subsequent",
+      "subsequently",
+      "subsequence"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Under ------- and CEO Jack Thompson, Thompson Legal has become a successful law firm within a relatively short span of time.",
+    "choices": [
+      "foundation",
+      "founder",
+      "found",
+      "founded"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Mr. Aiden Roy, an award-winning ------- at *Calgary Daily Press*, has agreed to chair an ad hoc committee on the newspaper's 75th anniversary.",
+    "choices": [
+      "journal",
+      "journalism",
+      "journalist",
+      "journalistic"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "The award will promote workplace values within the company by giving recognition to successful managers who demonstrate ------- for subordinates.",
+    "choices": [
+      "respect",
+      "respected",
+      "respecting",
+      "respectable"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Small manufacturers operating using a limited workforce with ------- skills have recently been on the rise.",
+    "choices": [
+      "specialize",
+      "specialized",
+      "specializing",
+      "specialization"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Happy Wholesale is the main ------- of Wonder Toys' products including toys, video games, and kids' PCs.",
+    "choices": [
+      "distributor",
+      "distributing",
+      "distribute",
+      "distribution"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Current plant workers will be given hiring preference for the newly ------- jobs at the company's production facility in Kawasaki.",
+    "choices": [
+      "creates",
+      "creating",
+      "created",
+      "creation"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "As of February 1, the no-smoking policy at the Mountain Tower apartments will be more ------- enforced.",
+    "choices": [
+      "strict",
+      "strictly",
+      "stricter",
+      "strictness"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "In the last decade, there has been a ------- rapid increase in the number of public locations for wireless Internet usage.",
+    "choices": [
+      "remark",
+      "remarks",
+      "remarking",
+      "remarkably"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "All products made by Trust Computers come with a user's manual that contains ------- for installation as well as operating procedures.",
+    "choices": [
+      "explain",
+      "explanatory",
+      "explanations",
+      "explaining"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "During the workshop, small business owners will learn how to develop ------- business relationships with their clients.",
+    "choices": [
+      "prosper",
+      "prosperity",
+      "prosperous",
+      "prospered"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Green Net Corporation reported a net profit of 40 million dollars for the third quarter, ------- exceeding analysts' forecasts.",
+    "choices": [
+      "easy",
+      "easing",
+      "ease",
+      "easily"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Tiger Motors intentionally cut back on fleet sales, which are less ------- than sales to individual customers.",
+    "choices": [
+      "profit",
+      "profitable",
+      "profitably",
+      "profits"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Newly hired staff members are required to attend a three-day training course on airport -------.",
+    "choices": [
+      "secure",
+      "secured",
+      "security",
+      "securely"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Diego Martinez is going to appear on a prime-time news program as a ------- for the anchor, David Lee.",
+    "choices": [
+      "substitute",
+      "substitutive",
+      "substitutions",
+      "substitutes"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Charlie Evans starts his day with a cup of coffee at Turner's Café ------- every morning.",
+    "choices": [
+      "practical",
+      "practically",
+      "practice",
+      "practicing"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "If you wish to enroll in the course, please complete the ------- application form and send it to us as quickly as possible.",
+    "choices": [
+      "attach",
+      "attaching",
+      "attached",
+      "attachment"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "The delayed departure of the plane added a further ------- to Mr. Gonzalez's journey.",
+    "choices": [
+      "complications",
+      "complicated",
+      "complicating",
+      "complication"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Nelson College of Marketing will take on a more ------- strategy to attract participants for its training workshops.",
+    "choices": [
+      "aggressive",
+      "aggressively",
+      "aggression",
+      "aggressor"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Charmody skin cream is only effective if applied ------- and immediately after the skin has been washed.",
+    "choices": [
+      "correction",
+      "correctly",
+      "correcting",
+      "corrects"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Every business owner knows that quality of service is a top ------- to attract and retain customers.",
+    "choices": [
+      "prior",
+      "priority",
+      "prioritize",
+      "prioritized"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Lion Construction reported yesterday that its net income had increased by nearly 20 percent in the second quarter, mainly because of ------- market conditions.",
+    "choices": [
+      "improve",
+      "improved",
+      "improves",
+      "improvement"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "With time running out before the busy season, the board ------- approved a plan to hire temporary factory workers until production targets were met.",
+    "choices": [
+      "swiftly",
+      "swift",
+      "swiftness",
+      "swifts"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "The hiring committee have ------- decided that they will appoint Mr. Tremblay as the next CEO.",
+    "choices": [
+      "seeming",
+      "seemingly",
+      "to seem",
+      "seems"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Tracy Hahn is a ------- trained pastry chef who has been working professionally with chocolate for over 10 years.",
+    "choices": [
+      "formal",
+      "formally",
+      "formalize",
+      "formality"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Mr. Gao ------- grants interviews and almost never allows journalists onto his company's campus.",
+    "choices": [
+      "rare",
+      "rarely",
+      "rarity",
+      "rareness"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Big Buy, an appliance ------- serving New Jersey, has recently opened a new store on Route 17 in Paramus.",
+    "choices": [
+      "retailer",
+      "retail",
+      "retailed",
+      "retailers"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Janet Morris ------- declined an award for product design, as she felt others had contributed much more than her.",
+    "choices": [
+      "respect",
+      "respectful",
+      "respectfully",
+      "respects"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "After their flight was canceled, the airline assured passengers that ------- had been made for them to stay at a hotel.",
+    "choices": [
+      "arrange",
+      "arranges",
+      "arranging",
+      "arrangements"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Walter Kling, an accomplished fashion -------, has been hired by the company to create images for the May catalog.",
+    "choices": [
+      "photograph",
+      "photography",
+      "photographic",
+      "photographer"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "A team of animators was employed to create ------- unique animated logos for the company's television advertisements.",
+    "choices": [
+      "visualize",
+      "visuals",
+      "visually",
+      "visualizes"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Please refer to the product identification -------, which is printed in the upper right hand corner of the warranty.",
+    "choices": [
+      "number",
+      "numbers",
+      "numbered",
+      "numbering"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Residents were concerned about increased traffic and ------- so, considering the size of the housing project approved for their suburb.",
+    "choices": [
+      "understood",
+      "understandable",
+      "understandably",
+      "understanding"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Any information about the impending merger with Sakura First Bank should be kept strictly -------.",
+    "choices": [
+      "confide",
+      "confides",
+      "confidential",
+      "confidentially"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "The Archeological Museum of New York is an inexpensive attraction that is not listed in major guidebooks but well ------- a visit.",
+    "choices": [
+      "worth",
+      "worthy",
+      "worthwhile",
+      "worthless"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "------- the most important invention of the last 60 years, computers are used in almost every aspect of our lives.",
+    "choices": [
+      "Argue",
+      "Arguing",
+      "Arguably",
+      "Argument"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "------- with this letter is a survey, which should be returned using the self-addressed envelope also supplied.",
+    "choices": [
+      "Enclosed",
+      "Enclose",
+      "Enclosing",
+      "Enclosure"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "The Green Scholars Program offers undergraduate students who have a ------- interest in environmental issues an opportunity to attend the Oslo Green Forum.",
+    "choices": [
+      "demonstrate",
+      "demonstrated",
+      "demonstrating",
+      "demonstration"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "The ideal candidate for the position will require at least 10 years of work experience in human resources at a ------- level.",
+    "choices": [
+      "manage",
+      "manageable",
+      "manageably",
+      "managerial"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "To ventilate your home during the summer, windows and internal doors should be left ------- overnight in a secure manner.",
+    "choices": [
+      "open",
+      "opening",
+      "opener",
+      "opens"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Scientists at Warsaw's Central Laboratory have been trying to find cleaner ways of ------- coal.",
+    "choices": [
+      "burn",
+      "burned",
+      "burning",
+      "burns"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "All ------- must be picked up from the storage room at least one hour before the store opens.",
+    "choices": [
+      "delivery",
+      "deliveries",
+      "delivers",
+      "delivering"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "A survey shows that only an ------- 30 percent of the workforce in the textile industry is female.",
+    "choices": [
+      "estimate",
+      "estimates",
+      "estimated",
+      "estimating"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Nishiwaki Corporation has been acquired by Blue Ocean Electronics in a deal ------- at 1 billion yen.",
+    "choices": [
+      "value",
+      "valued",
+      "valuation",
+      "values"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "The rules ------- employee use of company-owned mobile phones are outlined in the employee handbook.",
+    "choices": [
+      "concerning",
+      "concern",
+      "concerns",
+      "concerned"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Factory workers were ------- of the company for its failure to keep them informed about the shutdown plans.",
+    "choices": [
+      "critical",
+      "critic",
+      "criticized",
+      "criticism"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "FastLine Computers opened 10 call centers last year and plans to add another 10 this year as part of its growth -------.",
+    "choices": [
+      "initial",
+      "initially",
+      "initiative",
+      "initialization"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "------- to the state from Europe consist of food and beverages despite the large farming industry that exists here.",
+    "choices": [
+      "Imports",
+      "Importing",
+      "Importers",
+      "Imported"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Only applications from candidates who meet all eligibility ------- will be replied to.",
+    "choices": [
+      "require",
+      "requirement",
+      "requirements",
+      "requires"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Some industry experts predict that Sunrise Computers will continue to make ------- in computer technology.",
+    "choices": [
+      "advance",
+      "advances",
+      "advancing",
+      "advanced"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Icon Air confirmed today that it plans to resume aircraft ------- at its factory in Kerrville in January after a five-year absence from the market.",
+    "choices": [
+      "product",
+      "produced",
+      "produce",
+      "production"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Furniture ------- made online may be returned for any reason, so long as the packaging has not been removed.",
+    "choices": [
+      "purchase",
+      "purchases",
+      "purchased",
+      "purchasing"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Prospective students are required to complete the introductory course prior to ------- for Advanced Programming Theory.",
+    "choices": [
+      "register",
+      "registered",
+      "registering",
+      "registrar"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Far more calls were received from disappointed fans than ------- after the concerts by Jack Chan were canceled.",
+    "choices": [
+      "anticipate",
+      "anticipation",
+      "anticipating",
+      "anticipated"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "The Indiana Mineral Association has secured a room rate of $109 per night ------- taxes at the Marion Hotel during the annual convention.",
+    "choices": [
+      "exclude",
+      "excluded",
+      "excluding",
+      "excludes"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Cooper House dental surgery recognizes that all members of the team have a legal and ethical duty to keep patient ------- confidential.",
+    "choices": [
+      "informed",
+      "informative",
+      "informatively",
+      "information"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "The amount of traffic the company Web site attracted before the product launch was an ------- sign for the marketing division.",
+    "choices": [
+      "encourage",
+      "encouraged",
+      "encouraging",
+      "encourages"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "As a special benefit for conference attendees, complimentary Wi-Fi service will be available in hotel rooms ------- through this Web site.",
+    "choices": [
+      "book",
+      "booked",
+      "books",
+      "booking"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "It was decided to post the important safety video on the Internet to ensure that it reached the ------- possible audience.",
+    "choices": [
+      "broadest",
+      "broad",
+      "broadly",
+      "broaden"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "The parks department has plans for three new inner city parks and has made the information ------- accessible from its Web site.",
+    "choices": [
+      "readily",
+      "ready",
+      "readying",
+      "readiness"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Eagle Joe's Pizza delivers to Mermaid Waters and ------- areas at no extra cost.",
+    "choices": [
+      "surround",
+      "surrounding",
+      "surrounded",
+      "surrounds"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Alan Chan was entrusted with a ------- and costly project due to the high degree of success he had been enjoying.",
+    "choices": [
+      "challenge",
+      "challenged",
+      "challenging",
+      "challengingly"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "------- housed in a facility designed by a Swiss architecture firm, the Nagano Youth Museum reopened in October 2012.",
+    "choices": [
+      "New",
+      "Newest",
+      "Newness",
+      "Newly"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "The apparel catalog is divided into ------- by clothing type so that customers can easily locate the items they wish to purchase.",
+    "choices": [
+      "section",
+      "sections",
+      "sectioning",
+      "sectioned"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "With its spas, saunas, massage rooms, and fitness center, Stallard Towers Hotel provides a ------- stay for business and leisure travelers alike.",
+    "choices": [
+      "refresh",
+      "refreshed",
+      "refreshing",
+      "refreshments"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Colorado Café will introduce a new line of coffee with a free ------- at Braxton Supermarket on Thursday, June 16, from 2 P.M.",
+    "choices": [
+      "tasting",
+      "tasty",
+      "tasted",
+      "taste"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "A recent survey found that more than a quarter of Japanese mobile broadband subscribers are ------- to renew their contracts.",
+    "choices": [
+      "unlike",
+      "unlikable",
+      "unlikely",
+      "unlikeness"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "After having lived in a small town in Ohio for ten years, Ms. Wright wants to move to a more ------- city like New York.",
+    "choices": [
+      "stimulate",
+      "stimulated",
+      "stimulates",
+      "stimulating"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "This book contains 15 tips to help improve ------- morale and boost productivity within an organization.",
+    "choices": [
+      "employ",
+      "employed",
+      "employs",
+      "employee"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Now the owner of a large restaurant chain, Mr. Lim believes that persistence is a ------- of a successful entrepreneur.",
+    "choices": [
+      "characterize",
+      "characters",
+      "characteristic",
+      "characterization"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "According to a recent survey, real estate agencies remain cautiously ------- about the housing market in Miami.",
+    "choices": [
+      "optimistic",
+      "optimize",
+      "optimistically",
+      "optimism"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "In her recent book, *Marketing Success*, the author claims that ------- targeting specific audiences are often the most successful.",
+    "choices": [
+      "advertisements",
+      "advertised",
+      "advertising",
+      "advertises"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Thanks to clear skies and careful -------, the seventh annual Greenfield Road Race saw its biggest turnout yet, with approximately 500 runners.",
+    "choices": [
+      "plan",
+      "planned",
+      "planning",
+      "planner"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "The Axis 3000, a new energy-efficient hybrid car, has extraordinary ------- for global sales, said automotive writer, Alex Tokudaiji.",
+    "choices": [
+      "potent",
+      "potential",
+      "potentially",
+      "potentiality"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Mr. Hoffman, a company spokesperson, said on TV that Nile Electronics Ltd. has raised worker ------- through consistent training programs.",
+    "choices": [
+      "productivity",
+      "produces",
+      "to produce",
+      "productively"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Since its ------- 50 years ago, the Richmond Chamber of Commerce has worked tirelessly to build the local economy.",
+    "choices": [
+      "establish",
+      "establishment",
+      "establishments",
+      "established"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Seaside Resort Hotel is offering ------- of up to 40 percent on all stays until September 30 as long as they are booked by July 1.",
+    "choices": [
+      "discounts",
+      "discount",
+      "discounter",
+      "discounting"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "If guests find noise from the renovation work -------, they may transfer to another local hotel after the first day.",
+    "choices": [
+      "object",
+      "objected",
+      "objecting",
+      "objectionable"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "When renovations are required, a completed building ------- form must be forwarded to the department head.",
+    "choices": [
+      "modify",
+      "modifiable",
+      "to modify",
+      "modification"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Superior Design Company has held ------- among its employees to create its new company logo.",
+    "choices": [
+      "competes",
+      "competing",
+      "competitions",
+      "competitively"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "As part of the marketing study, customers were given samples of three different fruit juices with brand labels ------- concealed.",
+    "choices": [
+      "purposeless",
+      "purpose",
+      "purposeful",
+      "purposely"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Some business leaders believe increasing the size of their organizations will lead to corporate -------.",
+    "choices": [
+      "prosperity",
+      "prosperous",
+      "prosperously",
+      "prospered"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "The application deadline for Speedsoft's summer internship program is drawing -------, so interested students should contact the office by April 30.",
+    "choices": [
+      "near",
+      "nearly",
+      "nears",
+      "nearby"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Classic Line perfume is the ------- of one of the most well-known fragrance designers in Asia.",
+    "choices": [
+      "creation",
+      "creator",
+      "created",
+      "creating"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "There is still some uncertainty among the employees as to how ------- the new advertising campaign will be in boosting sales.",
+    "choices": [
+      "effect",
+      "effectively",
+      "to effect",
+      "effective"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "The Flagstaff city council is committed to ------- the environment and has approved a plan to encourage more residents to commute by bicycle.",
+    "choices": [
+      "preserve",
+      "preserved",
+      "preserving",
+      "preserves"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "The new range of McGinty silicon mobile phone covers are fashionable and ------- priced.",
+    "choices": [
+      "afford",
+      "affordable",
+      "affordably",
+      "affordability"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Max Davis's books are borrowed from the library so ------- that it has become necessary to purchase additional copies.",
+    "choices": [
+      "frequent",
+      "frequency",
+      "frequencies",
+      "frequently"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "An ------- 10 percent discount is available to shoppers who show their loyalty card to staff at the register.",
+    "choices": [
+      "additive",
+      "additional",
+      "additionally",
+      "addition"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "The seminar started about 30 minutes later than ------- scheduled, as many of those who had signed up were delayed by the weather.",
+    "choices": [
+      "original",
+      "originally",
+      "originate",
+      "origin"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Professor Santiago is ------- that he can find a qualified assistant by the end of the month.",
+    "choices": [
+      "doubt",
+      "doubted",
+      "doubtful",
+      "doubtfully"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Barrow Construction is committed to providing the highest quality service to our customers in a ------- and efficient fashion.",
+    "choices": [
+      "time",
+      "timely",
+      "timing",
+      "timeliness"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Now that Alex Gupta has hired additional sales clerks for the store, he hopes that there will be fewer ------- from shoppers.",
+    "choices": [
+      "complains",
+      "complainer",
+      "complaining",
+      "complaints"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "All inquiries ------- the Orange Appliance returns policy should be directed to the e-mail address provided on the warranty form.",
+    "choices": [
+      "regard",
+      "regarding",
+      "regarded",
+      "regards"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "All car batteries sold at Oil World come with a ------- two-year warranty.",
+    "choices": [
+      "comprehensive",
+      "comprehensively",
+      "more comprehensively",
+      "comprehensiveness"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "All of the negotiations that had been held between the two companies became ------- after ownership changed hands this month.",
+    "choices": [
+      "point",
+      "pointing",
+      "pointed",
+      "pointless"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Breakthrough Business School is rated highly among students as its teachers ------- engage in discussions with students before and after classes.",
+    "choices": [
+      "active",
+      "actively",
+      "activate",
+      "activity"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "In recent years, municipal governments have taken on ------- more responsibilities for social services and community development than in the past.",
+    "choices": [
+      "considerable",
+      "consideration",
+      "considerate",
+      "considerably"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Lorenzo Rossi, the CEO of Rossi Cosmetics, announced his decision to appoint Ms. Moretti as vice-president, ------- next month.",
+    "choices": [
+      "effective",
+      "effect",
+      "effects",
+      "effectively"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "All of the artwork used in the short film was painted by John English, a local animation -------.",
+    "choices": [
+      "enthusiastic",
+      "enthusiastically",
+      "enthusiasm",
+      "enthusiast"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Donations to the school's art department are strictly ------- and contributions are only accepted anonymously.",
+    "choices": [
+      "voluntary",
+      "volunteer",
+      "volunteering",
+      "volunteered"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Tullworth Stores provide refunds and exchanges only for items ------- by the original receipts.",
+    "choices": [
+      "accompany",
+      "accompanies",
+      "accompanying",
+      "accompanied"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "As -------, Nobel Corporations' new advertising campaign has increased its sales substantially in the southern region of the country.",
+    "choices": [
+      "predict",
+      "prediction",
+      "predictably",
+      "predicted"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "At *Metal Rock Magazine*, rules regarding the submission deadlines for articles are applied ------- than at other publications.",
+    "choices": [
+      "stringent",
+      "stringently",
+      "more stringent",
+      "more stringently"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "The Thomas Walker Comic Fair's director of public relations said that he was surprised at how ------- the tickets had been sold.",
+    "choices": [
+      "quicker",
+      "quickly",
+      "quickness",
+      "quickest"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "With thousands of visitors attending the Harbor Markets' events, all vendors must park their cars in the ------- area.",
+    "choices": [
+      "designate",
+      "designated",
+      "designating",
+      "designation"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "BookOn has reported that Oliver Harris, a senior vice president, is a ------- candidate to take over from Ms. Hoffmann as CEO.",
+    "choices": [
+      "like",
+      "liking",
+      "likely",
+      "likeness"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Your mailing and e-mail addresses are kept entirely ------- and used solely for the purpose of notifying you of upcoming shows at Roadside Theater.",
+    "choices": [
+      "private",
+      "privatize",
+      "privatizing",
+      "privately"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "When making an online flight booking, passengers are requested to specify their meal -------.",
+    "choices": [
+      "preferable",
+      "preferred",
+      "preferably",
+      "preferences"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "The results of the survey were declared ------- when an error was found in the counting system.",
+    "choices": [
+      "invalid",
+      "invalidly",
+      "invalidity",
+      "invalided"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "The Glasgow Glass Factory recently issued important updates to its ------- regulations for employees.",
+    "choices": [
+      "safe",
+      "safely",
+      "safety",
+      "safes"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "According to a recent survey, a company's performance is ------- on employees' perceptions that they are receiving fair performance evaluations.",
+    "choices": [
+      "depended",
+      "dependence",
+      "dependable",
+      "dependent"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "An ------- from Ms. Nielsen's award-winning novel, *Number the Stars* was printed in today's *Copenhagen Times*.",
+    "choices": [
+      "extract",
+      "extractable",
+      "extracted",
+      "extractability"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Mr. Schulz said that results in the first half of the fiscal year were not always ------- of outcomes for the full year.",
+    "choices": [
+      "indicate",
+      "indicative",
+      "indicated",
+      "indication"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Mars Motors' new clamping system makes their vehicles ------- even during emergency braking.",
+    "choices": [
+      "controlling",
+      "controllable",
+      "controllability",
+      "controls"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "The newspaper recently employed an interior designer to match the drapes and wallpaper ------- with the antique desk in the editor's office.",
+    "choices": [
+      "perfect",
+      "perfected",
+      "perfectly",
+      "perfection"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "The walls of the main dining room were decorated with a pattern ------- different from the other dining areas to create a sense of exclusivity.",
+    "choices": [
+      "distinct",
+      "distinctly",
+      "distinguish",
+      "distinction"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Yamato Insurance Group has designed a new automobile insurance policy ------- to appeal to senior drivers.",
+    "choices": [
+      "specify",
+      "specifying",
+      "specifications",
+      "specifically"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "OnePhone is getting ready to send a software update to its customers that will allow the device to more ------- display signal reception.",
+    "choices": [
+      "accurate",
+      "accurately",
+      "accuracy",
+      "accuracies"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "A number of major airlines are planning to offer Internet ------- to passengers on international flights for a fee.",
+    "choices": [
+      "connect",
+      "connecting",
+      "connections",
+      "connects"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Mr. Lydon is an ------- musician who has performed with several of the world's most famous symphonic orchestras.",
+    "choices": [
+      "accomplish",
+      "accomplished",
+      "accomplishing",
+      "accomplishment"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Due to low ------- last year, it has been decided that this year's conference will be held in a smaller venue.",
+    "choices": [
+      "attend",
+      "attendees",
+      "attendance",
+      "attending"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Tropical Hotel's central location makes it ------- for business and leisure travelers who wish to stay in the hub of Melbourne.",
+    "choices": [
+      "ideal",
+      "idealize",
+      "ideally",
+      "idealization"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Many restaurants in the state have been selling their ------- cooking oil for use as an alternative fuel source.",
+    "choices": [
+      "use",
+      "used",
+      "using",
+      "uses"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Some delays can be expected during the ------- of the Southeast Freeway from two lanes to four.",
+    "choices": [
+      "widening",
+      "wide",
+      "widely",
+      "width"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "Seminar ------- who filled in the survey on the last day were awarded a pen marked with the logo of the organizers.",
+    "choices": [
+      "participate",
+      "participant",
+      "participation",
+      "participants"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Lucas Janssen has requested that the marketing department examine trends ------- when implementing promotional campaigns.",
+    "choices": [
+      "attentive",
+      "attention",
+      "most attentive",
+      "more attentively"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "question": "Each ------- is asked to fill out an evaluation form to provide comments and suggestions for improving the workshop.",
+    "choices": [
+      "individual",
+      "individuals",
+      "individualistic",
+      "individualism"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "question": "The acknowledgements section of a book usually appears on the page ------- the table of contents.",
+    "choices": [
+      "follow",
+      "following",
+      "follows",
+      "follower"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Philips Pharmaceuticals announced to ------- that its sales revenue in the fourth quarter is likely to exceed expectations.",
+    "choices": [
+      "invest",
+      "investments",
+      "investors",
+      "investing"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Of all the ------- in the museum, the landscape painting by Susan Owen is by far the most famous.",
+    "choices": [
+      "work",
+      "works",
+      "working",
+      "worked"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Please ensure that your submissions are ------- with the requirements of the Jules Mann Art Prize as outlined in the rulebook.",
+    "choices": [
+      "complied",
+      "compliance",
+      "comply",
+      "compliant"
+    ],
+    "answer": 3,
+    "explanation": ""
   }
 ]

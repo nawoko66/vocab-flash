@@ -219,7 +219,7 @@ function renderGrammar() {
       }
       return '<button class="' + cls + '" data-i="' + i + '">' + choice + '</button>';
     }).join("") +
-    (answered ? '<p class="explanation">' + q.explanation + '</p>' : '') +
+    (answered && q.explanation ? '<p class="explanation">' + q.explanation + '</p>' : '') +
     '</div>';
 
   gStage.querySelectorAll(".choice").forEach(function (btn) {
