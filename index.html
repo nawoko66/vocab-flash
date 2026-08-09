@@ -80,6 +80,11 @@
 
 <div id="wordsSection">
   <div class="controls">
+    <select id="weekFilter" style="flex:1;min-width:80px;padding:10px 8px;border:1px solid #ccc;border-radius:8px;background:#fff;font-size:14px;color:#222;">
+      <option value="all">全部</option>
+    </select>
+  </div>
+  <div class="controls">
     <button id="modeCard">カード</button>
     <button id="modeQuiz">クイズ</button>
     <button id="modeWrite">英作文</button>
@@ -111,6 +116,7 @@
 </div>
 </div>
 <script>
+let allWords = [];
 let words = [];
 let idx = 0, mode = "card", results = {};
 let writeInputs = {}, writeResults = {};
@@ -194,10 +200,31 @@ function renderWrite() {
 }
 
 function renderWords() {
-  if (!words.length) { stage.innerHTML = '<div class="card"><p class="word">読み込み中...</p></div>'; return; }
+  if (!words.length) { stage.innerHTML = '<div class="card"><p class="word">この週の単語はまだありません。</p></div>'; progress.textContent = ""; return; }
   if (mode === "card") renderCard();
   else if (mode === "quiz") renderQuiz();
   else renderWrite();
+}
+
+function populateWeekFilter() {
+  const weeks = Array.from(new Set(allWords.map(function (w) { return w.week; }).filter(function (w) { return w !== undefined; })))
+    .sort(function (a, b) { return a - b; });
+  const sel = document.getElementById("weekFilter");
+  weeks.forEach(function (w) {
+    const opt = document.createElement("option");
+    opt.value = String(w);
+    opt.textContent = "第" + w + "週";
+    sel.appendChild(opt);
+  });
+}
+
+function applyWeekFilter() {
+  const val = document.getElementById("weekFilter").value;
+  words = val === "all" ? allWords.slice() : allWords.filter(function (w) { return String(w.week) === val; });
+  idx = 0;
+  results = {};
+  writeInputs = {};
+  writeResults = {};
 }
 
 function renderGrammar() {
@@ -247,6 +274,7 @@ function switchTab(t) {
 document.getElementById("tabWords").onclick = function () { switchTab("words"); };
 document.getElementById("tabGrammar").onclick = function () { switchTab("grammar"); };
 
+document.getElementById("weekFilter").onchange = function () { applyWeekFilter(); renderWords(); };
 document.getElementById("modeCard").onclick = function () { mode = "card"; renderWords(); };
 document.getElementById("modeQuiz").onclick = function () { mode = "quiz"; renderWords(); };
 document.getElementById("modeWrite").onclick = function () { mode = "write"; renderWords(); };
@@ -279,7 +307,9 @@ document.getElementById("gShuffleBtn").onclick = function () {
 fetch("words.json")
   .then(function (res) { return res.json(); })
   .then(function (data) {
-    words = data;
+    allWords = data;
+    populateWeekFilter();
+    applyWeekFilter();
     if (tab === "words") renderWords();
   })
   .catch(function (err) {
