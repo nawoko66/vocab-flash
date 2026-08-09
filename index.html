@@ -82,6 +82,7 @@
   <div class="controls">
     <button id="modeCard">カード</button>
     <button id="modeQuiz">クイズ</button>
+    <button id="modeWrite">英作文</button>
     <button id="shuffleBtn">シャッフル</button>
   </div>
   <div class="progress" id="progress"></div>
@@ -112,8 +113,13 @@
 <script>
 let words = [];
 let idx = 0, mode = "card", results = {};
+let writeInputs = {}, writeResults = {};
 const stage = document.getElementById("stage");
 const progress = document.getElementById("progress");
+
+function normalize(s) {
+  return s.trim().toLowerCase().replace(/\s+/g, " ").replace(/[.,!?;:'"]+$/, "");
+}
 
 let grammarQuestions = [];
 let gIdx = 0, gResults = {};
@@ -159,9 +165,39 @@ function renderQuiz() {
   progress.textContent = (idx + 1) + " / " + words.length + "　覚えた: " + known;
 }
 
+function renderWrite() {
+  const { word: w, meaning: m, example: ex, exampleJa: exj } = words[idx];
+  const done = writeResults[idx] !== undefined;
+  stage.innerHTML =
+    '<div class="card">' +
+    '<p class="hint">次の文を英語にしてください</p>' +
+    '<p class="meaning">' + exj + '</p>' +
+    '<textarea id="answerInput" rows="3" style="width:100%;padding:8px;border:1px solid #ccc;border-radius:8px;font-size:14px;font-family:inherit;" placeholder="英語で入力">' + (writeInputs[idx] || "") + '</textarea>' +
+    '<button class="reveal-btn" id="checkBtn" style="margin-top:8px;">判定</button>' +
+    (done ?
+      '<p class="hint ' + (writeResults[idx] ? "know" : "dont") + '">' + (writeResults[idx] ? "一致しました" : "正解と一致しませんでした") + '</p>' +
+      '<p class="example">正解例: ' + ex + '</p>' +
+      '<p class="word" style="font-size:14px;margin-top:8px;">単語: ' + w + '</p>'
+      : "") +
+    '</div>';
+  document.getElementById("checkBtn").onclick = function () {
+    const input = document.getElementById("answerInput").value;
+    writeInputs[idx] = input;
+    writeResults[idx] = normalize(input) === normalize(ex);
+    renderWrite();
+  };
+  document.getElementById("answerInput").oninput = function (e) { writeInputs[idx] = e.target.value; };
+  document.getElementById("quizControls").style.display = "none";
+  const answered = Object.keys(writeResults).length;
+  const correct = Object.values(writeResults).filter(Boolean).length;
+  progress.textContent = (idx + 1) + " / " + words.length + "　正解: " + correct + " / " + answered;
+}
+
 function renderWords() {
   if (!words.length) { stage.innerHTML = '<div class="card"><p class="word">読み込み中...</p></div>'; return; }
-  mode === "card" ? renderCard() : renderQuiz();
+  if (mode === "card") renderCard();
+  else if (mode === "quiz") renderQuiz();
+  else renderWrite();
 }
 
 function renderGrammar() {
@@ -213,6 +249,7 @@ document.getElementById("tabGrammar").onclick = function () { switchTab("grammar
 
 document.getElementById("modeCard").onclick = function () { mode = "card"; renderWords(); };
 document.getElementById("modeQuiz").onclick = function () { mode = "quiz"; renderWords(); };
+document.getElementById("modeWrite").onclick = function () { mode = "write"; renderWords(); };
 document.getElementById("prevBtn").onclick = function () { idx = (idx - 1 + words.length) % words.length; renderWords(); };
 document.getElementById("nextBtn").onclick = function () { idx = (idx + 1) % words.length; renderWords(); };
 document.getElementById("knowBtn").onclick = function () { results[idx] = "know"; idx = (idx + 1) % words.length; renderWords(); };
