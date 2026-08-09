@@ -1,85 +1,980 @@
 [
-  { "word": "1 utensil", "meaning": "台所用品", "example": "Kitchen utensils are being hung on the wall.", "exampleJa": "台所用品が壁に掛けられている。" },
-  { "word": "2 laptop", "meaning": "ノートパソコン", "example": "The woman is checking data on the laptop.", "exampleJa": "女性はノートパソコンでデータを確認している。" },
-  { "word": "3 file(動)", "meaning": "ファイルに綴じる", "example": "A man is filing a document.", "exampleJa": "男性は書類をファイルに綴じている。" },
-  { "word": "4 sweep", "meaning": "掃く", "example": "A worker is sweeping the ground.", "exampleJa": "作業員は地面を掃いている。" },
-  { "word": "5 cross", "meaning": "横断する", "example": "Cyclists are crossing the street.", "exampleJa": "サイクリングをする人が通りを横断している。" },
-  { "word": "6 assemble", "meaning": "組み立てる", "example": "The man is assembling the parts.", "exampleJa": "男性は部品を組み立てている。" },
-  { "word": "7 inspect", "meaning": "点検する", "example": "The man is inspecting the tools.", "exampleJa": "男性は道具を点検している。" },
-  { "word": "8 install", "meaning": "設置する", "example": "The man is installing some equipment.", "exampleJa": "男性は機器を設置している。" },
-  { "word": "9 place(動)", "meaning": "置く", "example": "A couch has been placed in the middle of the lounge.", "exampleJa": "ソファーがラウンジの中央に置かれている。" },
-  { "word": "10 lean", "meaning": "立てかける", "example": "There are some folding chairs leaning against the wall.", "exampleJa": "壁に立てかけられた折り畳み椅子がある。" },
-  { "word": "11 empty(動)", "meaning": "空にする", "example": "They're emptying the dishwasher.", "exampleJa": "彼らは食洗機を空にしている。" },
-  { "word": "12 fix", "meaning": "修理する", "example": "The man is fixing the plumbing.", "exampleJa": "男性は配管を修理している。" },
-  { "word": "13 remove", "meaning": "取り除く", "example": "Some sheets are being removed from the shelf.", "exampleJa": "棚からシートが取り除かれている。" },
-  { "word": "14 work on ~", "meaning": "~に取り組む", "example": "He's working on his documents.", "exampleJa": "彼は書類に取り組んでいる。" },
-  { "word": "15 pile up~/pile~up", "meaning": "山積みにする", "example": "The chairs are piled up on the desk.", "exampleJa": "椅子が机の上に積み上げられている。" },
-  { "word": "16 assistant", "meaning": "助手", "example": "Did you find a new assistant to replace Mark?", "exampleJa": "マークの後任となる新しい助手は見つかりましたか。" },
-  { "word": "17 receptionist", "meaning": "受付係", "example": "Why did you call the receptionist?", "exampleJa": "なぜ受付係に電話したのですか。" },
-  { "word": "18 launch", "meaning": "開始する・発売する", "example": "What's the plan for launching the product?", "exampleJa": "製品の発売の計画は何ですか。" },
-  { "word": "19 client", "meaning": "顧客", "example": "Are we taking the clients to the hotel?", "exampleJa": "私たちはクライアントをホテルにお連れするのですか。" },
-  { "word": "20 outcome", "meaning": "結果", "example": "This outcome was completely unexpected.", "exampleJa": "この結果は全く予想外でした。" },
-  { "word": "21 schedule(動)", "meaning": "予定する", "example": "Is the audit scheduled for this week or the next?", "exampleJa": "監査は今週予定されていますか、それとも来週ですか。" },
-  { "word": "22 enroll in ~", "meaning": "~に登録する", "example": "How can I enroll in the accounting course?", "exampleJa": "会計学の講座にどうすれば登録できますか。" },
-  { "word": "23 design(動)", "meaning": "デザインする", "example": "Who designed your company's Web site?", "exampleJa": "あなたの会社のウェブサイトをデザインしたのは誰ですか。" },
-  { "word": "24 ship(動)", "meaning": "出荷する", "example": "Hasn't the order been shipped yet?", "exampleJa": "注文品はまだ出荷されていないのですか。" },
-  { "word": "25 accompany", "meaning": "~に同行する", "example": "Will you accompany Greg to the conference?", "exampleJa": "あなたはグレッグに同行して会議に行きますか。" },
-  { "word": "26 repair", "meaning": "修理する", "example": "Is the elevator still being repaired?", "exampleJa": "エレベーターはまだ修理中ですか。" },
-  { "word": "27 locate", "meaning": "見つける", "example": "Was Mr. Harris able to locate the missing package?", "exampleJa": "ハリスさんは紛失した荷物を見つけることができましたか。" },
-  { "word": "28 book(動)", "meaning": "予約する", "example": "I'd like to book a room for tonight.", "exampleJa": "今夜の部屋を予約したいのですが。" },
-  { "word": "29 prefer", "meaning": "~の方を好む", "example": "Would you prefer a different time?", "exampleJa": "別の時間の方がよろしいですか。" },
-  { "word": "30 foresee", "meaning": "予見する", "example": "No, we don't foresee any problems.", "exampleJa": "いいえ、問題は予想していません。" },
-  { "word": "31 proofread", "meaning": "校正する", "example": "Would you be willing to proofread the changes to the employee handbook?", "exampleJa": "従業員向けハンドブックの変更点を校正していただけますか。" },
-  { "word": "32 fundraising", "meaning": "資金調達", "example": "Let's ask Nelda to join us for the fundraising dinner.", "exampleJa": "ネルダに資金調達のディナーに参加してもらうよう頼みましょう。" },
-  { "word": "33 Why don't you ~?", "meaning": "~したらどうですか", "example": "Why don't you join us for the meeting?", "exampleJa": "会議に参加したらどうですか。" },
-  { "word": "35 good word", "meaning": "口添え、ほめ言葉", "example": "I'd be happy to put in a good word for you.", "exampleJa": "喜んであなたのために口添えをします。" },
-  { "word": "36 clay pot", "meaning": "陶器の植木鉢、素焼き鉢", "example": "The shipment of clay pots arrived this morning.", "exampleJa": "今朝、陶器製の植木鉢の配送品が届きました。" },
-  { "word": "37 plenty", "meaning": "たくさんの(of~)、十分な", "example": "Two hours should be plenty of time for us to finish our meal.", "exampleJa": "2時間あれば食事を済ませるのに十分だと思います。" },
-  { "word": "38 lot", "meaning": "土地の一区画、敷地(駐車場等)", "example": "We're now asking patrons to park in the lot adjacent to the restaurant.", "exampleJa": "レストランに隣接する駐車場に停めていただくようお願いしております。" },
-  { "word": "39 selection", "meaning": "品揃え、選択", "example": "I didn't realize the selection would be this huge.", "exampleJa": "品揃えがこんなに多いとは思っていませんでした。" },
-  { "word": "40 help", "meaning": "助力、援助、協力", "example": "I need some help choosing running shoes.", "exampleJa": "ランニングシューズを選ぶのを手伝ってもらいたいのですが。" },
-  { "word": "41 trouble", "meaning": "困難、迷惑/(動)苦しめる", "example": "I'm having trouble deciding which ones to get.", "exampleJa": "どれを買うべきか決めるのに苦労しています。" },
-  { "word": "42 dirt", "meaning": "土、汚物、泥", "example": "I run on dirt in the park, weather permitting.", "exampleJa": "天気が良ければ公園で土の上を走ります。" },
-  { "word": "43 treadmill", "meaning": "トレッドミル(ランニングマシン)", "example": "On wet days, I run on a treadmill at the gym.", "exampleJa": "雨の日は、ジムのランニングマシンで走ります。" },
-  { "word": "44 merchandise", "meaning": "商品、在庫品", "example": "The man will show the woman some merchandise.", "exampleJa": "その男性は女性にいくつかの商品を見せるでしょう。" },
-  { "word": "45 ramp", "meaning": "傾斜路、スロープ", "example": "Using the center's side entrance is inconvenient, it doesn't have a ramp.", "exampleJa": "センターの通用口を使うのは、スロープがないから不便です。" },
-  { "word": "46 application", "meaning": "申請書、申込書", "example": "I need to submit a formal application by next Monday.", "exampleJa": "今度の月曜日までに正式な申請書を提出しなければなりません。" },
-  { "word": "47 proposal", "meaning": "案、計画", "example": "He asked me to submit the budget proposal two days ahead of schedule.", "exampleJa": "彼は私に予算案を予定より2日前倒しで提出するように頼んできました。" },
-  { "word": "48 detour", "meaning": "回り道", "example": "It's nice of her to make a detour to come and perform for us.", "exampleJa": "回り道をして公演しに来てくれるなんて、彼女は本当にいい人です。" },
-  { "word": "49 flyer / flier", "meaning": "チラシ", "example": "We could also make some flyers in the same design.", "exampleJa": "同じデザインのチラシを作ってもいいですね。" },
-  { "word": "50 candidate", "meaning": "志願者、候補者", "example": "Kelly's interviewing seven candidates for the accountant position today.", "exampleJa": "Kellyは今日、会計士の職の志願者7名と面接を行う予定です。" },
-  { "word": "51 storage", "meaning": "貯蔵、保管", "example": "I will be working in the storage area until this afternoon.", "exampleJa": "私は今日の午後まで保管場所で仕事をすることになっています。" },
-  { "word": "52 intern", "meaning": "インターン、研修生", "example": "I've scheduled the interviews for our intern position.", "exampleJa": "インターン職の面接を予定に入れました。" },
-  { "word": "53 graphic", "meaning": "説明用の図、絵、グラフ", "example": "Look at the graphic.", "exampleJa": "図を見てください。" },
-  { "word": "54 budget", "meaning": "予算、家計", "example": "She's got a budget of $500,000.", "exampleJa": "彼女の予算は50万ドルです。" },
-  { "word": "55 distance", "meaning": "距離、道のり", "example": "She wants to stay within walking distance of the university.", "exampleJa": "彼女は大学に歩いて通えるところを希望しています。" },
-  { "word": "56 property", "meaning": "不動産、財産", "example": "Which property would the client most likely purchase?", "exampleJa": "クライアントはどの物件を最も購入しそうですか。" },
-  { "word": "57 conference", "meaning": "会議、相談", "example": "Could we have you start the conference?", "exampleJa": "会議を開始していただいてよろしいでしょうか。" },
-  { "word": "58 offer", "meaning": "(動)提供する/(名)申し出", "example": "We offer validation, so don't forget to bring your parking ticket.", "exampleJa": "駐車許可証をお渡ししますので、駐車券を忘れずにお持ちください。" },
-  { "word": "59 apologize", "meaning": "わびる、謝る", "example": "Why does the woman apologize?", "exampleJa": "女性はなぜ謝っていますか。" },
-  { "word": "60 complete(動)", "meaning": "終える", "example": "She is too tired to complete the task.", "exampleJa": "彼女は疲れすぎて仕事を終えられません。" },
-  { "word": "61 complain", "meaning": "不平、不満を言う", "example": "Has anyone complained about not being able to use the front entrance?", "exampleJa": "正面玄関を使えないことについて、誰か苦情を言っていますか。" },
-  { "word": "62 promote", "meaning": "昇進させる", "example": "Sue Foxwell was promoted to the head of the accounting department.", "exampleJa": "Sue Foxwellが経理部長に昇進しました。" },
-  { "word": "63 vacate", "meaning": "(職を)退く、明け渡す", "example": "No one seems interested in the position Sue is vacating.", "exampleJa": "誰もSueが明け渡す職には興味がないようです。" },
-  { "word": "64 imply", "meaning": "暗に意味する", "example": "What is implied about Arthur?", "exampleJa": "Arthurについて何が示唆されていますか。" },
-  { "word": "65 jam", "meaning": "ぎっしり詰まる、ふさぐ", "example": "Could the copier be jammed again, or did I push the wrong button?", "exampleJa": "そのコピー機はまた紙詰まりを起こしているのですか。" },
-  { "word": "66 hold", "meaning": "収容できる", "example": "The outdoor concert hall in the park can hold up to a thousand people.", "exampleJa": "公園にあるコンサート会場は1,000人まで収容できます。" },
-  { "word": "67 interview", "meaning": "(動)面接する/(名)面接", "example": "It would be great if she could interview me as scheduled.", "exampleJa": "彼女が私の面接を予定通り行っていただけるとありがたいです。" },
-  { "word": "68 preset", "meaning": "前もってセットする", "example": "I've pre-set the presentation and tested it earlier.", "exampleJa": "さっきプレゼンテーションを前もってセットして、テストしました。" },
-  { "word": "69 state-of-the-art", "meaning": "最新式の", "example": "All the fittings are state-of-the-art.", "exampleJa": "設備はすべて最新式です。" },
-  { "word": "70 available", "meaning": "利用できる", "example": "That service is no longer available.", "exampleJa": "そのサービスはもはや利用できない。" },
-  { "word": "71 extensive", "meaning": "大がかりな、広大な", "example": "It is in need of extensive repairs.", "exampleJa": "それは大がかりな改修が必要である。" },
-  { "word": "72 stuck", "meaning": "動かない、詰まった", "example": "Some paper is stuck in the copier.", "exampleJa": "紙がコピー機に詰まっています。" },
-  { "word": "73 rectangular", "meaning": "長方形の", "example": "Half of the shipment consists of rectangular pots.", "exampleJa": "配送品の半分は長方形の鉢です。" },
-  { "word": "74 top-of-mind", "meaning": "真っ先に思い浮かぶ", "example": "It is top-of-mind for everyone at the moment.", "exampleJa": "目下のところ全員の関心事です。" },
-  { "word": "75 gladly", "meaning": "喜んで、快く", "example": "The local radio station would gladly help us out.", "exampleJa": "地元のラジオ局も喜んで力を貸してくれるはずです。" },
-  { "word": "76 through", "meaning": "~の間じゅう、~を通じて", "example": "The workmen were working through the weekend to finish the job.", "exampleJa": "作業員たちは週末を通して作業をするそうです。" },
-  { "word": "77 make a call", "meaning": "電話をかける", "example": "Why is the man making the call?", "exampleJa": "男性はなぜ電話をかけていますか。" },
-  { "word": "78 be out of stock", "meaning": "在庫切れである", "example": "That item is out of stock.", "exampleJa": "その品物の在庫が切れている。" },
-  { "word": "79 come a long way", "meaning": "大いに進展する", "example": "Running shoe technology has come a long way in two years.", "exampleJa": "この2年間でランニングシューズの技術は大いに進歩しました。" },
-  { "word": "80 make a choice", "meaning": "選ぶ", "example": "She is unable to make a choice.", "exampleJa": "彼女は選ぶことができません。" },
-  { "word": "81 try out ~ / try ~ out", "meaning": "試用する、試してみる", "example": "The man will try out some new products.", "exampleJa": "その男性は新製品をいくつか試してみるでしょう。" },
-  { "word": "82 make it", "meaning": "来る、出席する", "example": "It's a shame my wife couldn't make it today.", "exampleJa": "妻が今日来られなかったのは残念です。" },
-  { "word": "83 wrap up ~ / wrap ~ up", "meaning": "終わりにする", "example": "You'd better wrap up your coffee break.", "exampleJa": "コーヒーブレイクはこのくらいにしたほうがいいよ。" },
-  { "word": "84 run out of ~", "meaning": "使い果たす、切らす", "example": "We ran out of them yesterday.", "exampleJa": "昨日それらを切らしてしまった。" }
+  {
+    "word": "1 utensil",
+    "meaning": "台所用品",
+    "example": "Kitchen utensils are being hung on the wall.",
+    "exampleJa": "台所用品が壁に掛けられている。"
+  },
+  {
+    "word": "2 laptop",
+    "meaning": "ノートパソコン",
+    "example": "The woman is checking data on the laptop.",
+    "exampleJa": "女性はノートパソコンでデータを確認している。"
+  },
+  {
+    "word": "3 file(動)",
+    "meaning": "ファイルに綴じる",
+    "example": "A man is filing a document.",
+    "exampleJa": "男性は書類をファイルに綴じている。"
+  },
+  {
+    "word": "4 sweep",
+    "meaning": "掃く",
+    "example": "A worker is sweeping the ground.",
+    "exampleJa": "作業員は地面を掃いている。"
+  },
+  {
+    "word": "5 cross",
+    "meaning": "横断する",
+    "example": "Cyclists are crossing the street.",
+    "exampleJa": "サイクリングをする人が通りを横断している。"
+  },
+  {
+    "word": "6 assemble",
+    "meaning": "組み立てる",
+    "example": "The man is assembling the parts.",
+    "exampleJa": "男性は部品を組み立てている。"
+  },
+  {
+    "word": "7 inspect",
+    "meaning": "点検する",
+    "example": "The man is inspecting the tools.",
+    "exampleJa": "男性は道具を点検している。"
+  },
+  {
+    "word": "8 install",
+    "meaning": "設置する",
+    "example": "The man is installing some equipment.",
+    "exampleJa": "男性は機器を設置している。"
+  },
+  {
+    "word": "9 place(動)",
+    "meaning": "置く",
+    "example": "A couch has been placed in the middle of the lounge.",
+    "exampleJa": "ソファーがラウンジの中央に置かれている。"
+  },
+  {
+    "word": "10 lean",
+    "meaning": "立てかける",
+    "example": "There are some folding chairs leaning against the wall.",
+    "exampleJa": "壁に立てかけられた折り畳み椅子がある。"
+  },
+  {
+    "word": "11 empty(動)",
+    "meaning": "空にする",
+    "example": "They're emptying the dishwasher.",
+    "exampleJa": "彼らは食洗機を空にしている。"
+  },
+  {
+    "word": "12 fix",
+    "meaning": "修理する",
+    "example": "The man is fixing the plumbing.",
+    "exampleJa": "男性は配管を修理している。"
+  },
+  {
+    "word": "13 remove",
+    "meaning": "取り除く",
+    "example": "Some sheets are being removed from the shelf.",
+    "exampleJa": "棚からシートが取り除かれている。"
+  },
+  {
+    "word": "14 work on ~",
+    "meaning": "~に取り組む",
+    "example": "He's working on his documents.",
+    "exampleJa": "彼は書類に取り組んでいる。"
+  },
+  {
+    "word": "15 pile up~/pile~up",
+    "meaning": "山積みにする",
+    "example": "The chairs are piled up on the desk.",
+    "exampleJa": "椅子が机の上に積み上げられている。"
+  },
+  {
+    "word": "16 assistant",
+    "meaning": "助手",
+    "example": "Did you find a new assistant to replace Mark?",
+    "exampleJa": "マークの後任となる新しい助手は見つかりましたか。"
+  },
+  {
+    "word": "17 receptionist",
+    "meaning": "受付係",
+    "example": "Why did you call the receptionist?",
+    "exampleJa": "なぜ受付係に電話したのですか。"
+  },
+  {
+    "word": "18 launch",
+    "meaning": "開始する・発売する",
+    "example": "What's the plan for launching the product?",
+    "exampleJa": "製品の発売の計画は何ですか。"
+  },
+  {
+    "word": "19 client",
+    "meaning": "顧客",
+    "example": "Are we taking the clients to the hotel?",
+    "exampleJa": "私たちはクライアントをホテルにお連れするのですか。"
+  },
+  {
+    "word": "20 outcome",
+    "meaning": "結果",
+    "example": "This outcome was completely unexpected.",
+    "exampleJa": "この結果は全く予想外でした。"
+  },
+  {
+    "word": "21 schedule(動)",
+    "meaning": "予定する",
+    "example": "Is the audit scheduled for this week or the next?",
+    "exampleJa": "監査は今週予定されていますか、それとも来週ですか。"
+  },
+  {
+    "word": "22 enroll in ~",
+    "meaning": "~に登録する",
+    "example": "How can I enroll in the accounting course?",
+    "exampleJa": "会計学の講座にどうすれば登録できますか。"
+  },
+  {
+    "word": "23 design(動)",
+    "meaning": "デザインする",
+    "example": "Who designed your company's Web site?",
+    "exampleJa": "あなたの会社のウェブサイトをデザインしたのは誰ですか。"
+  },
+  {
+    "word": "24 ship(動)",
+    "meaning": "出荷する",
+    "example": "Hasn't the order been shipped yet?",
+    "exampleJa": "注文品はまだ出荷されていないのですか。"
+  },
+  {
+    "word": "25 accompany",
+    "meaning": "~に同行する",
+    "example": "Will you accompany Greg to the conference?",
+    "exampleJa": "あなたはグレッグに同行して会議に行きますか。"
+  },
+  {
+    "word": "26 repair",
+    "meaning": "修理する",
+    "example": "Is the elevator still being repaired?",
+    "exampleJa": "エレベーターはまだ修理中ですか。"
+  },
+  {
+    "word": "27 locate",
+    "meaning": "見つける",
+    "example": "Was Mr. Harris able to locate the missing package?",
+    "exampleJa": "ハリスさんは紛失した荷物を見つけることができましたか。"
+  },
+  {
+    "word": "28 book(動)",
+    "meaning": "予約する",
+    "example": "I'd like to book a room for tonight.",
+    "exampleJa": "今夜の部屋を予約したいのですが。"
+  },
+  {
+    "word": "29 prefer",
+    "meaning": "~の方を好む",
+    "example": "Would you prefer a different time?",
+    "exampleJa": "別の時間の方がよろしいですか。"
+  },
+  {
+    "word": "30 foresee",
+    "meaning": "予見する",
+    "example": "No, we don't foresee any problems.",
+    "exampleJa": "いいえ、問題は予想していません。"
+  },
+  {
+    "word": "31 proofread",
+    "meaning": "校正する",
+    "example": "Would you be willing to proofread the changes to the employee handbook?",
+    "exampleJa": "従業員向けハンドブックの変更点を校正していただけますか。"
+  },
+  {
+    "word": "32 fundraising",
+    "meaning": "資金調達",
+    "example": "Let's ask Nelda to join us for the fundraising dinner.",
+    "exampleJa": "ネルダに資金調達のディナーに参加してもらうよう頼みましょう。"
+  },
+  {
+    "word": "33 Why don't you ~?",
+    "meaning": "~したらどうですか",
+    "example": "Why don't you join us for the meeting?",
+    "exampleJa": "会議に参加したらどうですか。"
+  },
+  {
+    "word": "35 good word",
+    "meaning": "口添え、ほめ言葉",
+    "example": "I'd be happy to put in a good word for you.",
+    "exampleJa": "喜んであなたのために口添えをします。"
+  },
+  {
+    "word": "36 clay pot",
+    "meaning": "陶器の植木鉢、素焼き鉢",
+    "example": "The shipment of clay pots arrived this morning.",
+    "exampleJa": "今朝、陶器製の植木鉢の配送品が届きました。"
+  },
+  {
+    "word": "37 plenty",
+    "meaning": "たくさんの(of~)、十分な",
+    "example": "Two hours should be plenty of time for us to finish our meal.",
+    "exampleJa": "2時間あれば食事を済ませるのに十分だと思います。"
+  },
+  {
+    "word": "38 lot",
+    "meaning": "土地の一区画、敷地(駐車場等)",
+    "example": "We're now asking patrons to park in the lot adjacent to the restaurant.",
+    "exampleJa": "レストランに隣接する駐車場に停めていただくようお願いしております。"
+  },
+  {
+    "word": "39 selection",
+    "meaning": "品揃え、選択",
+    "example": "I didn't realize the selection would be this huge.",
+    "exampleJa": "品揃えがこんなに多いとは思っていませんでした。"
+  },
+  {
+    "word": "40 help",
+    "meaning": "助力、援助、協力",
+    "example": "I need some help choosing running shoes.",
+    "exampleJa": "ランニングシューズを選ぶのを手伝ってもらいたいのですが。"
+  },
+  {
+    "word": "41 trouble",
+    "meaning": "困難、迷惑/(動)苦しめる",
+    "example": "I'm having trouble deciding which ones to get.",
+    "exampleJa": "どれを買うべきか決めるのに苦労しています。"
+  },
+  {
+    "word": "42 dirt",
+    "meaning": "土、汚物、泥",
+    "example": "I run on dirt in the park, weather permitting.",
+    "exampleJa": "天気が良ければ公園で土の上を走ります。"
+  },
+  {
+    "word": "43 treadmill",
+    "meaning": "トレッドミル(ランニングマシン)",
+    "example": "On wet days, I run on a treadmill at the gym.",
+    "exampleJa": "雨の日は、ジムのランニングマシンで走ります。"
+  },
+  {
+    "word": "44 merchandise",
+    "meaning": "商品、在庫品",
+    "example": "The man will show the woman some merchandise.",
+    "exampleJa": "その男性は女性にいくつかの商品を見せるでしょう。"
+  },
+  {
+    "word": "45 ramp",
+    "meaning": "傾斜路、スロープ",
+    "example": "Using the center's side entrance is inconvenient, it doesn't have a ramp.",
+    "exampleJa": "センターの通用口を使うのは、スロープがないから不便です。"
+  },
+  {
+    "word": "46 application",
+    "meaning": "申請書、申込書",
+    "example": "I need to submit a formal application by next Monday.",
+    "exampleJa": "今度の月曜日までに正式な申請書を提出しなければなりません。"
+  },
+  {
+    "word": "47 proposal",
+    "meaning": "案、計画",
+    "example": "He asked me to submit the budget proposal two days ahead of schedule.",
+    "exampleJa": "彼は私に予算案を予定より2日前倒しで提出するように頼んできました。"
+  },
+  {
+    "word": "48 detour",
+    "meaning": "回り道",
+    "example": "It's nice of her to make a detour to come and perform for us.",
+    "exampleJa": "回り道をして公演しに来てくれるなんて、彼女は本当にいい人です。"
+  },
+  {
+    "word": "49 flyer / flier",
+    "meaning": "チラシ",
+    "example": "We could also make some flyers in the same design.",
+    "exampleJa": "同じデザインのチラシを作ってもいいですね。"
+  },
+  {
+    "word": "50 candidate",
+    "meaning": "志願者、候補者",
+    "example": "Kelly's interviewing seven candidates for the accountant position today.",
+    "exampleJa": "Kellyは今日、会計士の職の志願者7名と面接を行う予定です。"
+  },
+  {
+    "word": "51 storage",
+    "meaning": "貯蔵、保管",
+    "example": "I will be working in the storage area until this afternoon.",
+    "exampleJa": "私は今日の午後まで保管場所で仕事をすることになっています。"
+  },
+  {
+    "word": "52 intern",
+    "meaning": "インターン、研修生",
+    "example": "I've scheduled the interviews for our intern position.",
+    "exampleJa": "インターン職の面接を予定に入れました。"
+  },
+  {
+    "word": "53 graphic",
+    "meaning": "説明用の図、絵、グラフ",
+    "example": "Look at the graphic.",
+    "exampleJa": "図を見てください。"
+  },
+  {
+    "word": "54 budget",
+    "meaning": "予算、家計",
+    "example": "She's got a budget of $500,000.",
+    "exampleJa": "彼女の予算は50万ドルです。"
+  },
+  {
+    "word": "55 distance",
+    "meaning": "距離、道のり",
+    "example": "She wants to stay within walking distance of the university.",
+    "exampleJa": "彼女は大学に歩いて通えるところを希望しています。"
+  },
+  {
+    "word": "56 property",
+    "meaning": "不動産、財産",
+    "example": "Which property would the client most likely purchase?",
+    "exampleJa": "クライアントはどの物件を最も購入しそうですか。"
+  },
+  {
+    "word": "57 conference",
+    "meaning": "会議、相談",
+    "example": "Could we have you start the conference?",
+    "exampleJa": "会議を開始していただいてよろしいでしょうか。"
+  },
+  {
+    "word": "58 offer",
+    "meaning": "(動)提供する/(名)申し出",
+    "example": "We offer validation, so don't forget to bring your parking ticket.",
+    "exampleJa": "駐車許可証をお渡ししますので、駐車券を忘れずにお持ちください。"
+  },
+  {
+    "word": "59 apologize",
+    "meaning": "わびる、謝る",
+    "example": "Why does the woman apologize?",
+    "exampleJa": "女性はなぜ謝っていますか。"
+  },
+  {
+    "word": "60 complete(動)",
+    "meaning": "終える",
+    "example": "She is too tired to complete the task.",
+    "exampleJa": "彼女は疲れすぎて仕事を終えられません。"
+  },
+  {
+    "word": "61 complain",
+    "meaning": "不平、不満を言う",
+    "example": "Has anyone complained about not being able to use the front entrance?",
+    "exampleJa": "正面玄関を使えないことについて、誰か苦情を言っていますか。"
+  },
+  {
+    "word": "62 promote",
+    "meaning": "昇進させる",
+    "example": "Sue Foxwell was promoted to the head of the accounting department.",
+    "exampleJa": "Sue Foxwellが経理部長に昇進しました。"
+  },
+  {
+    "word": "63 vacate",
+    "meaning": "(職を)退く、明け渡す",
+    "example": "No one seems interested in the position Sue is vacating.",
+    "exampleJa": "誰もSueが明け渡す職には興味がないようです。"
+  },
+  {
+    "word": "64 imply",
+    "meaning": "暗に意味する",
+    "example": "What is implied about Arthur?",
+    "exampleJa": "Arthurについて何が示唆されていますか。"
+  },
+  {
+    "word": "65 jam",
+    "meaning": "ぎっしり詰まる、ふさぐ",
+    "example": "Could the copier be jammed again, or did I push the wrong button?",
+    "exampleJa": "そのコピー機はまた紙詰まりを起こしているのですか。"
+  },
+  {
+    "word": "66 hold",
+    "meaning": "収容できる",
+    "example": "The outdoor concert hall in the park can hold up to a thousand people.",
+    "exampleJa": "公園にあるコンサート会場は1,000人まで収容できます。"
+  },
+  {
+    "word": "67 interview",
+    "meaning": "(動)面接する/(名)面接",
+    "example": "It would be great if she could interview me as scheduled.",
+    "exampleJa": "彼女が私の面接を予定通り行っていただけるとありがたいです。"
+  },
+  {
+    "word": "68 preset",
+    "meaning": "前もってセットする",
+    "example": "I've pre-set the presentation and tested it earlier.",
+    "exampleJa": "さっきプレゼンテーションを前もってセットして、テストしました。"
+  },
+  {
+    "word": "69 state-of-the-art",
+    "meaning": "最新式の",
+    "example": "All the fittings are state-of-the-art.",
+    "exampleJa": "設備はすべて最新式です。"
+  },
+  {
+    "word": "70 available",
+    "meaning": "利用できる",
+    "example": "That service is no longer available.",
+    "exampleJa": "そのサービスはもはや利用できない。"
+  },
+  {
+    "word": "71 extensive",
+    "meaning": "大がかりな、広大な",
+    "example": "It is in need of extensive repairs.",
+    "exampleJa": "それは大がかりな改修が必要である。"
+  },
+  {
+    "word": "72 stuck",
+    "meaning": "動かない、詰まった",
+    "example": "Some paper is stuck in the copier.",
+    "exampleJa": "紙がコピー機に詰まっています。"
+  },
+  {
+    "word": "73 rectangular",
+    "meaning": "長方形の",
+    "example": "Half of the shipment consists of rectangular pots.",
+    "exampleJa": "配送品の半分は長方形の鉢です。"
+  },
+  {
+    "word": "74 top-of-mind",
+    "meaning": "真っ先に思い浮かぶ",
+    "example": "It is top-of-mind for everyone at the moment.",
+    "exampleJa": "目下のところ全員の関心事です。"
+  },
+  {
+    "word": "75 gladly",
+    "meaning": "喜んで、快く",
+    "example": "The local radio station would gladly help us out.",
+    "exampleJa": "地元のラジオ局も喜んで力を貸してくれるはずです。"
+  },
+  {
+    "word": "76 through",
+    "meaning": "~の間じゅう、~を通じて",
+    "example": "The workmen were working through the weekend to finish the job.",
+    "exampleJa": "作業員たちは週末を通して作業をするそうです。"
+  },
+  {
+    "word": "77 make a call",
+    "meaning": "電話をかける",
+    "example": "Why is the man making the call?",
+    "exampleJa": "男性はなぜ電話をかけていますか。"
+  },
+  {
+    "word": "78 be out of stock",
+    "meaning": "在庫切れである",
+    "example": "That item is out of stock.",
+    "exampleJa": "その品物の在庫が切れている。"
+  },
+  {
+    "word": "79 come a long way",
+    "meaning": "大いに進展する",
+    "example": "Running shoe technology has come a long way in two years.",
+    "exampleJa": "この2年間でランニングシューズの技術は大いに進歩しました。"
+  },
+  {
+    "word": "80 make a choice",
+    "meaning": "選ぶ",
+    "example": "She is unable to make a choice.",
+    "exampleJa": "彼女は選ぶことができません。"
+  },
+  {
+    "word": "81 try out ~ / try ~ out",
+    "meaning": "試用する、試してみる",
+    "example": "The man will try out some new products.",
+    "exampleJa": "その男性は新製品をいくつか試してみるでしょう。"
+  },
+  {
+    "word": "82 make it",
+    "meaning": "来る、出席する",
+    "example": "It's a shame my wife couldn't make it today.",
+    "exampleJa": "妻が今日来られなかったのは残念です。"
+  },
+  {
+    "word": "83 wrap up ~ / wrap ~ up",
+    "meaning": "終わりにする",
+    "example": "You'd better wrap up your coffee break.",
+    "exampleJa": "コーヒーブレイクはこのくらいにしたほうがいいよ。"
+  },
+  {
+    "word": "84 run out of ~",
+    "meaning": "使い果たす、切らす",
+    "example": "We ran out of them yesterday.",
+    "exampleJa": "昨日それらを切らしてしまった。"
+  },
+  {
+    "word": "85 construction",
+    "meaning": "建設",
+    "example": "Construction of the museum finished last week.",
+    "exampleJa": "美術館の建設が先週終了した。"
+  },
+  {
+    "word": "86 city hall",
+    "meaning": "市役所",
+    "example": "More information on the traffic situation is available from city hall.",
+    "exampleJa": "渋滞や交通状況に関する詳細情報は市役所から入手できます。"
+  },
+  {
+    "word": "87 grocery",
+    "meaning": "(複数形で) 食料雑貨店、食料雑貨、食品類",
+    "example": "Welcome to Gino's, everyone's favorite place to shop for groceries!",
+    "exampleJa": "皆さんが大好きな、食料雑貨を買う店Ginoにようこそ！"
+  },
+  {
+    "word": "88 produce",
+    "meaning": "(名)農産物、青果/(動)生産する",
+    "example": "Don't miss the juicy grapefruits and sweet honeydew melons in the produce section.",
+    "exampleJa": "青果物と区別した生鮮食品コーナーにある果汁たっぷりのグレープフルーツと甘いハネデューメロンをお見逃しなく。"
+  },
+  {
+    "word": "89 flavor",
+    "meaning": "(舌先に感じる)風味、味、風味、香味",
+    "example": "Buy half a dozen muffins and get one free — this goes for all flavors.",
+    "exampleJa": "マフィンを半ダースご購入いただくと、1つ無料で差し上げます。全味共通です。"
+  },
+  {
+    "word": "90 access",
+    "meaning": "(名)(物を)利用する権利/(動)(~に)入る、利用する",
+    "example": "I will have access to the key all day tomorrow.",
+    "exampleJa": "明日は、終日鍵を利用できます。"
+  },
+  {
+    "word": "91 condo",
+    "meaning": "(米)分譲マンション",
+    "example": "Might I suggest seeing the condo tomorrow afternoon or evening?",
+    "exampleJa": "マンションの見学を明日の午後か夕方に行うのはいかがでしょうか。"
+  },
+  {
+    "word": "92 firm",
+    "meaning": "会社",
+    "example": "Gary Cox has joined our firm as of last Friday.",
+    "exampleJa": "Gary Coxが先週の金曜日付で我々の会社に加わりました。"
+  },
+  {
+    "word": "93 agency",
+    "meaning": "代理店、取次店",
+    "example": "He decided to spend time in Asia, helping to launch two advertising agencies there.",
+    "exampleJa": "彼はアジアで2つの広告代理店の立ち上げに協力しながら、そこで時間を過ごすことに決めました。"
+  },
+  {
+    "word": "94 completion",
+    "meaning": "完了",
+    "example": "It looks like the museum is set for completion a week before the Arts Festival in October.",
+    "exampleJa": "美術館は10月のアートフェスティバルの1週間前に完成する予定のようです。"
+  },
+  {
+    "word": "95 department",
+    "meaning": "部門、部、部署",
+    "example": "All those who participate in the sessions will receive a coupon for each day of the department's Juice Bar.",
+    "exampleJa": "セッションに参加する全員が、部署のジュースバーの1日分クーポン券を受け取れます。"
+  },
+  {
+    "word": "96 coupon",
+    "meaning": "クーポン券",
+    "example": "An instructor will visit your department every day.",
+    "exampleJa": "毎日、インストラクターがあなたの部署を訪れます。"
+  },
+  {
+    "word": "97 secure",
+    "meaning": "(動)確保する/(形)安全な",
+    "example": "I won't be able to secure a key for the place until tomorrow morning.",
+    "exampleJa": "明日の朝まで、その場所の鍵を手に入れることができません。"
+  },
+  {
+    "word": "98 mention",
+    "meaning": "~と言う、~について述べる",
+    "example": "I think you mentioned that you wanted to be picked up at nine.",
+    "exampleJa": "あなたは9時に来て迎えに来てほしいとおっしゃっていたと思います。"
+  },
+  {
+    "word": "99 attend",
+    "meaning": "出席する",
+    "example": "I have a meeting to attend later in the morning.",
+    "exampleJa": "私は午前中の後半に出席すべき会議があります。"
+  },
+  {
+    "word": "100 post",
+    "meaning": "掲示物を貼る",
+    "example": "A schedule of the sessions will be posted on the bulletin boards by the elevators on each floor.",
+    "exampleJa": "会のスケジュール表は、各フロアのエレベーター側の掲示板に貼り出されます。"
+  },
+  {
+    "word": "101 address",
+    "meaning": "話しかける",
+    "example": "Who is the speaker probably addressing?",
+    "exampleJa": "話し手は、おそらく誰に話しかけていますか。"
+  },
+  {
+    "word": "102 work ~ out/work out ~",
+    "meaning": "(事を)解決する、成し遂げる",
+    "example": "Please call me back as soon as possible so we can work something out.",
+    "exampleJa": "何とか解決できるように、できるだけ早く折り返しのご連絡をお願いいたします。"
+  },
+  {
+    "word": "103 fill a person's shoes",
+    "meaning": "人に代わる、人の後任となる",
+    "example": "We searched long and hard for someone to fill Miles Patterson's shoes.",
+    "exampleJa": "長い間、懸命にMiles Pattersonの後任を探していました。"
+  },
+  {
+    "word": "104 look forward to ~",
+    "meaning": "~を期待する、楽しみにして待つ",
+    "example": "He is looking forward to working with all of you.",
+    "exampleJa": "彼は皆さん全員と働くことをとても楽しみにしています。"
+  },
+  {
+    "word": "105 stay tuned",
+    "meaning": "このままお聞きください",
+    "example": "Stay tuned for business news.",
+    "exampleJa": "引き続き、ビジネスニュースをお聞きください。"
+  },
+  {
+    "word": "106 in conjunction with ~",
+    "meaning": "~と合同して、~と共に",
+    "example": "In conjunction with National Health Week, we're offering free yoga classes.",
+    "exampleJa": "全国健康週間にちなんで、無料ヨガ講座を開催します。"
+  },
+  {
+    "word": "107 take advantage of ~",
+    "meaning": "(好機・事実を)利用する",
+    "example": "Take advantage of this chance to get yourself on the road to health!",
+    "exampleJa": "この機会を利用してぜひ健康への道を歩み始めましょう。"
+  },
+  {
+    "word": "108 occupancy",
+    "meaning": "(建物・乗り物などの)収容能力",
+    "example": "Three rooms are double occupancy and the other four have an extra bed.",
+    "exampleJa": "3部屋が2人部屋で、残りの4部屋にはエキストラベッドが付いています。"
+  },
+  {
+    "word": "109 venue",
+    "meaning": "(コンサート・会議などの)開催地、現場",
+    "example": "A ticket is necessary to enter the venue.",
+    "exampleJa": "会場に入るためにはチケットが必要です。"
+  },
+  {
+    "word": "110 inconvenience",
+    "meaning": "不便、不自由",
+    "example": "Sorry for the inconvenience.",
+    "exampleJa": "ご迷惑をおかけして申し訳ありません。"
+  },
+  {
+    "word": "111 refund",
+    "meaning": "(名)払い戻し/(動)払い戻す",
+    "example": "Refunds on tickets are available at the ticket center.",
+    "exampleJa": "乗車券の払い戻しは、チケットセンターにてご利用いただけます。"
+  },
+  {
+    "word": "112 tone",
+    "meaning": "発信音",
+    "example": "Our premium members may place phone orders by leaving a message after the tone.",
+    "exampleJa": "プレミアム会員のお客様は、発信音のあとにメッセージを残していただくことで、電話注文をしていただけます。"
+  },
+  {
+    "word": "113 delivery",
+    "meaning": "配達",
+    "example": "Next-day delivery is available for an extra charge.",
+    "exampleJa": "追加料金で翌日配送がご利用になれます。"
+  },
+  {
+    "word": "114 touch",
+    "meaning": "仕上げ、加筆",
+    "example": "We started putting the finishing touches on tomorrow's presentation.",
+    "exampleJa": "私達は明日のプレゼンの最終作業を始めました。"
+  },
+  {
+    "word": "115 beverage",
+    "meaning": "(水以外の)飲み物",
+    "example": "The overall design of the beverage can is fine.",
+    "exampleJa": "飲料缶の全体的なデザインはいいです。"
+  },
+  {
+    "word": "116 process",
+    "meaning": "処理する",
+    "example": "If we don't hear back from you by the end of the day, your original order will be processed.",
+    "exampleJa": "今日中にご連絡がない場合は、最初のご注文が処理されます。"
+  },
+  {
+    "word": "117 allot",
+    "meaning": "(人に)割り当てる",
+    "example": "Half of the third floor has been allotted to your group.",
+    "exampleJa": "3階の半分がお客様のグループに割り当てられております。"
+  },
+  {
+    "word": "118 include",
+    "meaning": "含む",
+    "example": "Breakfast, dinner and live entertainment are included in your stay package.",
+    "exampleJa": "朝食と夕食、ライブショーが滞在パッケージに含まれています。"
+  },
+  {
+    "word": "119 undergo",
+    "meaning": "(変化・検査などを)受ける",
+    "example": "We're undergoing maintenance.",
+    "exampleJa": "現在メンテナンス中です。"
+  },
+  {
+    "word": "120 suspend",
+    "meaning": "一時停止する",
+    "example": "Due to a damaged power line in Clarinda, service for southbound trains has been suspended.",
+    "exampleJa": "Clarindaでの電線の故障により、南行きの列車は一時運転を見合わせております。"
+  },
+  {
+    "word": "121 delay",
+    "meaning": "(動)遅らせる/(名)延期、遅延",
+    "example": "Trains arriving from the area are delayed by as much as an hour.",
+    "exampleJa": "その地域から到着する列車には、1時間以内の遅れが出ています。"
+  },
+  {
+    "word": "122 restore",
+    "meaning": "回復する、修復する",
+    "example": "Work is being done to restore the power lines.",
+    "exampleJa": "電線を復旧するために作業が行われています。"
+  },
+  {
+    "word": "123 resume",
+    "meaning": "再び始める",
+    "example": "Regular business hours of 10 A.M. to 7 P.M. will resume on Wednesday.",
+    "exampleJa": "午前10時から午後7時までの通常の営業時間は、水曜日より再開いたします。"
+  },
+  {
+    "word": "124 pass",
+    "meaning": "(情報を)人に渡す、伝える",
+    "example": "I want to pass along some things Jody had to say before she left for Brussels.",
+    "exampleJa": "Jodyがブリュッセルに出発する前に言わなければならなかったことをお伝えしたいと思います。"
+  },
+  {
+    "word": "125 tweak",
+    "meaning": "微調整する、手直しする",
+    "example": "There's no need to tweak the actual logo.",
+    "exampleJa": "現時点のロゴに変更を加える必要はありません。"
+  },
+  {
+    "word": "126 around-the-clock",
+    "meaning": "《米》24時間営業[体制]",
+    "example": "There's currently around-the-clock Internet access in the lobby only.",
+    "exampleJa": "現在、24時間のインターネットアクセスはロビーのみとなっております。"
+  },
+  {
+    "word": "127 latest",
+    "meaning": "最新の",
+    "example": "Passengers are advised to check the arrival and departure boards for the latest information on their train.",
+    "exampleJa": "乗客の皆様は、出発・到着予定の掲示板にて、皆様の電車に関する最新情報をご確認いただくようお願いいたします。"
+  },
+  {
+    "word": "128 vibrant",
+    "meaning": "(色・光が)明るい、明るく輝く",
+    "example": "She recommends vibrant colors with emphasis on shades of blue and green.",
+    "exampleJa": "彼女は青と緑の色合いを強調した鮮やかな色を勧めています。"
+  },
+  {
+    "word": "129 place an order",
+    "meaning": "発注する",
+    "example": "I'm calling about the online order you placed yesterday.",
+    "exampleJa": "昨日お客様がされた、オンライン注文についてご連絡いたしました。"
+  },
+  {
+    "word": "130 either A or B",
+    "meaning": "AかBのどちらか",
+    "example": "You can either call us at 920-1025 or send us an e-mail.",
+    "exampleJa": "弊社920-1025までお電話いただくか、メールをお送りください。"
+  },
+  {
+    "word": "131 on schedule",
+    "meaning": "予定通りに",
+    "example": "All north and westbound trains are running on schedule.",
+    "exampleJa": "北行きおよび西行きの列車はすべて通常通り運行しております。"
+  },
+  {
+    "word": "132 procedure",
+    "meaning": "手順",
+    "example": "Technicians in the laboratory must follow proper safety procedures at all times.",
+    "exampleJa": "研究室の技術者は、常に正式な安全手順に従わなければなりません。"
+  },
+  {
+    "word": "133 supply",
+    "meaning": "(しばしば -ies) 備蓄、必需品",
+    "example": "The sales department keeps supplies in this cabinet.",
+    "exampleJa": "販売部は、備品をこの棚の中に保管しています。"
+  },
+  {
+    "word": "134 textile",
+    "meaning": "織物、布地",
+    "example": "Residents of the towns worked mainly in the textile industry.",
+    "exampleJa": "その町の住民たちは、主に織物産業で働いていました。"
+  },
+  {
+    "word": "135 committee",
+    "meaning": "委員会",
+    "example": "The judging committee divided the prize money equally among the four winners.",
+    "exampleJa": "審査委員会は、賞金を4名の受賞者の間で均等に分けました。"
+  },
+  {
+    "word": "136 crack",
+    "meaning": "亀裂",
+    "example": "A minor crack was found in a support column.",
+    "exampleJa": "支柱に小さな亀裂が見つかりました。"
+  },
+  {
+    "word": "137 subscriber",
+    "meaning": "加入者",
+    "example": "New subscribers to Maxett Cable's basic package can enjoy a free trial of all premium channels for a limited period of time.",
+    "exampleJa": "Maxettケーブルテレビの基本パックの新規加入者は、期間限定で、すべてのプレミアムチャンネルの無料お試し視聴を楽しむことができます。"
+  },
+  {
+    "word": "138 location",
+    "meaning": "場所、位置、所在",
+    "example": "Fegman's sells clothing both online and at its two locations in Carrolton.",
+    "exampleJa": "Fegman'sは、インターネットでもCarrolton市内の2店舗でも衣類を販売しています。"
+  },
+  {
+    "word": "139 director",
+    "meaning": "取締役",
+    "example": "Ms. Hali, the director of the company, will interview the three candidates for the general manager position.",
+    "exampleJa": "会社の取締役のHaliさんは、部長職の候補者3名と面接する予定です。"
+  },
+  {
+    "word": "140 semiconductor",
+    "meaning": "半導体",
+    "example": "Masuda Components has been one of the world's largest manufacturers of semiconductors for over ten years.",
+    "exampleJa": "Masuda Componentsは、10年以上の間、世界最大級の半導体メーカーの1社です。"
+  },
+  {
+    "word": "141 admission",
+    "meaning": "(~への)入場料、入れること",
+    "example": "Students are eligible for discounted admission to the city's museums and performance spaces.",
+    "exampleJa": "学生は、市の博物館や演劇場への入場料の割引対象となります。"
+  },
+  {
+    "word": "142 supplier",
+    "meaning": "供給[納入]業者",
+    "example": "By switching to a cheaper food supplier, Blantok Cafe was able to keep its prices competitive with other restaurants in this city.",
+    "exampleJa": "より安い食品供給業者に変更することで、Blantok Cafeは市内のほかのレストランに負けない価格を保つことができました。"
+  },
+  {
+    "word": "143 headquarters",
+    "meaning": "本社、本拠",
+    "example": "The headquarters of Phenoli International occupy the 15th floor of Sandusky Tower in Miami.",
+    "exampleJa": "Phenoli Internationalの本社は、マイアミのSandusky Towerの15階を占有しています。"
+  },
+  {
+    "word": "144 attendee",
+    "meaning": "《米》出席者",
+    "example": "Attendees may pick up their badges in the lobby of the Park Hotel.",
+    "exampleJa": "出席者は、Parkホテルのロビーでバッジを受け取ることができます。"
+  },
+  {
+    "word": "145 spreadsheet",
+    "meaning": "表計算(ソフト)",
+    "example": "Any questions about the new spreadsheet and word-processing software should be directed to Ms. Gabler.",
+    "exampleJa": "新しい表計算ソフトと文書処理ソフトについての質問は、Gablerさんに向けられるべきです。"
+  },
+  {
+    "word": "146 priority",
+    "meaning": "優先事項",
+    "example": "During the sales training seminar, the instructor emphasized that customer service and new sales are equal priorities.",
+    "exampleJa": "販売研修セミナーの中で、講師は、顧客サービスと新たな売り上げは同等の優先事項であると強調しました。"
+  },
+  {
+    "word": "147 edit",
+    "meaning": "編集する",
+    "example": "Users can find information on how to edit their profiles in the Help section of the Web site.",
+    "exampleJa": "ユーザーは、ウェブサイトの「ヘルプ」ページで、自分のプロフィールの編集方法についての情報を見つけることができます。"
+  },
+  {
+    "word": "148 lower",
+    "meaning": "~を下げる",
+    "example": "It is a good idea to lower the volume of the PA system slightly.",
+    "exampleJa": "PAシステムの音量を少し下げるのはいいアイディアです。"
+  },
+  {
+    "word": "149 credit",
+    "meaning": "(credit ~ to ...) ~の功績は…にあると思う、認める",
+    "example": "Arrow Line credits its excellent safety record to its skilled bus drivers and highly trained mechanics.",
+    "exampleJa": "Arrow Lineは、同社の優秀な安全記録は、熟練したバス運転手と高度な訓練を受けた整備士のおかげだとしています。"
+  },
+  {
+    "word": "150 ensure",
+    "meaning": "確実にする、保証する",
+    "example": "To ensure a successful product launch, an effective advertising campaign is critical.",
+    "exampleJa": "製品の発売を確実に成功させるためには、効果的な宣伝活動が重要です。"
+  },
+  {
+    "word": "151 integrate",
+    "meaning": "融合する、集約する",
+    "example": "The Kefaver Chronograph Company has integrated traditional techniques for watchmaking with modern computer technology.",
+    "exampleJa": "Kefaverクロノグラフ社は、時計製造の伝統的な技術と、現代のコンピュータ技術を融合しました。"
+  },
+  {
+    "word": "152 found",
+    "meaning": "(会社・学校などを)設立する",
+    "example": "Drago Torgeson founded TBT Travel, an agency that works exclusively with corporate clients.",
+    "exampleJa": "Drago Torgesonは、法人顧客だけ仕事をする代理店であるTBT Travelを設立しました。"
+  },
+  {
+    "word": "153 divert",
+    "meaning": "迂回させる",
+    "example": "As the 8th Street exit from the highway is under repair, downtown traffic will be diverted to the 4th Street exit instead.",
+    "exampleJa": "幹線道路の8番通り出口が改修中のため、都心への交通は代わりに4番通り出口へと迂回させられます。"
+  },
+  {
+    "word": "154 merge",
+    "meaning": "合併する",
+    "example": "By merging, the two airlines expect to fly to more cities without canceling service at any of their existing destinations.",
+    "exampleJa": "合併によって、2つの航空会社は既存の目的地への便を取り止めることなく、より多くの都市へ航行するつもりです。"
+  },
+  {
+    "word": "155 waive",
+    "meaning": "(要求などを)差し控える、放棄する",
+    "example": "Although Merton Manufacturing missed the deadline for payment, its main supplier agreed to waive the penalty fee.",
+    "exampleJa": "Merton Manufacturingは支払い期日に間に合わなかったにもかかわらず、同社の主要供給業者は違約金を差し控えることに同意しました。"
+  },
+  {
+    "word": "156 dissatisfied",
+    "meaning": "不満を示す",
+    "example": "The sales manager suggested sending a discount coupon to the dissatisfied customer.",
+    "exampleJa": "販売部長は、満足していないお客様に割引クーポンを送ることを提案しました。"
+  },
+  {
+    "word": "157 cautious",
+    "meaning": "慎重な",
+    "example": "Mr. Faires is a cautious manager who consults with his staff before making decisions.",
+    "exampleJa": "Fairesさんは、決断する前に彼のスタッフに相談をする、慎重な経営者です。"
+  },
+  {
+    "word": "158 promotional",
+    "meaning": "販売促進の",
+    "example": "As the budget is very tight, the company cannot spare additional money for extra promotional activities.",
+    "exampleJa": "予算が非常に厳しいため、会社は余分な販売促進活動のための追加経費を割り当てることができません。"
+  },
+  {
+    "word": "159 internal",
+    "meaning": "(物・場所・組織などの)内部の",
+    "example": "The personnel department posts announcements of open positions on the company's internal Web site.",
+    "exampleJa": "人事部は、社内ウェブサイトに空きがある職の案内を掲載します。"
+  },
+  {
+    "word": "160 abundant",
+    "meaning": "豊富な、ありあまる",
+    "example": "The Bangalore Design Expo provides abundant opportunities for small firms to gain exposure in the Indian market.",
+    "exampleJa": "Bangalore Design Expoは、中小企業がインド市場で注目を集めるための豊富な機会を提供します。"
+  },
+  {
+    "word": "161 generally",
+    "meaning": "通例、一般的に",
+    "example": "Vira Computer's new laptop models generally sell for between $1,000 and $1,300.",
+    "exampleJa": "Vira Computer社のノートパソコンの新しいモデルは通例、1,000ドルから1,300ドルで売られています。"
+  },
+  {
+    "word": "162 temporarily",
+    "meaning": "一時的に",
+    "example": "Due to scheduled maintenance, the e-mail server will be temporarily offline between midnight and 12:20 A.M.",
+    "exampleJa": "定期メンテナンスのため、メールサーバーは深夜12時から午前零時20分まで、一時的に切断されます。"
+  },
+  {
+    "word": "163 apiece",
+    "meaning": "各人に、おのおのに",
+    "example": "Since the presenters have only fifteen minutes apiece, they must explain their findings informatively but concisely.",
+    "exampleJa": "発表者は各自15分しかないため、情報を提供しながら、しかし簡潔に研究結果を説明しなければなりません。"
+  },
+  {
+    "word": "164 take place",
+    "meaning": "行われる、開催される",
+    "example": "Performances will take place throughout the week.",
+    "exampleJa": "公演はその週の間ずっと行われます。"
+  }
 ]
