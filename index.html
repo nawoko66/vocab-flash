@@ -332,11 +332,20 @@ function renderGrammar() {
 }
 
 let audioSets = [];
+function isLocal() {
+  const h = location.hostname;
+  return location.protocol === "file:" || h === "localhost" || h === "127.0.0.1" || h === "";
+}
 function renderAudio() {
   const sel = document.getElementById("audioSet");
   const set = audioSets.find(function (s) { return s.id === sel.value; }) || audioSets[0];
   const list = document.getElementById("trackList");
   if (!set) { list.innerHTML = '<div class="card"><p class="example">audio.json が読み込めませんでした。</p></div>'; return; }
+  if (!set.published && !isLocal()) {
+    list.innerHTML = '<div class="card"><p class="word" style="font-size:16px;">この音声は端末内のみ</p>' +
+      '<p class="example">' + set.label + ' は容量が大きいため公開していません。パソコンでローカルに開くと再生できます。</p></div>';
+    return;
+  }
   list.innerHTML = set.tracks.map(function (t) {
     return '<button class="choice track" data-file="' + t.file + '" data-label="' + set.label + ' トラック ' + t.n + '">' +
       '<span class="num">' + t.n + '</span><span>トラック ' + t.n + '</span></button>';
@@ -486,7 +495,8 @@ fetch("audio.json")
     data.forEach(function (s) {
       const opt = document.createElement("option");
       opt.value = s.id;
-      opt.textContent = s.label + "（" + s.tracks.length + "トラック）";
+      opt.textContent = s.label + "（" + s.tracks.length + "トラック）" +
+        (s.published || isLocal() ? "" : "※PCのみ");
       sel.appendChild(opt);
     });
     if (tab === "audio") renderAudio();

@@ -43,7 +43,8 @@
     "n": 10,
     "file": "audio/tango-vol1/10.mp3"
    }
-  ]
+  ],
+  "published": true
  },
  {
   "id": "tango-vol2",
@@ -93,7 +94,8 @@
     "n": 11,
     "file": "audio/tango-vol2/11.mp3"
    }
-  ]
+  ],
+  "published": true
  },
  {
   "id": "tango-vol3",
@@ -143,7 +145,8 @@
     "n": 11,
     "file": "audio/tango-vol3/11.mp3"
    }
-  ]
+  ],
+  "published": true
  },
  {
   "id": "mondai-vol1",
@@ -381,7 +384,8 @@
     "n": 58,
     "file": "audio/mondai-vol1/58.mp3"
    }
-  ]
+  ],
+  "published": false
  },
  {
   "id": "mondai-vol2",
@@ -619,7 +623,8 @@
     "n": 58,
     "file": "audio/mondai-vol2/58.mp3"
    }
-  ]
+  ],
+  "published": false
  },
  {
   "id": "mondai-vol3",
@@ -857,7 +862,8 @@
     "n": 58,
     "file": "audio/mondai-vol3/58.mp3"
    }
-  ]
+  ],
+  "published": false
  },
  {
   "id": "text750",
@@ -1099,6 +1105,7 @@
     "n": 59,
     "file": "audio/text750/59.mp3"
    }
-  ]
+  ],
+  "published": false
  }
 ]
