@@ -81,6 +81,17 @@
   .tip-card th, .tip-card td { border: 1px solid #ddd; padding: 4px 6px; text-align: left; }
   .tip-card .note-meta { font-size: 12px; color: #999; margin-top: -6px; }
   .tip-card .note-practice { font-size: 12px; color: #666; background: #f7f7f5; padding: 8px 10px; border-radius: 8px; }
+  .track { display: flex; align-items: center; gap: 10px; width: 100%; text-align: left; margin-bottom: 6px; }
+  .track.playing { background: #eef4ff; border-color: #b7d0ff; color: #1a4fa0; }
+  .track .num { font-variant-numeric: tabular-nums; color: #999; font-size: 12px; min-width: 28px; }
+  .sched { background: #fff; border: 1px solid #ddd; border-radius: 12px; padding: 12px 14px; margin-bottom: 8px; }
+  .sched.next { border-color: #1a7a4c; background: #f2fbf6; }
+  .sched.past { opacity: 0.55; }
+  .sched .date { font-size: 14px; font-weight: 600; margin: 0; }
+  .sched .lec { font-size: 12px; color: #999; margin: 2px 0 6px; }
+  .sched .test { font-size: 13px; color: #222; margin: 2px 0; }
+  .sched .none { font-size: 13px; color: #aaa; margin: 2px 0; }
+  .sched .badge { font-size: 11px; color: #1a7a4c; font-weight: 600; }
 </style>
 </head>
 <body>
@@ -89,6 +100,8 @@
 <div class="tabs">
   <button id="tabWords" class="tab active">単語</button>
   <button id="tabGrammar" class="tab">文法</button>
+  <button id="tabAudio" class="tab">音声</button>
+  <button id="tabSchedule" class="tab">日程</button>
 </div>
 
 <div id="wordsSection">
@@ -133,6 +146,19 @@
     <button id="gNextBtn">次へ →</button>
   </div>
 </div>
+
+<div id="audioSection" style="display:none;">
+  <div class="controls">
+    <select id="audioSet" style="flex:1;min-width:80px;padding:10px 8px;border:1px solid #ccc;border-radius:8px;background:#fff;font-size:14px;color:#222;"></select>
+  </div>
+  <div class="card" style="min-height:0;padding:14px 16px;">
+    <p class="tip-title" id="nowPlaying">トラックを選んでください</p>
+    <audio id="player" controls style="width:100%;margin-top:8px;"></audio>
+  </div>
+  <div id="trackList" style="margin-top:12px;"></div>
+</div>
+
+<div id="scheduleSection" style="display:none;"></div>
 </div>
 <script>
 let allWords = [];
@@ -305,17 +331,69 @@ function renderGrammar() {
   gProgress.textContent = (gIdx + 1) + " / " + grammarQuestions.length + "　正解: " + correctCount + " / " + answeredCount;
 }
 
+let audioSets = [];
+function renderAudio() {
+  const sel = document.getElementById("audioSet");
+  const set = audioSets.find(function (s) { return s.id === sel.value; }) || audioSets[0];
+  const list = document.getElementById("trackList");
+  if (!set) { list.innerHTML = '<div class="card"><p class="example">audio.json が読み込めませんでした。</p></div>'; return; }
+  list.innerHTML = set.tracks.map(function (t) {
+    return '<button class="choice track" data-file="' + t.file + '" data-label="' + set.label + ' トラック ' + t.n + '">' +
+      '<span class="num">' + t.n + '</span><span>トラック ' + t.n + '</span></button>';
+  }).join("");
+  list.querySelectorAll(".track").forEach(function (btn) {
+    btn.onclick = function () {
+      const player = document.getElementById("player");
+      player.src = btn.dataset.file;
+      player.play();
+      document.getElementById("nowPlaying").textContent = btn.dataset.label;
+      list.querySelectorAll(".track").forEach(function (b) { b.classList.remove("playing"); });
+      btn.classList.add("playing");
+    };
+  });
+}
+
+let schedule = null;
+function renderSchedule() {
+  const el = document.getElementById("scheduleSection");
+  if (!schedule) { el.innerHTML = '<div class="card"><p class="example">schedule.json が読み込めませんでした。</p></div>'; return; }
+  const today = new Date().toISOString().slice(0, 10);
+  const next = schedule.sessions.find(function (s) { return s.date >= today; });
+  el.innerHTML =
+    '<div class="tip-card"><p class="tip-title">' + schedule.course + '</p>' +
+    '<p class="tip-date">' + schedule.school + '　' + schedule.year + '　' + schedule.teacher + '</p>' +
+    '<p class="note-meta">' + schedule.note + '</p></div>' +
+    schedule.sessions.map(function (s) {
+      const cls = "sched" + (s === next ? " next" : (s.date < today ? " past" : ""));
+      const tests = s.vocabTest.length
+        ? s.vocabTest.map(function (t) { return '<p class="test">📖 ' + t + '</p>'; }).join("")
+        : '<p class="none">単語テストなし' + (s.topic ? '（' + s.topic + '）' : '') + '</p>';
+      return '<div class="' + cls + '"><p class="date">' + s.date.replace(/-/g, "/") +
+        (s === next ? ' <span class="badge">次回</span>' : '') + '</p>' +
+        '<p class="lec">' + s.lectures + '</p>' + tests + '</div>';
+    }).join("");
+}
+
+const SECTIONS = { words: "wordsSection", grammar: "grammarSection", audio: "audioSection", schedule: "scheduleSection" };
+const TABS = { words: "tabWords", grammar: "tabGrammar", audio: "tabAudio", schedule: "tabSchedule" };
+
 function switchTab(t) {
   tab = t;
-  document.getElementById("wordsSection").style.display = t === "words" ? "" : "none";
-  document.getElementById("grammarSection").style.display = t === "grammar" ? "" : "none";
-  document.getElementById("tabWords").classList.toggle("active", t === "words");
-  document.getElementById("tabGrammar").classList.toggle("active", t === "grammar");
-  t === "words" ? renderWords() : renderGrammar();
+  Object.keys(SECTIONS).forEach(function (k) {
+    document.getElementById(SECTIONS[k]).style.display = k === t ? "" : "none";
+    document.getElementById(TABS[k]).classList.toggle("active", k === t);
+  });
+  if (t === "words") renderWords();
+  else if (t === "grammar") renderGrammar();
+  else if (t === "audio") renderAudio();
+  else renderSchedule();
 }
 
 document.getElementById("tabWords").onclick = function () { switchTab("words"); };
 document.getElementById("tabGrammar").onclick = function () { switchTab("grammar"); };
+document.getElementById("tabAudio").onclick = function () { switchTab("audio"); };
+document.getElementById("tabSchedule").onclick = function () { switchTab("schedule"); };
+document.getElementById("audioSet").onchange = renderAudio;
 
 document.getElementById("weekFilter").onchange = function () { applyWeekFilter(); renderWords(); };
 document.getElementById("modeCard").onclick = function () { mode = "card"; renderWords(); };
@@ -395,6 +473,33 @@ fetch("rules.json")
   .then(function (data) {
     rules = data;
     renderRules();
+  })
+  .catch(function (err) {
+    console.error(err);
+  });
+
+fetch("audio.json")
+  .then(function (res) { return res.json(); })
+  .then(function (data) {
+    audioSets = data;
+    const sel = document.getElementById("audioSet");
+    data.forEach(function (s) {
+      const opt = document.createElement("option");
+      opt.value = s.id;
+      opt.textContent = s.label + "（" + s.tracks.length + "トラック）";
+      sel.appendChild(opt);
+    });
+    if (tab === "audio") renderAudio();
+  })
+  .catch(function (err) {
+    console.error(err);
+  });
+
+fetch("schedule.json")
+  .then(function (res) { return res.json(); })
+  .then(function (data) {
+    schedule = data;
+    if (tab === "schedule") renderSchedule();
   })
   .catch(function (err) {
     console.error(err);
