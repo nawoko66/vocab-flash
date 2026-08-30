@@ -331,7 +331,7 @@ function renderGrammar() {
   gProgress.textContent = (gIdx + 1) + " / " + grammarQuestions.length + "　正解: " + correctCount + " / " + answeredCount;
 }
 
-let audioSets = [];
+let audioSets = [], playing = null;
 function isLocal() {
   const h = location.hostname;
   return location.protocol === "file:" || h === "localhost" || h === "127.0.0.1" || h === "";
@@ -350,16 +350,28 @@ function renderAudio() {
     return '<button class="choice track" data-file="' + t.file + '" data-label="' + set.label + ' トラック ' + t.n + '">' +
       '<span class="num">' + t.n + '</span><span>トラック ' + t.n + '</span></button>';
   }).join("");
-  list.querySelectorAll(".track").forEach(function (btn) {
-    btn.onclick = function () {
-      const player = document.getElementById("player");
-      player.src = btn.dataset.file;
-      player.play();
-      document.getElementById("nowPlaying").textContent = btn.dataset.label;
-      list.querySelectorAll(".track").forEach(function (b) { b.classList.remove("playing"); });
-      btn.classList.add("playing");
-    };
+  list.querySelectorAll(".track").forEach(function (btn, i) {
+    btn.onclick = function () { playTrack(set, i); };
   });
+}
+
+function playTrack(set, i) {
+  const t = set.tracks[i];
+  if (!t) return;
+  const label = set.label + " トラック " + t.n;
+  const player = document.getElementById("player");
+  player.src = t.file;
+  player.play();
+  document.getElementById("nowPlaying").textContent = label;
+  const btns = document.getElementById("trackList").querySelectorAll(".track");
+  btns.forEach(function (b, j) { b.classList.toggle("playing", j === i); });
+  if (btns[i]) btns[i].scrollIntoView({ block: "nearest" });
+  playing = { set: set, i: i };
+  if ("mediaSession" in navigator) {
+    navigator.mediaSession.metadata = new MediaMetadata({ title: label, artist: "TOEIC対策" });
+    navigator.mediaSession.setActionHandler("previoustrack", function () { playTrack(set, i - 1); });
+    navigator.mediaSession.setActionHandler("nexttrack", function () { playTrack(set, i + 1); });
+  }
 }
 
 let schedule = null;
@@ -403,6 +415,9 @@ document.getElementById("tabGrammar").onclick = function () { switchTab("grammar
 document.getElementById("tabAudio").onclick = function () { switchTab("audio"); };
 document.getElementById("tabSchedule").onclick = function () { switchTab("schedule"); };
 document.getElementById("audioSet").onchange = renderAudio;
+document.getElementById("player").onended = function () {
+  if (playing) playTrack(playing.set, playing.i + 1);   // keep going on earphones
+};
 
 document.getElementById("weekFilter").onchange = function () { applyWeekFilter(); renderWords(); };
 document.getElementById("modeCard").onclick = function () { mode = "card"; renderWords(); };
