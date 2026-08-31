@@ -4,1140 +4,5245 @@
     "meaning": "台所用品",
     "example": "Kitchen utensils are being hung on the wall.",
     "exampleJa": "台所用品が壁に掛けられている。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "2 laptop",
     "meaning": "ノートパソコン",
     "example": "The woman is checking data on the laptop.",
     "exampleJa": "女性はノートパソコンでデータを確認している。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "3 file(動)",
     "meaning": "ファイルに綴じる",
     "example": "A man is filing a document.",
     "exampleJa": "男性は書類をファイルに綴じている。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "4 sweep",
     "meaning": "掃く",
     "example": "A worker is sweeping the ground.",
     "exampleJa": "作業員は地面を掃いている。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "5 cross",
     "meaning": "横断する",
     "example": "Cyclists are crossing the street.",
     "exampleJa": "サイクリングをする人が通りを横断している。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "6 assemble",
     "meaning": "組み立てる",
     "example": "The man is assembling the parts.",
     "exampleJa": "男性は部品を組み立てている。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "7 inspect",
     "meaning": "点検する",
     "example": "The man is inspecting the tools.",
     "exampleJa": "男性は道具を点検している。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "8 install",
     "meaning": "設置する",
     "example": "The man is installing some equipment.",
     "exampleJa": "男性は機器を設置している。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "9 place(動)",
     "meaning": "置く",
     "example": "A couch has been placed in the middle of the lounge.",
     "exampleJa": "ソファーがラウンジの中央に置かれている。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "10 lean",
     "meaning": "立てかける",
     "example": "There are some folding chairs leaning against the wall.",
     "exampleJa": "壁に立てかけられた折り畳み椅子がある。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "11 empty(動)",
     "meaning": "空にする",
     "example": "They're emptying the dishwasher.",
     "exampleJa": "彼らは食洗機を空にしている。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "12 fix",
     "meaning": "修理する",
     "example": "The man is fixing the plumbing.",
     "exampleJa": "男性は配管を修理している。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "13 remove",
     "meaning": "取り除く",
     "example": "Some sheets are being removed from the shelf.",
     "exampleJa": "棚からシートが取り除かれている。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "14 work on ~",
     "meaning": "~に取り組む",
     "example": "He's working on his documents.",
     "exampleJa": "彼は書類に取り組んでいる。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "15 pile up~/pile~up",
     "meaning": "山積みにする",
     "example": "The chairs are piled up on the desk.",
     "exampleJa": "椅子が机の上に積み上げられている。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "16 assistant",
     "meaning": "助手",
     "example": "Did you find a new assistant to replace Mark?",
     "exampleJa": "マークの後任となる新しい助手は見つかりましたか。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "17 receptionist",
     "meaning": "受付係",
     "example": "Why did you call the receptionist?",
     "exampleJa": "なぜ受付係に電話したのですか。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "18 launch",
     "meaning": "開始する・発売する",
     "example": "What's the plan for launching the product?",
     "exampleJa": "製品の発売の計画は何ですか。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "19 client",
     "meaning": "顧客",
     "example": "Are we taking the clients to the hotel?",
     "exampleJa": "私たちはクライアントをホテルにお連れするのですか。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "20 outcome",
     "meaning": "結果",
     "example": "This outcome was completely unexpected.",
     "exampleJa": "この結果は全く予想外でした。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "21 schedule(動)",
     "meaning": "予定する",
     "example": "Is the audit scheduled for this week or the next?",
     "exampleJa": "監査は今週予定されていますか、それとも来週ですか。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "22 enroll in ~",
     "meaning": "~に登録する",
     "example": "How can I enroll in the accounting course?",
     "exampleJa": "会計学の講座にどうすれば登録できますか。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "23 design(動)",
     "meaning": "デザインする",
     "example": "Who designed your company's Web site?",
     "exampleJa": "あなたの会社のウェブサイトをデザインしたのは誰ですか。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "24 ship(動)",
     "meaning": "出荷する",
     "example": "Hasn't the order been shipped yet?",
     "exampleJa": "注文品はまだ出荷されていないのですか。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "25 accompany",
     "meaning": "~に同行する",
     "example": "Will you accompany Greg to the conference?",
     "exampleJa": "あなたはグレッグに同行して会議に行きますか。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "26 repair",
     "meaning": "修理する",
     "example": "Is the elevator still being repaired?",
     "exampleJa": "エレベーターはまだ修理中ですか。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "27 locate",
     "meaning": "見つける",
     "example": "Was Mr. Harris able to locate the missing package?",
     "exampleJa": "ハリスさんは紛失した荷物を見つけることができましたか。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "28 book(動)",
     "meaning": "予約する",
     "example": "I'd like to book a room for tonight.",
     "exampleJa": "今夜の部屋を予約したいのですが。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "29 prefer",
     "meaning": "~の方を好む",
     "example": "Would you prefer a different time?",
     "exampleJa": "別の時間の方がよろしいですか。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "30 foresee",
     "meaning": "予見する",
     "example": "No, we don't foresee any problems.",
     "exampleJa": "いいえ、問題は予想していません。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "31 proofread",
     "meaning": "校正する",
     "example": "Would you be willing to proofread the changes to the employee handbook?",
     "exampleJa": "従業員向けハンドブックの変更点を校正していただけますか。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "32 fundraising",
     "meaning": "資金調達",
     "example": "Let's ask Nelda to join us for the fundraising dinner.",
     "exampleJa": "ネルダに資金調達のディナーに参加してもらうよう頼みましょう。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "33 Why don't you ~?",
     "meaning": "~したらどうですか",
     "example": "Why don't you join us for the meeting?",
     "exampleJa": "会議に参加したらどうですか。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "35 good word",
     "meaning": "口添え、ほめ言葉",
     "example": "I'd be happy to put in a good word for you.",
     "exampleJa": "喜んであなたのために口添えをします。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "36 clay pot",
     "meaning": "陶器の植木鉢、素焼き鉢",
     "example": "The shipment of clay pots arrived this morning.",
     "exampleJa": "今朝、陶器製の植木鉢の配送品が届きました。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "37 plenty",
     "meaning": "たくさんの(of~)、十分な",
     "example": "Two hours should be plenty of time for us to finish our meal.",
     "exampleJa": "2時間あれば食事を済ませるのに十分だと思います。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "38 lot",
     "meaning": "土地の一区画、敷地(駐車場等)",
     "example": "We're now asking patrons to park in the lot adjacent to the restaurant.",
     "exampleJa": "レストランに隣接する駐車場に停めていただくようお願いしております。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "39 selection",
     "meaning": "品揃え、選択",
     "example": "I didn't realize the selection would be this huge.",
     "exampleJa": "品揃えがこんなに多いとは思っていませんでした。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "40 help",
     "meaning": "助力、援助、協力",
     "example": "I need some help choosing running shoes.",
     "exampleJa": "ランニングシューズを選ぶのを手伝ってもらいたいのですが。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "41 trouble",
     "meaning": "困難、迷惑/(動)苦しめる",
     "example": "I'm having trouble deciding which ones to get.",
     "exampleJa": "どれを買うべきか決めるのに苦労しています。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "42 dirt",
     "meaning": "土、汚物、泥",
     "example": "I run on dirt in the park, weather permitting.",
     "exampleJa": "天気が良ければ公園で土の上を走ります。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "43 treadmill",
     "meaning": "トレッドミル(ランニングマシン)",
     "example": "On wet days, I run on a treadmill at the gym.",
     "exampleJa": "雨の日は、ジムのランニングマシンで走ります。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "44 merchandise",
     "meaning": "商品、在庫品",
     "example": "The man will show the woman some merchandise.",
     "exampleJa": "その男性は女性にいくつかの商品を見せるでしょう。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "45 ramp",
     "meaning": "傾斜路、スロープ",
     "example": "Using the center's side entrance is inconvenient, it doesn't have a ramp.",
     "exampleJa": "センターの通用口を使うのは、スロープがないから不便です。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "46 application",
     "meaning": "申請書、申込書",
     "example": "I need to submit a formal application by next Monday.",
     "exampleJa": "今度の月曜日までに正式な申請書を提出しなければなりません。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "47 proposal",
     "meaning": "案、計画",
     "example": "He asked me to submit the budget proposal two days ahead of schedule.",
     "exampleJa": "彼は私に予算案を予定より2日前倒しで提出するように頼んできました。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "48 detour",
     "meaning": "回り道",
     "example": "It's nice of her to make a detour to come and perform for us.",
     "exampleJa": "回り道をして公演しに来てくれるなんて、彼女は本当にいい人です。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "49 flyer / flier",
     "meaning": "チラシ",
     "example": "We could also make some flyers in the same design.",
     "exampleJa": "同じデザインのチラシを作ってもいいですね。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "50 candidate",
     "meaning": "志願者、候補者",
     "example": "Kelly's interviewing seven candidates for the accountant position today.",
     "exampleJa": "Kellyは今日、会計士の職の志願者7名と面接を行う予定です。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "51 storage",
     "meaning": "貯蔵、保管",
     "example": "I will be working in the storage area until this afternoon.",
     "exampleJa": "私は今日の午後まで保管場所で仕事をすることになっています。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "52 intern",
     "meaning": "インターン、研修生",
     "example": "I've scheduled the interviews for our intern position.",
     "exampleJa": "インターン職の面接を予定に入れました。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "53 graphic",
     "meaning": "説明用の図、絵、グラフ",
     "example": "Look at the graphic.",
     "exampleJa": "図を見てください。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "54 budget",
     "meaning": "予算、家計",
     "example": "She's got a budget of $500,000.",
     "exampleJa": "彼女の予算は50万ドルです。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "55 distance",
     "meaning": "距離、道のり",
     "example": "She wants to stay within walking distance of the university.",
     "exampleJa": "彼女は大学に歩いて通えるところを希望しています。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "56 property",
     "meaning": "不動産、財産",
     "example": "Which property would the client most likely purchase?",
     "exampleJa": "クライアントはどの物件を最も購入しそうですか。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "57 conference",
     "meaning": "会議、相談",
     "example": "Could we have you start the conference?",
     "exampleJa": "会議を開始していただいてよろしいでしょうか。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "58 offer",
     "meaning": "(動)提供する/(名)申し出",
     "example": "We offer validation, so don't forget to bring your parking ticket.",
     "exampleJa": "駐車許可証をお渡ししますので、駐車券を忘れずにお持ちください。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "59 apologize",
     "meaning": "わびる、謝る",
     "example": "Why does the woman apologize?",
     "exampleJa": "女性はなぜ謝っていますか。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "60 complete(動)",
     "meaning": "終える",
     "example": "She is too tired to complete the task.",
     "exampleJa": "彼女は疲れすぎて仕事を終えられません。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "61 complain",
     "meaning": "不平、不満を言う",
     "example": "Has anyone complained about not being able to use the front entrance?",
     "exampleJa": "正面玄関を使えないことについて、誰か苦情を言っていますか。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "62 promote",
     "meaning": "昇進させる",
     "example": "Sue Foxwell was promoted to the head of the accounting department.",
     "exampleJa": "Sue Foxwellが経理部長に昇進しました。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "63 vacate",
     "meaning": "(職を)退く、明け渡す",
     "example": "No one seems interested in the position Sue is vacating.",
     "exampleJa": "誰もSueが明け渡す職には興味がないようです。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "64 imply",
     "meaning": "暗に意味する",
     "example": "What is implied about Arthur?",
     "exampleJa": "Arthurについて何が示唆されていますか。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "65 jam",
     "meaning": "ぎっしり詰まる、ふさぐ",
     "example": "Could the copier be jammed again, or did I push the wrong button?",
     "exampleJa": "そのコピー機はまた紙詰まりを起こしているのですか。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "66 hold",
     "meaning": "収容できる",
     "example": "The outdoor concert hall in the park can hold up to a thousand people.",
     "exampleJa": "公園にあるコンサート会場は1,000人まで収容できます。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "67 interview",
     "meaning": "(動)面接する/(名)面接",
     "example": "It would be great if she could interview me as scheduled.",
     "exampleJa": "彼女が私の面接を予定通り行っていただけるとありがたいです。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "68 preset",
     "meaning": "前もってセットする",
     "example": "I've pre-set the presentation and tested it earlier.",
     "exampleJa": "さっきプレゼンテーションを前もってセットして、テストしました。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "69 state-of-the-art",
     "meaning": "最新式の",
     "example": "All the fittings are state-of-the-art.",
     "exampleJa": "設備はすべて最新式です。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "70 available",
     "meaning": "利用できる",
     "example": "That service is no longer available.",
     "exampleJa": "そのサービスはもはや利用できない。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "71 extensive",
     "meaning": "大がかりな、広大な",
     "example": "It is in need of extensive repairs.",
     "exampleJa": "それは大がかりな改修が必要である。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "72 stuck",
     "meaning": "動かない、詰まった",
     "example": "Some paper is stuck in the copier.",
     "exampleJa": "紙がコピー機に詰まっています。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "73 rectangular",
     "meaning": "長方形の",
     "example": "Half of the shipment consists of rectangular pots.",
     "exampleJa": "配送品の半分は長方形の鉢です。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "74 top-of-mind",
     "meaning": "真っ先に思い浮かぶ",
     "example": "It is top-of-mind for everyone at the moment.",
     "exampleJa": "目下のところ全員の関心事です。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "75 gladly",
     "meaning": "喜んで、快く",
     "example": "The local radio station would gladly help us out.",
     "exampleJa": "地元のラジオ局も喜んで力を貸してくれるはずです。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "76 through",
     "meaning": "~の間じゅう、~を通じて",
     "example": "The workmen were working through the weekend to finish the job.",
     "exampleJa": "作業員たちは週末を通して作業をするそうです。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "77 make a call",
     "meaning": "電話をかける",
     "example": "Why is the man making the call?",
     "exampleJa": "男性はなぜ電話をかけていますか。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "78 be out of stock",
     "meaning": "在庫切れである",
     "example": "That item is out of stock.",
     "exampleJa": "その品物の在庫が切れている。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "79 come a long way",
     "meaning": "大いに進展する",
     "example": "Running shoe technology has come a long way in two years.",
     "exampleJa": "この2年間でランニングシューズの技術は大いに進歩しました。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "80 make a choice",
     "meaning": "選ぶ",
     "example": "She is unable to make a choice.",
     "exampleJa": "彼女は選ぶことができません。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "81 try out ~ / try ~ out",
     "meaning": "試用する、試してみる",
     "example": "The man will try out some new products.",
     "exampleJa": "その男性は新製品をいくつか試してみるでしょう。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "82 make it",
     "meaning": "来る、出席する",
     "example": "It's a shame my wife couldn't make it today.",
     "exampleJa": "妻が今日来られなかったのは残念です。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "83 wrap up ~ / wrap ~ up",
     "meaning": "終わりにする",
     "example": "You'd better wrap up your coffee break.",
     "exampleJa": "コーヒーブレイクはこのくらいにしたほうがいいよ。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "84 run out of ~",
     "meaning": "使い果たす、切らす",
     "example": "We ran out of them yesterday.",
     "exampleJa": "昨日それらを切らしてしまった。",
-    "week": 1
+    "week": 1,
+    "vol": 1
   },
   {
     "word": "85 construction",
     "meaning": "建設",
     "example": "Construction of the museum finished last week.",
     "exampleJa": "美術館の建設が先週終了した。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "86 city hall",
     "meaning": "市役所",
     "example": "More information on the traffic situation is available from city hall.",
     "exampleJa": "渋滞や交通状況に関する詳細情報は市役所から入手できます。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "87 grocery",
     "meaning": "(複数形で) 食料雑貨店、食料雑貨、食品類",
     "example": "Welcome to Gino's, everyone's favorite place to shop for groceries!",
     "exampleJa": "皆さんが大好きな、食料雑貨を買う店Ginoにようこそ！",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "88 produce",
     "meaning": "(名)農産物、青果/(動)生産する",
     "example": "Don't miss the juicy grapefruits and sweet honeydew melons in the produce section.",
     "exampleJa": "青果物と区別した生鮮食品コーナーにある果汁たっぷりのグレープフルーツと甘いハネデューメロンをお見逃しなく。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "89 flavor",
     "meaning": "(舌先に感じる)風味、味、風味、香味",
     "example": "Buy half a dozen muffins and get one free — this goes for all flavors.",
     "exampleJa": "マフィンを半ダースご購入いただくと、1つ無料で差し上げます。全味共通です。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "90 access",
     "meaning": "(名)(物を)利用する権利/(動)(~に)入る、利用する",
     "example": "I will have access to the key all day tomorrow.",
     "exampleJa": "明日は、終日鍵を利用できます。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "91 condo",
     "meaning": "(米)分譲マンション",
     "example": "Might I suggest seeing the condo tomorrow afternoon or evening?",
     "exampleJa": "マンションの見学を明日の午後か夕方に行うのはいかがでしょうか。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "92 firm",
     "meaning": "会社",
     "example": "Gary Cox has joined our firm as of last Friday.",
     "exampleJa": "Gary Coxが先週の金曜日付で我々の会社に加わりました。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "93 agency",
     "meaning": "代理店、取次店",
     "example": "He decided to spend time in Asia, helping to launch two advertising agencies there.",
     "exampleJa": "彼はアジアで2つの広告代理店の立ち上げに協力しながら、そこで時間を過ごすことに決めました。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "94 completion",
     "meaning": "完了",
     "example": "It looks like the museum is set for completion a week before the Arts Festival in October.",
     "exampleJa": "美術館は10月のアートフェスティバルの1週間前に完成する予定のようです。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "95 department",
     "meaning": "部門、部、部署",
     "example": "All those who participate in the sessions will receive a coupon for each day of the department's Juice Bar.",
     "exampleJa": "セッションに参加する全員が、部署のジュースバーの1日分クーポン券を受け取れます。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "96 coupon",
     "meaning": "クーポン券",
     "example": "An instructor will visit your department every day.",
     "exampleJa": "毎日、インストラクターがあなたの部署を訪れます。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "97 secure",
     "meaning": "(動)確保する/(形)安全な",
     "example": "I won't be able to secure a key for the place until tomorrow morning.",
     "exampleJa": "明日の朝まで、その場所の鍵を手に入れることができません。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "98 mention",
     "meaning": "~と言う、~について述べる",
     "example": "I think you mentioned that you wanted to be picked up at nine.",
     "exampleJa": "あなたは9時に来て迎えに来てほしいとおっしゃっていたと思います。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "99 attend",
     "meaning": "出席する",
     "example": "I have a meeting to attend later in the morning.",
     "exampleJa": "私は午前中の後半に出席すべき会議があります。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "100 post",
     "meaning": "掲示物を貼る",
     "example": "A schedule of the sessions will be posted on the bulletin boards by the elevators on each floor.",
     "exampleJa": "会のスケジュール表は、各フロアのエレベーター側の掲示板に貼り出されます。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "101 address",
     "meaning": "話しかける",
     "example": "Who is the speaker probably addressing?",
     "exampleJa": "話し手は、おそらく誰に話しかけていますか。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "102 work ~ out/work out ~",
     "meaning": "(事を)解決する、成し遂げる",
     "example": "Please call me back as soon as possible so we can work something out.",
     "exampleJa": "何とか解決できるように、できるだけ早く折り返しのご連絡をお願いいたします。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "103 fill a person's shoes",
     "meaning": "人に代わる、人の後任となる",
     "example": "We searched long and hard for someone to fill Miles Patterson's shoes.",
     "exampleJa": "長い間、懸命にMiles Pattersonの後任を探していました。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "104 look forward to ~",
     "meaning": "~を期待する、楽しみにして待つ",
     "example": "He is looking forward to working with all of you.",
     "exampleJa": "彼は皆さん全員と働くことをとても楽しみにしています。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "105 stay tuned",
     "meaning": "このままお聞きください",
     "example": "Stay tuned for business news.",
     "exampleJa": "引き続き、ビジネスニュースをお聞きください。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "106 in conjunction with ~",
     "meaning": "~と合同して、~と共に",
     "example": "In conjunction with National Health Week, we're offering free yoga classes.",
     "exampleJa": "全国健康週間にちなんで、無料ヨガ講座を開催します。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "107 take advantage of ~",
     "meaning": "(好機・事実を)利用する",
     "example": "Take advantage of this chance to get yourself on the road to health!",
     "exampleJa": "この機会を利用してぜひ健康への道を歩み始めましょう。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "108 occupancy",
     "meaning": "(建物・乗り物などの)収容能力",
     "example": "Three rooms are double occupancy and the other four have an extra bed.",
     "exampleJa": "3部屋が2人部屋で、残りの4部屋にはエキストラベッドが付いています。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "109 venue",
     "meaning": "(コンサート・会議などの)開催地、現場",
     "example": "A ticket is necessary to enter the venue.",
     "exampleJa": "会場に入るためにはチケットが必要です。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "110 inconvenience",
     "meaning": "不便、不自由",
     "example": "Sorry for the inconvenience.",
     "exampleJa": "ご迷惑をおかけして申し訳ありません。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "111 refund",
     "meaning": "(名)払い戻し/(動)払い戻す",
     "example": "Refunds on tickets are available at the ticket center.",
     "exampleJa": "乗車券の払い戻しは、チケットセンターにてご利用いただけます。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "112 tone",
     "meaning": "発信音",
     "example": "Our premium members may place phone orders by leaving a message after the tone.",
     "exampleJa": "プレミアム会員のお客様は、発信音のあとにメッセージを残していただくことで、電話注文をしていただけます。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "113 delivery",
     "meaning": "配達",
     "example": "Next-day delivery is available for an extra charge.",
     "exampleJa": "追加料金で翌日配送がご利用になれます。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "114 touch",
     "meaning": "仕上げ、加筆",
     "example": "We started putting the finishing touches on tomorrow's presentation.",
     "exampleJa": "私達は明日のプレゼンの最終作業を始めました。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "115 beverage",
     "meaning": "(水以外の)飲み物",
     "example": "The overall design of the beverage can is fine.",
     "exampleJa": "飲料缶の全体的なデザインはいいです。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "116 process",
     "meaning": "処理する",
     "example": "If we don't hear back from you by the end of the day, your original order will be processed.",
     "exampleJa": "今日中にご連絡がない場合は、最初のご注文が処理されます。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "117 allot",
     "meaning": "(人に)割り当てる",
     "example": "Half of the third floor has been allotted to your group.",
     "exampleJa": "3階の半分がお客様のグループに割り当てられております。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "118 include",
     "meaning": "含む",
     "example": "Breakfast, dinner and live entertainment are included in your stay package.",
     "exampleJa": "朝食と夕食、ライブショーが滞在パッケージに含まれています。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "119 undergo",
     "meaning": "(変化・検査などを)受ける",
     "example": "We're undergoing maintenance.",
     "exampleJa": "現在メンテナンス中です。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "120 suspend",
     "meaning": "一時停止する",
     "example": "Due to a damaged power line in Clarinda, service for southbound trains has been suspended.",
     "exampleJa": "Clarindaでの電線の故障により、南行きの列車は一時運転を見合わせております。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "121 delay",
     "meaning": "(動)遅らせる/(名)延期、遅延",
     "example": "Trains arriving from the area are delayed by as much as an hour.",
     "exampleJa": "その地域から到着する列車には、1時間以内の遅れが出ています。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "122 restore",
     "meaning": "回復する、修復する",
     "example": "Work is being done to restore the power lines.",
     "exampleJa": "電線を復旧するために作業が行われています。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "123 resume",
     "meaning": "再び始める",
     "example": "Regular business hours of 10 A.M. to 7 P.M. will resume on Wednesday.",
     "exampleJa": "午前10時から午後7時までの通常の営業時間は、水曜日より再開いたします。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "124 pass",
     "meaning": "(情報を)人に渡す、伝える",
     "example": "I want to pass along some things Jody had to say before she left for Brussels.",
     "exampleJa": "Jodyがブリュッセルに出発する前に言わなければならなかったことをお伝えしたいと思います。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "125 tweak",
     "meaning": "微調整する、手直しする",
     "example": "There's no need to tweak the actual logo.",
     "exampleJa": "現時点のロゴに変更を加える必要はありません。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "126 around-the-clock",
     "meaning": "《米》24時間営業[体制]",
     "example": "There's currently around-the-clock Internet access in the lobby only.",
     "exampleJa": "現在、24時間のインターネットアクセスはロビーのみとなっております。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "127 latest",
     "meaning": "最新の",
     "example": "Passengers are advised to check the arrival and departure boards for the latest information on their train.",
     "exampleJa": "乗客の皆様は、出発・到着予定の掲示板にて、皆様の電車に関する最新情報をご確認いただくようお願いいたします。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "128 vibrant",
     "meaning": "(色・光が)明るい、明るく輝く",
     "example": "She recommends vibrant colors with emphasis on shades of blue and green.",
     "exampleJa": "彼女は青と緑の色合いを強調した鮮やかな色を勧めています。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "129 place an order",
     "meaning": "発注する",
     "example": "I'm calling about the online order you placed yesterday.",
     "exampleJa": "昨日お客様がされた、オンライン注文についてご連絡いたしました。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "130 either A or B",
     "meaning": "AかBのどちらか",
     "example": "You can either call us at 920-1025 or send us an e-mail.",
     "exampleJa": "弊社920-1025までお電話いただくか、メールをお送りください。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "131 on schedule",
     "meaning": "予定通りに",
     "example": "All north and westbound trains are running on schedule.",
     "exampleJa": "北行きおよび西行きの列車はすべて通常通り運行しております。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "132 procedure",
     "meaning": "手順",
     "example": "Technicians in the laboratory must follow proper safety procedures at all times.",
     "exampleJa": "研究室の技術者は、常に正式な安全手順に従わなければなりません。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "133 supply",
     "meaning": "(しばしば -ies) 備蓄、必需品",
     "example": "The sales department keeps supplies in this cabinet.",
     "exampleJa": "販売部は、備品をこの棚の中に保管しています。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "134 textile",
     "meaning": "織物、布地",
     "example": "Residents of the towns worked mainly in the textile industry.",
     "exampleJa": "その町の住民たちは、主に織物産業で働いていました。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "135 committee",
     "meaning": "委員会",
     "example": "The judging committee divided the prize money equally among the four winners.",
     "exampleJa": "審査委員会は、賞金を4名の受賞者の間で均等に分けました。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "136 crack",
     "meaning": "亀裂",
     "example": "A minor crack was found in a support column.",
     "exampleJa": "支柱に小さな亀裂が見つかりました。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "137 subscriber",
     "meaning": "加入者",
     "example": "New subscribers to Maxett Cable's basic package can enjoy a free trial of all premium channels for a limited period of time.",
     "exampleJa": "Maxettケーブルテレビの基本パックの新規加入者は、期間限定で、すべてのプレミアムチャンネルの無料お試し視聴を楽しむことができます。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "138 location",
     "meaning": "場所、位置、所在",
     "example": "Fegman's sells clothing both online and at its two locations in Carrolton.",
     "exampleJa": "Fegman'sは、インターネットでもCarrolton市内の2店舗でも衣類を販売しています。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "139 director",
     "meaning": "取締役",
     "example": "Ms. Hali, the director of the company, will interview the three candidates for the general manager position.",
     "exampleJa": "会社の取締役のHaliさんは、部長職の候補者3名と面接する予定です。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "140 semiconductor",
     "meaning": "半導体",
     "example": "Masuda Components has been one of the world's largest manufacturers of semiconductors for over ten years.",
     "exampleJa": "Masuda Componentsは、10年以上の間、世界最大級の半導体メーカーの1社です。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "141 admission",
     "meaning": "(~への)入場料、入れること",
     "example": "Students are eligible for discounted admission to the city's museums and performance spaces.",
     "exampleJa": "学生は、市の博物館や演劇場への入場料の割引対象となります。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "142 supplier",
     "meaning": "供給[納入]業者",
     "example": "By switching to a cheaper food supplier, Blantok Cafe was able to keep its prices competitive with other restaurants in this city.",
     "exampleJa": "より安い食品供給業者に変更することで、Blantok Cafeは市内のほかのレストランに負けない価格を保つことができました。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "143 headquarters",
     "meaning": "本社、本拠",
     "example": "The headquarters of Phenoli International occupy the 15th floor of Sandusky Tower in Miami.",
     "exampleJa": "Phenoli Internationalの本社は、マイアミのSandusky Towerの15階を占有しています。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "144 attendee",
     "meaning": "《米》出席者",
     "example": "Attendees may pick up their badges in the lobby of the Park Hotel.",
     "exampleJa": "出席者は、Parkホテルのロビーでバッジを受け取ることができます。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "145 spreadsheet",
     "meaning": "表計算(ソフト)",
     "example": "Any questions about the new spreadsheet and word-processing software should be directed to Ms. Gabler.",
     "exampleJa": "新しい表計算ソフトと文書処理ソフトについての質問は、Gablerさんに向けられるべきです。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "146 priority",
     "meaning": "優先事項",
     "example": "During the sales training seminar, the instructor emphasized that customer service and new sales are equal priorities.",
     "exampleJa": "販売研修セミナーの中で、講師は、顧客サービスと新たな売り上げは同等の優先事項であると強調しました。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "147 edit",
     "meaning": "編集する",
     "example": "Users can find information on how to edit their profiles in the Help section of the Web site.",
     "exampleJa": "ユーザーは、ウェブサイトの「ヘルプ」ページで、自分のプロフィールの編集方法についての情報を見つけることができます。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "148 lower",
     "meaning": "~を下げる",
     "example": "It is a good idea to lower the volume of the PA system slightly.",
     "exampleJa": "PAシステムの音量を少し下げるのはいいアイディアです。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "149 credit",
     "meaning": "(credit ~ to ...) ~の功績は…にあると思う、認める",
     "example": "Arrow Line credits its excellent safety record to its skilled bus drivers and highly trained mechanics.",
     "exampleJa": "Arrow Lineは、同社の優秀な安全記録は、熟練したバス運転手と高度な訓練を受けた整備士のおかげだとしています。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "150 ensure",
     "meaning": "確実にする、保証する",
     "example": "To ensure a successful product launch, an effective advertising campaign is critical.",
     "exampleJa": "製品の発売を確実に成功させるためには、効果的な宣伝活動が重要です。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "151 integrate",
     "meaning": "融合する、集約する",
     "example": "The Kefaver Chronograph Company has integrated traditional techniques for watchmaking with modern computer technology.",
     "exampleJa": "Kefaverクロノグラフ社は、時計製造の伝統的な技術と、現代のコンピュータ技術を融合しました。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "152 found",
     "meaning": "(会社・学校などを)設立する",
     "example": "Drago Torgeson founded TBT Travel, an agency that works exclusively with corporate clients.",
     "exampleJa": "Drago Torgesonは、法人顧客だけ仕事をする代理店であるTBT Travelを設立しました。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "153 divert",
     "meaning": "迂回させる",
     "example": "As the 8th Street exit from the highway is under repair, downtown traffic will be diverted to the 4th Street exit instead.",
     "exampleJa": "幹線道路の8番通り出口が改修中のため、都心への交通は代わりに4番通り出口へと迂回させられます。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "154 merge",
     "meaning": "合併する",
     "example": "By merging, the two airlines expect to fly to more cities without canceling service at any of their existing destinations.",
     "exampleJa": "合併によって、2つの航空会社は既存の目的地への便を取り止めることなく、より多くの都市へ航行するつもりです。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "155 waive",
     "meaning": "(要求などを)差し控える、放棄する",
     "example": "Although Merton Manufacturing missed the deadline for payment, its main supplier agreed to waive the penalty fee.",
     "exampleJa": "Merton Manufacturingは支払い期日に間に合わなかったにもかかわらず、同社の主要供給業者は違約金を差し控えることに同意しました。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "156 dissatisfied",
     "meaning": "不満を示す",
     "example": "The sales manager suggested sending a discount coupon to the dissatisfied customer.",
     "exampleJa": "販売部長は、満足していないお客様に割引クーポンを送ることを提案しました。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "157 cautious",
     "meaning": "慎重な",
     "example": "Mr. Faires is a cautious manager who consults with his staff before making decisions.",
     "exampleJa": "Fairesさんは、決断する前に彼のスタッフに相談をする、慎重な経営者です。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "158 promotional",
     "meaning": "販売促進の",
     "example": "As the budget is very tight, the company cannot spare additional money for extra promotional activities.",
     "exampleJa": "予算が非常に厳しいため、会社は余分な販売促進活動のための追加経費を割り当てることができません。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "159 internal",
     "meaning": "(物・場所・組織などの)内部の",
     "example": "The personnel department posts announcements of open positions on the company's internal Web site.",
     "exampleJa": "人事部は、社内ウェブサイトに空きがある職の案内を掲載します。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "160 abundant",
     "meaning": "豊富な、ありあまる",
     "example": "The Bangalore Design Expo provides abundant opportunities for small firms to gain exposure in the Indian market.",
     "exampleJa": "Bangalore Design Expoは、中小企業がインド市場で注目を集めるための豊富な機会を提供します。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "161 generally",
     "meaning": "通例、一般的に",
     "example": "Vira Computer's new laptop models generally sell for between $1,000 and $1,300.",
     "exampleJa": "Vira Computer社のノートパソコンの新しいモデルは通例、1,000ドルから1,300ドルで売られています。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "162 temporarily",
     "meaning": "一時的に",
     "example": "Due to scheduled maintenance, the e-mail server will be temporarily offline between midnight and 12:20 A.M.",
     "exampleJa": "定期メンテナンスのため、メールサーバーは深夜12時から午前零時20分まで、一時的に切断されます。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "163 apiece",
     "meaning": "各人に、おのおのに",
     "example": "Since the presenters have only fifteen minutes apiece, they must explain their findings informatively but concisely.",
     "exampleJa": "発表者は各自15分しかないため、情報を提供しながら、しかし簡潔に研究結果を説明しなければなりません。",
-    "week": 2
+    "week": 2,
+    "vol": 1
   },
   {
     "word": "164 take place",
     "meaning": "行われる、開催される",
     "example": "Performances will take place throughout the week.",
     "exampleJa": "公演はその週の間ずっと行われます。",
-    "week": 2
+    "week": 2,
+    "vol": 1
+  },
+  {
+    "word": "165 24/7",
+    "meaning": "年中無休",
+    "example": "The call center is open 24/7 for your convenience.",
+    "exampleJa": "コールセンターは、お客様の利便性を考慮し、年中無休で営業しております。",
+    "week": 3,
+    "vol": 1,
+    "unit": 7
+  },
+  {
+    "word": "166 personnel",
+    "meaning": "人事部［課］",
+    "example": "Please visit the personnel office by October 2 to exchange your temporary passes for permanent ones.",
+    "exampleJa": "10月2日までに人事部のオフィスに来て、お手元の仮社員証を正社員証と交換してください。",
+    "week": 3,
+    "vol": 1,
+    "unit": 7
+  },
+  {
+    "word": "167 garment",
+    "meaning": "衣服、着物",
+    "example": "Hand-knitted garments are usually knitted with straight needles from the bottom up.",
+    "exampleJa": "手編みの衣類はたいてい、棒針を使って下から上へ編みます（編まれます）。",
+    "week": 3,
+    "vol": 1,
+    "unit": 7
+  },
+  {
+    "word": "168 hem",
+    "meaning": "裾、へり",
+    "example": "This fail-safe technique takes the guessing out of how long a garment's sleeves and hem should be.",
+    "exampleJa": "失敗のないこの技法を用いることで、衣類の袖や裾がどのくらいの長さであるべきかの見当をつける必要がなくなります。",
+    "week": 3,
+    "vol": 1,
+    "unit": 7
+  },
+  {
+    "word": "169 interim",
+    "meaning": "合間、しばらく",
+    "example": "Should anything happen in the interim, we assure you that your home will be covered by last year's policy.",
+    "exampleJa": "それまでに何かが発生した場合、ご自宅には昨年の契約内容が適用されることを保証いたします。",
+    "week": 3,
+    "vol": 1,
+    "unit": 7
+  },
+  {
+    "word": "170 brochure",
+    "meaning": "パンフレット",
+    "example": "For more information about our rooms, facilities, and special off-season rates, visit www.hotel-lupone.com. or pick up a brochure at your local travel agent.",
+    "exampleJa": "当ホテルの客室や施設、オフシーズンの特別料金に関する詳しい情報は、www.hotel-lupone.com にアクセスしていただくか、お近くの旅行代理店にてパンフレットをお受け取りください。",
+    "week": 3,
+    "vol": 1,
+    "unit": 7
+  },
+  {
+    "word": "171 prevent",
+    "meaning": "（事故・病気などを）防ぐ、（事・人・物）が〜するのを妨げる",
+    "example": "We ask that you handle the passes with care to prevent loss and theft.",
+    "exampleJa": "紛失や盗難を防ぐため、社員証は慎重に取り扱うようにお願いします。",
+    "week": 3,
+    "vol": 1,
+    "unit": 7
+  },
+  {
+    "word": "172 hone",
+    "meaning": "（才能・技術などを）磨く",
+    "example": "We encourage all you knitters out there to take advantage of this opportunity to hone your craft.",
+    "exampleJa": "編み物好きの皆さんには編み物の技術に磨きをかけるために、この機会をご利用されることをお勧めします。",
+    "week": 3,
+    "vol": 1,
+    "unit": 7
+  },
+  {
+    "word": "173 renew",
+    "meaning": "（契約・定期・免許などを）更新する",
+    "example": "This is to confirm whether you plan on renewing your snow insurance with our company.",
+    "exampleJa": "弊社とご契約いただいている雪災保険を更新されるご予定かどうか確認させていただきます。",
+    "week": 3,
+    "vol": 1,
+    "unit": 7
+  },
+  {
+    "word": "174 appreciate",
+    "meaning": "（〜ということを）感謝する、（人の好意などを）ありがたく思う",
+    "example": "We would appreciate your taking action on this matter as soon as possible.",
+    "exampleJa": "本件に関して、できるだけ早くご対応をいただけるとありがたく存じます。",
+    "week": 3,
+    "vol": 1,
+    "unit": 7
+  },
+  {
+    "word": "175 qualified",
+    "meaning": "有能な、適任の",
+    "example": "We can't think of anyone who is more qualified than Ms. Billings.",
+    "exampleJa": "Billingsさんをおいてふさわしい人は考えられません。",
+    "week": 3,
+    "vol": 1,
+    "unit": 7
+  },
+  {
+    "word": "176 due",
+    "meaning": "（手形など）支払期限の来た",
+    "example": "The due date for payment if you wished to renew was April 1.",
+    "exampleJa": "更新を希望される場合のお支払い期日は4月1日でした。",
+    "week": 3,
+    "vol": 1,
+    "unit": 7
+  },
+  {
+    "word": "177 valued",
+    "meaning": "貴重な、尊重されている、大切な",
+    "example": "Your ten-year relationship with our company makes you a valued customer.",
+    "exampleJa": "あなたは弊社と10年にわたってご契約いただいており、弊社にとって特別なお客様でございます。",
+    "week": 3,
+    "vol": 1,
+    "unit": 7
+  },
+  {
+    "word": "178 concerning",
+    "meaning": "〜に関しては",
+    "example": "We have decided to wait until Friday, April 10 to hear from you concerning your policy.",
+    "exampleJa": "ご契約（あなたの保険証券）に関するお客様からのご連絡を4月10日金曜までお待ちすることにいたしました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 7
+  },
+  {
+    "word": "179 for starters",
+    "meaning": "まず手始めに",
+    "example": "For starters, your permanent employee passes are ready to be picked up.",
+    "exampleJa": "まず、皆さんの正社員証は受け取っていただく準備ができています。",
+    "week": 3,
+    "vol": 1,
+    "unit": 7
+  },
+  {
+    "word": "180 in the meantime",
+    "meaning": "（2つのことが起こる）その間に、それまでは",
+    "example": "If you have any questions in the meantime, contact Amy Lin at alin@personnelmacon.com.",
+    "exampleJa": "その間に、何か質問がありましたら、人事のAmy Lin、alin@personnelmacon.comにご連絡ください。",
+    "week": 3,
+    "vol": 1,
+    "unit": 7
+  },
+  {
+    "word": "181 be familiar with 〜",
+    "meaning": "〜に詳しい、〜に精通している",
+    "example": "Though not difficult to master, it is best to receive instruction from someone who is familiar with the technique.",
+    "exampleJa": "習得するのは難しくはありませんが、技法に詳しい人から指導を受けるのが一番です。",
+    "week": 3,
+    "vol": 1,
+    "unit": 7
+  },
+  {
+    "word": "182 as to 〜",
+    "meaning": "〜について、〜に関して",
+    "example": "You have neither sent us the necessary paperwork and payment nor contacted us as to your wishes.",
+    "exampleJa": "必要書類と支払い金を弊社にお送りいただいておらず、ご意向に関してご連絡もいただいておりません。",
+    "week": 3,
+    "vol": 1,
+    "unit": 7
+  },
+  {
+    "word": "183 in advance",
+    "meaning": "前もって、あらかじめ",
+    "example": "Guests are advised to make a reservation well in advance of your stay.",
+    "exampleJa": "お客様には、ご滞在のかなり前にご予約されることをお勧めします。",
+    "week": 3,
+    "vol": 1,
+    "unit": 7
+  },
+  {
+    "word": "184 tender",
+    "meaning": "入札、提出／〜を差し出す、提出する",
+    "example": "Following tenders placed by six construction firms, the town council voted unanimously to assign construction to Yates Inc.",
+    "exampleJa": "6つの建設企業からの入札を受けた後、市議会は全会一致で建設委託先にYatesを選出しました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "185 account",
+    "meaning": "口座",
+    "example": "Our records indicate that you have not taken any action regarding your account in the past 23 months.",
+    "exampleJa": "当行の記録によると、お客様は過去23か月の間、銀行口座での取引をまったく行っていません。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "186 option",
+    "meaning": "選択肢",
+    "example": "Choose one or more actions from the options below within the next 30 days.",
+    "exampleJa": "次の選択肢の中から1つ、あるいは複数の取引を今後30日以内に行ってください。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "187 deposit",
+    "meaning": "（銀行）預金／預金する",
+    "example": "Make a deposit of $20 or more into your account",
+    "exampleJa": "口座に20ドル以上預金する。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "188 withdrawal",
+    "meaning": "（預金などの）払い戻し",
+    "example": "Make a withdrawal in any amount from your account",
+    "exampleJa": "口座からいかなる額でも預金を引き出す。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "189 check",
+    "meaning": "（主に米で用いられる）小切手",
+    "example": "Write a check to a third party in any amount that is payable from your account",
+    "exampleJa": "お客様の口座から支払われる小切手をいかなる額でも第三者宛に切る。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "190 attachment",
+    "meaning": "付属物（品）",
+    "example": "The letter has an attachment.",
+    "exampleJa": "手紙には添付書類がある。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "191 flat-screen TV",
+    "meaning": "薄型テレビ",
+    "example": "The first flat-screen TV I purchased was made by Solar Electronics.",
+    "exampleJa": "初めて購入した薄型テレビはSolar Electronicsによって製造されたものでした。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "192 air purifier",
+    "meaning": "空気清浄器",
+    "example": "I also own an air purifier manufactured by Solar.",
+    "exampleJa": "Solar製の空気清浄機も所有しています。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "193 eye strain",
+    "meaning": "眼の疲れ、眼精疲労",
+    "example": "The desk lamp was recommended in a magazine for reducing eye strain and covering a large work area.",
+    "exampleJa": "その卓上用電気スタンドは目の疲れを軽減し、広い作業スペースを照らすと雑誌で推薦されました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "194 detail",
+    "meaning": "詳細",
+    "example": "See below for details.",
+    "exampleJa": "詳細は下記をご確認ください。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "195 resident",
+    "meaning": "住民、居住者",
+    "example": "Westburg Interiors has been serving the residents of Brookfield for over 30 years.",
+    "exampleJa": "Westburg Interiorsは30年以上にわたりBrookfieldの住民の皆様にサービスをお届けしております。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "196 dressing",
+    "meaning": "装飾、飾りつけ",
+    "example": "Returning customers will receive a 20 percent discount on window dressings.",
+    "exampleJa": "再来店のお客様は、窓の装飾に20％の割引を受けられます。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "197 flooring",
+    "meaning": "床板、床張り材",
+    "example": "First time customers are entitled to a 10 percent discount on all furniture and flooring.",
+    "exampleJa": "新規のお客様は、すべての家具と床板に10％の割引をご利用になれます。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "198 No worries.",
+    "meaning": "心配ありません。気にしないでください。",
+    "example": "No worries.",
+    "exampleJa": "心配ありません。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "199 award",
+    "meaning": "（人に）（賞与などを）（審判・熟考の上で）与える",
+    "example": "Yates Inc. has been awarded the building contract for construction of the new Bloomberg Civic Center.",
+    "exampleJa": "Yates社が新しいBloomberg市民センターの建設請負契約を落札しました（与えられた）。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "200 bid",
+    "meaning": "値を付ける",
+    "example": "Yates Inc. underbid the lowest bidding firm by $58,000, clinching the deal for the 30-year-old construction firm headquartered in downtown Bloomberg.",
+    "exampleJa": "Yates社は、最安値を提示した企業に58,000ドルの差をつけた安値をつけ、それによりBloombergの中心部に本社を構える、創立30年の建設会社に契約を確定した。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "201 deem",
+    "meaning": "〜だと思う、だとみなす",
+    "example": "If no action is taken on your part within the next 30 days, your account will be deemed inactive.",
+    "exampleJa": "今後30日以内にお客様側から取引が一切行われない場合、お客様の口座は休眠口座とみなされます。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "202 enclose",
+    "meaning": "同封する",
+    "example": "Fill in and return the enclosed form",
+    "exampleJa": "同封の用紙に記入して返送する",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "203 serve",
+    "meaning": "（人の）役に立つ",
+    "example": "We regret the inconvenience and hope to continue serving you in the future.",
+    "exampleJa": "お手数をおかけして申し訳ありませんが、今後ともお客様のお役に立てるよう願っております。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "204 host",
+    "meaning": "主催する／（客を接待する）主人（役）、司会役、運営係",
+    "example": "The bank will host an event.",
+    "exampleJa": "銀行は行事を主催する。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "205 acquire",
+    "meaning": "習得する",
+    "example": "Although the focus of this particular class is on plants, the skills you acquire will help you draw anything three-dimensionally.",
+    "exampleJa": "この特定の講座では植物に重点を置きますが、習得する技術は、どんなものも立体的に描くのに役立つことでしょう。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "206 provide",
+    "meaning": "提供する、支給する、与える",
+    "example": "A list of materials will be provided at registration.",
+    "exampleJa": "画材の一覧表は登録時にお渡しします。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "207 pass down 〜 / pass 〜 down",
+    "meaning": "（伝統・知識など）を下の次の世代に渡す",
+    "example": "Founded in 1984 by Rhonda Westburg, the business has since been passed down to Rhonda's son-in-law Mark Spence.",
+    "exampleJa": "1984年にRhonda Westburgによって設立され、弊社はその後、Rhondaの義理の息子であるMark Spenceに引き継がれました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "208 time-honored",
+    "meaning": "由緒ある、昔ながらの",
+    "example": "Enter your garden in this time-honored Oswego tradition.",
+    "exampleJa": "Oswegoの由緒ある伝統に、あなたの庭園をご登録ください。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "209 pending",
+    "meaning": "未決定で",
+    "example": "The starting date for construction is pending but according to Mr. Minx, it should be no later than November 20.",
+    "exampleJa": "建設開始日は未定ですが、Minx氏によると11月20日より前になる見通しです。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "210 user-friendly",
+    "meaning": "（コンピュータなどが）使いやすい、取り扱いが簡単な",
+    "example": "The desk lamp has several user-friendly functions and a sleek, contemporary design.",
+    "exampleJa": "その電気スタンドにはいくつかの使いやすい機能があり、滑らかで現代的なデザインをしています。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "211 awkward",
+    "meaning": "（ものが）扱いにくい、不便な；（人・動作などが）ぎこちない",
+    "example": "However, extending the neck of the lamp was quite awkward even though I followed the instructions in the manual.",
+    "exampleJa": "しかし、取扱説明書の指示に従ったにもかかわらず、スタンドのアームが極めて伸ばしにくいです。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "212 botanical",
+    "meaning": "植物の",
+    "example": "You will learn the unique requirements of botanical art such as how to measure and observe plant subjects so that they can be accurately portrayed.",
+    "exampleJa": "植物を正確に描けるようになるために、ボタニカルアートの独特な必要条件、例えば植物の題材の寸法の測り方や観察方法を学びます。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "213 intermediate",
+    "meaning": "（学習程度が）中級の；中間の",
+    "example": "Students intermediate and above can draw more difficult plant subjects.",
+    "exampleJa": "中級以上の生徒さんは、より複雑な植物の題材を描くことができます。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "214 on-site",
+    "meaning": "現場［現地］での",
+    "example": "Estimates are available free of charge following an on-site consultation at your home.",
+    "exampleJa": "お客様のご自宅にて現場でのご相談の後に、無料でお見積りをいたします。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "215 under consideration",
+    "meaning": "検討中で（の）、考慮中で（の）",
+    "example": "All the firms under consideration had excellent safety records and innovative designs.",
+    "exampleJa": "検討していた会社すべてが優れた安全記録と革新的な設計図を持ちあわせていました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "216 no doubt",
+    "meaning": "疑いなく、確かに；恐らく、多分",
+    "example": "No doubt citizens of Bloomberg are looking forward to the new civic center which will replace the old one destroyed by fire last spring.",
+    "exampleJa": "Bloomberg市民は間違いなく新しい市民センターを心待ちにしており、それは昨春に火災で焼失した古い建物にとって代わることになります。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "217 move on to 〜",
+    "meaning": "（新しい話題など）に移る",
+    "example": "The class will then move on to helping you understand the effect light has on form, and how to shade realistically.",
+    "exampleJa": "その後この講座では、皆さんが、光が形に及ぼす効果や写実的に陰影をつける方法について理解するお手伝いをしていきます。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "218 heavy traffic",
+    "meaning": "交通渋滞",
+    "example": "I'm in a taxi. We're in heavy traffic.",
+    "exampleJa": "まだタクシーの中にいて、私達は渋滞に巻き込まれています。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "219 drop-off point",
+    "meaning": "降り場、返却口、引き渡し場所",
+    "example": "They'll send you to the drop-off point at the hotel across the street.",
+    "exampleJa": "彼らはあなたを道の反対側のホテルの引き渡し場所に送るでしょう。",
+    "week": 3,
+    "vol": 1,
+    "unit": 8
+  },
+  {
+    "word": "220 mission",
+    "meaning": "使命、任務",
+    "example": "HFC's mission is to help families in the Hilltop area connect with and support each other.",
+    "exampleJa": "HFCの使命はHilltop地域の家族がつながり、互いに支援することです。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "221 night out",
+    "meaning": "夜の外出会",
+    "example": "HFC organizes nights out for various age groups.",
+    "exampleJa": "HFCは様々な年齢層に向けた夜の外出会を企画しています。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "222 newborn",
+    "meaning": "新生児",
+    "example": "HFC runs a meal program for families with newborns.",
+    "exampleJa": "HFCは新生児のいる家庭に食事のプログラムを提供しています。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "223 preschool",
+    "meaning": "《米》幼稚園、保育園（通例5歳以下）",
+    "example": "HFC has its own Neighborhood File that includes essential information on preschools, special interest classes, childcare, and teen and family events.",
+    "exampleJa": "HFCには、幼稚園、特定の関心事に関する講座、育児、10代の子どもたちや家族向けのイベントに関する重要な情報を含んだ、独自の近隣情報ファイルがあります。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "224 opening",
+    "meaning": "（地位・職などの）空き、欠員、就職口；開くこと、開店",
+    "example": "Should an opening become available in your Hong Kong branch, I hope you would consider me for it.",
+    "exampleJa": "もし、香港支社にて欠員が出た場合には、ぜひ私をご検討いただければと思います。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "225 attention",
+    "meaning": "注意、注目",
+    "example": "However, there's one thing I have to bring to your attention at this time.",
+    "exampleJa": "しかし今回、1つあなたにお伝えしなければならないことがあります。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "226 extension",
+    "meaning": "延期、猶予；広げること、拡張；内線",
+    "example": "He must ask for a due date extension.",
+    "exampleJa": "彼は締切日の延長をお願いしなければならない。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "227 endeavor",
+    "meaning": "（〜しようとする）（真剣な）努力、試み、活動",
+    "example": "It was a pleasure for me to have been able to meet with you in person, and write about your new endeavor.",
+    "exampleJa": "私は、直接お会いして、貴殿の新しい取り組みについて記事を書くことができて嬉しかったです。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "228 midst",
+    "meaning": "（行為・期間の）真っ只中、真ん中",
+    "example": "A three-time Tony nominee, Bridges started a family several years ago in the midst of a 15-city tour of Rollercoaster, a play written by her husband, Phillip Petit.",
+    "exampleJa": "3度にわたるトニー賞候補者であるBridgesは数年前、彼女の夫であるPhillip Petitが脚本を書いたRolercoasterの15都市を巡る公演の最中に第一子をもうけた。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "229 contribute",
+    "meaning": "（金・援助）を与える、寄付する",
+    "example": "The only requirement for HFC membership is that you contribute a minimum of $10 per year in dues to help fund the hosted events.",
+    "exampleJa": "HFCの組合員資格要件は主催行事の資金援助のために年間最低10ドルの会費を寄付していただくことだけです。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "230 coordinate",
+    "meaning": "調整する、組織する",
+    "example": "Terry Koons coordinates membership for HFC.",
+    "exampleJa": "Terry KoonsがHFCの会員権をまとめています。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "231 settle",
+    "meaning": "落ち着く、慣れる",
+    "example": "Because my family and I have taken close to six months to settle in Hong Kong, it would not be an option for us to relocate to Singapore at this time.",
+    "exampleJa": "家族と私は、香港に引っ越して落ち着くまでに6か月近くかけましたので、現時点ではシンガポールに移り住むという選択肢はございません。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "232 hinge",
+    "meaning": "〜次第で決まる、〜次第で定まる",
+    "example": "It goes without saying that so much hinges on the success of the Fuji project for us.",
+    "exampleJa": "言うまでもなく、私たちにとってたくさんのことがFujiプロジェクトの成功に左右されます。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "233 reflect",
+    "meaning": "〜を（〜に）反映する；映す、反射する",
+    "example": "Could you kindly re-issue an invoice reflecting the amount minus the portion for the documents I mentioned above?",
+    "exampleJa": "お手数ですが、上で述べた書類の部分を差し引いた金額を反映して、請求書を再発行していただけませんか。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "234 state",
+    "meaning": "はっきり述べる、十分に言う",
+    "example": "Neither in the document nor the instructions did you state that those two CVs were for reference purposes only.",
+    "exampleJa": "文書と指示書のどちらにも、2つの履歴書が参照目的のためだけであるとは書かれていませんでした。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "235 enlist",
+    "meaning": "（人に）〜してくれるように協力を求める",
+    "example": "I enlisted two other translators to help me finish the task.",
+    "exampleJa": "実際に、2人の翻訳者に作業を手伝ってくれるよう協力を求めました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "236 avoid",
+    "meaning": "（望ましくない人・物・事を）（意識して）避ける",
+    "example": "To avoid this kind of misunderstanding in the future, I'd like to suggest either sending the reference material separately, or marking it clearly in a different color.",
+    "exampleJa": "今後、このような誤解を避けるために、参考資料は別便でお送りいただくか、別の色でわかりやすく印をつけていただくことを提案したいと思います。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "237 feature",
+    "meaning": "（人・会社などを）特集する",
+    "example": "It was an honor for us that you agreed to be featured in our magazine as one of the 10 Business Hopefuls of the coming year.",
+    "exampleJa": "弊誌において、来年「ビジネスで前途有望な10人」のうちの1人として特集されることに同意していただいたことを、光栄に思っております。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "238 depict",
+    "meaning": "（人・作品が絵・彫刻・言葉などで）描く",
+    "example": "I hope the article depicts you as the wonderful actress, wife, mother and businesswoman you are.",
+    "exampleJa": "この記事が貴殿をあるがままに、素晴らしい女優、妻、母、そしてビジネスウーマンとして表現していることを願います。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "239 combine",
+    "meaning": "兼ね備える、組み合わせる",
+    "example": "There wasn't a single product for children in the market that combined all the things I wanted.",
+    "exampleJa": "私が求めるすべてのことを兼ね備えた子どものための製品は、1つとして市場にありませんでした。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "240 tout",
+    "meaning": "押し売りする、うるさく勧誘する",
+    "example": "Many existed that touted a catchy slogan or two.",
+    "exampleJa": "1つか2つ聞こえのいいキャッチフレーズを押しつける製品は数多くありました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "241 discourage",
+    "meaning": "落胆させる、がっかりさせる",
+    "example": "Never one to be discouraged, Bridges spent six months researching how to realize her vision.",
+    "exampleJa": "落胆知らずのBridgesは、彼女のビジョンを実現させる方法を調べるのに6か月間を費やしました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "242 co-star",
+    "meaning": "（〜と）共演する／（主役との）共演者",
+    "example": "Sandra Bridges is scheduled to co-star with Marsha Sims in Dancing Boots opening on Broadway on April 17.",
+    "exampleJa": "Sandra Bridgesは、4月17日にブロードウェイで始まるDancing BootsでMarsha Simsと共演することになっています。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "243 annual",
+    "meaning": "年1回の、例年の",
+    "example": "HFC hosts many annual events, including Valentine's and Halloween.",
+    "exampleJa": "HFCはバレンタインデー、ハロウィーンを含む多くの年中行事を主催しています。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "244 attractive",
+    "meaning": "魅力的な",
+    "example": "The position of market researcher that you are offering me is indeed extremely attractive.",
+    "exampleJa": "提示していただいている市場調査員の職は、私にとって本当に極めて魅力的です。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "245 seasoned",
+    "meaning": "経験豊富な、ベテランの",
+    "example": "A large firm such as Lions Inc. would be an ideal place for a seasoned market researcher like me to work.",
+    "exampleJa": "私のように経験豊富な市場調査員にとって、Lions社のような大企業は働くのに理想的な職場でしょう。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "246 complimentary",
+    "meaning": "（好意により）無料の；あいさつの",
+    "example": "Attached please find 10 complimentary copies of the January/February issue of Business Now.",
+    "exampleJa": "Business Nowの1・2月号の献本を10冊添付いたします。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "247 sustainable",
+    "meaning": "持続可能な",
+    "example": "Those elements as described by Bridges are organic, fragrance-free, eco-friendly, and sustainable.",
+    "exampleJa": "Bridgesが述べるそれらの要素とは、オーガニックで無香料、環境にやさしく持続可能であることです。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "248 superior",
+    "meaning": "上質の、よりすぐれている",
+    "example": "People told me that the resulting product would be superior, but that it would be far too expensive to market.",
+    "exampleJa": "できあがる製品は上質なものになるだろうけれど、高価すぎて市場に出すことはできないだろうと言われました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "249 new",
+    "meaning": "（仕事などに）不慣れの、不案内の",
+    "example": "I'm new to business and marketing, but I've already learned so much.",
+    "exampleJa": "ビジネスやマーケティングは初めてですが、すでに多くのことを学んでいます。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "250 subsequently",
+    "meaning": "その後、後に、〜に続いて",
+    "example": "I went over what you sent and found that you translated, and subsequently charged us for, a portion of the document that was meant for reference purposes only.",
+    "exampleJa": "納品物を確認したところ、文書のうち、参照用だけの部分も翻訳してくださり、したがってその分も請求されていたことがわかりました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "251 specifically",
+    "meaning": "具体的に言うと、つまり；明確に、はっきりと",
+    "example": "Specifically, I'm talking about the CVs of John McGraw and Lori Shimizu at the end of the document that come to a total of five pages.",
+    "exampleJa": "具体的に言うと、文書の最後にある、合計5ページにわたるJohn McGrawとLori Shimizuの履歴書のことです。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "252 help out 〜 / help 〜 out",
+    "meaning": "（困ったときに）（人の）〜を助けてやる、手伝う",
+    "example": "As always, I appreciate your helping us out in a pinch.",
+    "exampleJa": "いつものように、私たちが苦しい状況にいるときに助けてくれて、本当に感謝しています。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "253 give away 〜 / give 〜 away",
+    "meaning": "ただで渡す、贈り物として与える",
+    "example": "The file is a great source for neighbors wanting to sell or give away items they no longer need.",
+    "exampleJa": "そのファイルは、不用品を売ったり譲ったりしたいと思う近隣の方々にとって、素晴らしい情報源です。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "254 word-of-mouth",
+    "meaning": "口コミ",
+    "example": "HFC relies solely on word-of-mouth to get new residents to take part in the cooperative.",
+    "exampleJa": "HFCは新しい住民に生活協同組合に参加してもらうのに、口コミだけを頼りにしています。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "255 benefits package",
+    "meaning": "付加（厚生）給付（有給休暇、健康保険、年金などの賃金外給付）",
+    "example": "The terms of employment, compensation, and benefits package are more than I could ask for.",
+    "exampleJa": "雇用条件、賃金、福利厚生は私にとってこれ以上望めないものです。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "256 I hope our paths cross again.",
+    "meaning": "またお会いできることを願っています。",
+    "example": "Again, thank you for your time and I hope our paths cross again in the near future.",
+    "exampleJa": "繰り返しになりますが、貴重なお時間をありがとうございました。近い将来、お会いできることを願っております。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "257 with regard to 〜",
+    "meaning": "〜に関して（は）",
+    "example": "I'm writing with regard to the translation you did for us last week.",
+    "exampleJa": "先週、弊社のために行っていただいた翻訳についてご連絡を差し上げます。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "258 pass on 〜",
+    "meaning": "（〜を）（…に）伝える、移す",
+    "example": "Dan Graybill, the project leader, told me to pass on to you how great he thought the translation was.",
+    "exampleJa": "プロジェクト・リーダーのDan Graybillから、翻訳がいかにすばらしいと思ったかをあなたに伝えるように言われました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "259 heavy heart",
+    "meaning": "気が重いこと",
+    "example": "It is with a heavy heart that I ask you to do this since Digitech is one of our most important clients.",
+    "exampleJa": "このようなことをお願いするのは非常に心苦しいです。それはDigitechが私どもにとって最も大切なクライアントのうちの1社だからです。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "260 I'd appreciate it if 〜",
+    "meaning": "〜してもらえると幸いです、助かります、ありがたい",
+    "example": "I'd appreciate it if you could use the original invoice.",
+    "exampleJa": "元の請求書をお使いいただけますと幸いです。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "261 rise to 〜",
+    "meaning": "（要求・危機・難局などに）（能力を発揮してうまく）対処する",
+    "example": "Given a challenge, actress Sandra Bridges never fails to rise to it.",
+    "exampleJa": "試練を与えられても、女優のSandra Bridgesは必ず乗り越えます。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "262 live up to 〜",
+    "meaning": "（主義・信念などを）実践する、（契約などを）履行する",
+    "example": "Bridges decided to start a company of her own to manufacture products that lived up to her expectations.",
+    "exampleJa": "Bridgesは、自分が納得できる製品を作るために自身の会社を立ち上げようと決意しました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "263 hit store",
+    "meaning": "店に並ぶ、販売を開始する",
+    "example": "The result is the Babes line of shampoos and soaps that will hit stores next month.",
+    "exampleJa": "その結果が、来月発売される、シャンプーや石けんのBabesシリーズです。",
+    "week": 3,
+    "vol": 1,
+    "unit": 9
+  },
+  {
+    "word": "264 prose",
+    "meaning": "散文体、散文",
+    "example": "People and Places is short on prose but long on visual scale, lending truth to the expression \"a picture is worth a thousand words.\"",
+    "exampleJa": "People and Placesは短い散文体ですが、視覚的な尺度では長く、「写真は千の言葉に値する」という表現に肉迫するものとなっています。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "265 enthusiast",
+    "meaning": "愛好家、〜ファン、大の〜好き",
+    "example": "People and Places is a must-have whether you are a photography enthusiast, a celebrity buff, or simply an admirer of beautiful things.",
+    "exampleJa": "People and Placesは、あなたが写真愛好家や有名人マニアであれ、単に美しいものを愛でる人であれ、必携です。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "266 foreword",
+    "meaning": "（特に著者以外の人による）まえがき、序文",
+    "example": "Foreword by Ray Harper. Hardcover — 124 pages, $55.95.",
+    "exampleJa": "前書きはRay Harperによる。単行本で124ページ、55ドル95セント。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "267 childhood",
+    "meaning": "幼少時代",
+    "example": "Beth Mitchell spent her childhood in various European cities, accompanying her father who was a career diplomat.",
+    "exampleJa": "Beth Mitchellは、はえ抜きの外交官だった父とともに、幼少時代をヨーロッパのさまざまな都市で過ごしました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "268 realm",
+    "meaning": "部門、領域、範囲",
+    "example": "Mitchell took leave of the fashion realm and embarked on a two-year adventure.",
+    "exampleJa": "Mitchellはファッションの分野に別れを告げ2年間の冒険を始めました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "269 subject",
+    "meaning": "（写真の）被写体",
+    "example": "No doubt Mitchell's sharp eye and love for her subjects make the book a pleasure to behold.",
+    "exampleJa": "おそらくMitchellの鋭い観察眼と被写体に対する愛情によって、この本が見ていて愉快なものになっています。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "270 feat",
+    "meaning": "至難の業、功績、手柄",
+    "example": "It was probably no easy feat to convince such famous subjects — including retired movie stars Gloria Man and Alex Rider.",
+    "exampleJa": "引退した映画俳優のGloria MannやAlex Riderのように有名な被写体を説得するのは、おそらく至難の業であったろう。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "271 courier",
+    "meaning": "宅配便",
+    "example": "Your coat left the factory on November 10 and made its way to FRD, the international courier service, whose address was noted in the tracking information.",
+    "exampleJa": "お客様のコートは11月10日に工場から国際配達業者のFRDへ発送され、そのFRDの住所が追跡情報に記載されておりました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "272 destination",
+    "meaning": "目的地",
+    "example": "We have never had a case in which a package did not get to its destination.",
+    "exampleJa": "弊社の荷物が目的地に届かなかったことは一度もございません。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "273 duty",
+    "meaning": "関税",
+    "example": "We'd like to remind you that there may be duty on your package.",
+    "exampleJa": "お客様の荷物に通関税が課せられる可能性があることを改めて申し添えます。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "274 sequel",
+    "meaning": "（小説などの）続編、後編",
+    "example": "The long-awaited sequel to photographer Beth Mitchell's first book Flowers and Quotes incorporates Mitchell's breathtaking portraits of famous people against their favorite backdrops.",
+    "exampleJa": "写真家Beth Mitchellの処女作Flowers and Quotesの待望の続編には、お気に入りの場所を背にした有名人の息をのむような肖像写真が含まれています。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "275 homage",
+    "meaning": "敬意、尊敬",
+    "example": "The 120-page magnum opus pays homage to Mitchell's heroes and heroines.",
+    "exampleJa": "120ページの最高傑作は、Mitchellのヒーローやヒロインたちに敬意を表しています。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "276 agenda",
+    "meaning": "会議事項、協議事項、議事日程、予定表",
+    "example": "I just printed the meeting agenda.",
+    "exampleJa": "会議の議題をプリントしただけです。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "277 allergy",
+    "meaning": "アレルギー",
+    "example": "We used to eat ramen regularly, but stopped because of my son's wheat allergies.",
+    "exampleJa": "よくラーメンを食べていたのですが息子が小麦アレルギーのため、やめました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "278 consistency",
+    "meaning": "固さ、密度、粘度、一貫性",
+    "example": "If boiled too long, the consistency of the noodles will suffer.",
+    "exampleJa": "長く煮すぎると麺の固さはそこなわれます。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "279 suffer",
+    "meaning": "悪くなる、傷がつく",
+    "example": "If boiled too long, the consistency of the noodles will suffer.",
+    "exampleJa": "長く煮すぎると麺の固さはそこなわれます。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "280 assessment",
+    "meaning": "評価、査定",
+    "example": "I think the comments are fair assessments of the situation.",
+    "exampleJa": "コメントは状況を適正に評価していると思います。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "281 track",
+    "meaning": "追跡する",
+    "example": "I decided to track the order with the information you provided in the \"Your Account\" section of your homepage.",
+    "exampleJa": "貴社のホームページ上の「お客様のアカウント」という部分に掲載されている情報を使って、注文を追跡することにしました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "282 deliver",
+    "meaning": "配達する",
+    "example": "I was surprised to find that the package was noted as \"delivered\" on November 15 to an address that was not mine.",
+    "exampleJa": "荷物が私のものではない宛先に11月15日に、「配達済み」と記載されているのを見て驚きました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "283 alarm",
+    "meaning": "（人に）不安を感じさせる／恐れ、警報",
+    "example": "We are sorry to have alarmed you concerning the subject order.",
+    "exampleJa": "表題のご注文に関してご心配をおかけして申し訳ございません。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "284 assure",
+    "meaning": "保証する、（確信を持って）言う",
+    "example": "We contacted FRD as to the status of your package, and they have assured us that it was shipped on November 20.",
+    "exampleJa": "お客様の荷物の状況についてFRDに問い合わせたところ、11月20日に発送されたと保証しておりました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "285 vary",
+    "meaning": "異なる、変化する",
+    "example": "Because customs regulations vary depending on country, we cannot say for sure when your package will arrive.",
+    "exampleJa": "通関手続きは国によって異なるため、お客様の荷物がいつ到着するか確実に申し上げることはできません。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "286 hesitate",
+    "meaning": "ちゅうちょする、ためらう",
+    "example": "If you need further assistance, don't hesitate to let us know.",
+    "exampleJa": "さらにお手伝いが必要な場合は、ご遠慮なくお知らせください。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "287 enlighten",
+    "meaning": "（人を）啓発する",
+    "example": "Enlightened to photography in high school, Mitchell attended The Design Academy in Boston.",
+    "exampleJa": "高校で写真に目覚めると、MitchellはボストンのThe Design Academyに通いました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "288 reside",
+    "meaning": "（長い間）住む",
+    "example": "Mitchell currently resides in New York City.",
+    "exampleJa": "Mitchellは現在、ニューヨーク市に在住しています。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "289 stick",
+    "meaning": "守る、…に忠実である、刺す、貼り付ける",
+    "example": "It is important to stick to the 4-minute time on the label.",
+    "exampleJa": "ラベルに書かれている4分を守っていただくことが大事です。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "290 steep",
+    "meaning": "（値段・要求などが）とてつもなく高い、ひどい",
+    "example": "The $50-plus price tag is steep even with the book's elegant binding and fine quality paper.",
+    "exampleJa": "50数ドルという値札は、この本の上品な装丁や上質紙を照らし合わせてもかなり高額です。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "291 exclusive",
+    "meaning": "（権利・所有物などが）独占的な、占有的な",
+    "example": "After freelancing and working for various fashion magazines, Mitchell became the first photographer to sign an exclusive contract with True Style magazine.",
+    "exampleJa": "フリーランスやさまざまなファッション誌での仕事を経て、MitchellはTrue Style誌と独占契約を結んだ、初のカメラマンとなりました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "292 incorrect",
+    "meaning": "間違った、不正確な",
+    "example": "Which statement about the meeting is incorrect?",
+    "exampleJa": "会議について、どの記述が間違いですか。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "293 conscientious",
+    "meaning": "誠実な、良心的な",
+    "example": "I don't think the country of origin is very conscientious when it comes to health safety.",
+    "exampleJa": "生産国は健康の安全に関してあまり気をつけているとは思えないのです。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "294 complex",
+    "meaning": "複雑な、複合の／集合体",
+    "example": "Many people add our noodles to rich, complex soup stocks.",
+    "exampleJa": "多くの方々は小社の麺を濃厚で複雑なスープストックに加えます。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "295 way",
+    "meaning": "はるかに、うんと",
+    "example": "I agree that $52.50 is way too much for this sort of book.",
+    "exampleJa": "52ドル50セントはこの手の本にしてはかなり高いというのは私も同感です。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "296 adequately",
+    "meaning": "適正に、十分に",
+    "example": "I also disagree with his comments about the intro, which I think adequately describes the project.",
+    "exampleJa": "序論に関する彼のコメントにも反対です。序論はプロジェクトを適正に説明していると私は思います。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "297 better part of 〜",
+    "meaning": "大半",
+    "example": "Mitchell traveled the world for the better part of two years to meet and convince 30 subjects to be photographed for her book.",
+    "exampleJa": "Mitchellは、2年近く世界を旅して30名の被写体に会い、自身の本のために写真を撮影させてくれるように説得しました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "298 household name",
+    "meaning": "有名人、おなじみの名前、どこの家庭でも通じる名前",
+    "example": "They happen to be household names in most parts of the developed world.",
+    "exampleJa": "期せずして先進国の大半で誰もが知っているおなじみの人物となっています。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "299 Of special interest is 〜",
+    "meaning": "特に興味深いのは〜です",
+    "example": "Of special interest is the section featuring five retired film stars.",
+    "exampleJa": "特に興味深いのは、5名の引退した映画俳優を特集したコーナーです。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "300 take 〜 by surprise",
+    "meaning": "（人を）驚かす、びっくりさせる；人の不意を襲う",
+    "example": "It's been five years since Beth Mitchell took us by surprise with her ode to nature Flowers and Quotes.",
+    "exampleJa": "Beth Mitchellが、彼女の自然への賛歌であるFlowers and Quotesで私たちを驚かせてから5年になります。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "301 find one's way",
+    "meaning": "（ある状態に）達する、たどり着く",
+    "example": "Flowers and Quotes found its way onto The City Times best-seller list and stayed there for five months.",
+    "exampleJa": "Flowers and QuotesはThe City Timesのベストセラー・リストに載り、5か月間ずっとランクインしていました。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "302 It's safe to say that 〜",
+    "meaning": "〜と言って差支えない、過言ではない",
+    "example": "It's safe to say that most readers would have liked to learn more about the thrill that accompanied the book's creation.",
+    "exampleJa": "大半の読者は、本の製作に伴ったスリルについて、もっと知りたかっただろうと言って間違いないだろう。",
+    "week": 3,
+    "vol": 1,
+    "unit": 10
+  },
+  {
+    "word": "V2-1 potted plant",
+    "meaning": "鉢植え",
+    "example": "Potted plants have been arranged along the path.",
+    "exampleJa": "鉢植えが道に沿って置かれている。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-2 stepladder",
+    "meaning": "段はしご、脚立",
+    "example": "A stepladder has been set against the wall.",
+    "exampleJa": "はしごが壁に立てかけられている。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-3 fold",
+    "meaning": "折る、たたむ",
+    "example": "The man is folding a piece of paper.",
+    "exampleJa": "男性が1枚の紙を折っている。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-4 set",
+    "meaning": "置く",
+    "example": "The computer has been set on the desk.",
+    "exampleJa": "コンピューターが机の上に置かれている。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-5 pile",
+    "meaning": "（ものなどを）積み重ねる／（ものの）積み重ね、山",
+    "example": "A lot of books are piled on the floor.",
+    "exampleJa": "たくさんの本が床に積まれている。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-6 stack",
+    "meaning": "積み上げる／積み重ね",
+    "example": "The books have been stacked in piles.",
+    "exampleJa": "本は山積みされている。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-7 occupy",
+    "meaning": "（席を）占める",
+    "example": "All of the seats are occupied.",
+    "exampleJa": "満席である。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-8 serve",
+    "meaning": "（人・料理店などが）（飲食物を）（食卓に）出す",
+    "example": "Meals are being served.",
+    "exampleJa": "食事が出されているところである。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-9 operate",
+    "meaning": "操作する",
+    "example": "The man is operating a machine.",
+    "exampleJa": "男性は機械を操作している。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-10 water",
+    "meaning": "水をやる",
+    "example": "The man is watering some plants.",
+    "exampleJa": "男性は植物に水をやっている。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-11 equip",
+    "meaning": "（必要な道具・装置を）装備する（しばしば受け身で用いる）",
+    "example": "The workers are equipped with safety gear.",
+    "exampleJa": "作業員は安全装具を装備している（安全装具を装着されている）。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-12 vacant",
+    "meaning": "（土地など）空いている",
+    "example": "There are some vacant parking spaces.",
+    "exampleJa": "空いている駐車スペースがいくつかある。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-13 designated",
+    "meaning": "示された、指定された",
+    "example": "Motorcars are being parked in designated spaces.",
+    "exampleJa": "自動車が、指定の場所に駐車されているところである。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-14 hand out 〜 / hand 〜 out",
+    "meaning": "（…に）（ビラ・印刷物などを）配る",
+    "example": "One of the women is handing out papers.",
+    "exampleJa": "女性の1人が書類を配っている。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-15 restroom",
+    "meaning": "《主に米》（デパート・ホテル・劇場などの）お手洗い",
+    "example": "Where is the restroom on this floor?",
+    "exampleJa": "この階の化粧室はどこですか。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-16 campaign",
+    "meaning": "キャンペーン",
+    "example": "Can we discuss the ad campaign sometime today?",
+    "exampleJa": "今日中に、広告キャンペーンについて話し合うことができますか。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-17 fan motor",
+    "meaning": "送風機（のモーター）",
+    "example": "When will the fan motor be repaired?",
+    "exampleJa": "送風機のモーターはいつ修理されますか。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-18 wallpaper",
+    "meaning": "壁紙",
+    "example": "This wallpaper is new, isn't it?",
+    "exampleJa": "この壁紙は新しいですよね。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-19 background",
+    "meaning": "経歴",
+    "example": "Is Karen's background in advertising or marketing?",
+    "exampleJa": "Karenの経歴は広告ですか、それともマーケティングですか。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-20 handout",
+    "meaning": "配布資料",
+    "example": "We seem to be one handout short.",
+    "exampleJa": "配布資料が1部足りないようです。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-21 warehouse",
+    "meaning": "倉庫",
+    "example": "What's going on in the warehouse?",
+    "exampleJa": "倉庫で何が起きていますか。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-22 fee",
+    "meaning": "会費、手数料、報酬",
+    "example": "There's no fee to renew your membership.",
+    "exampleJa": "会員権の更新料はありません。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-23 copier",
+    "meaning": "コピー機",
+    "example": "Where do we keep the toner for the copier?",
+    "exampleJa": "コピー機のトナーはどこに保管していますか。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-24 workshop",
+    "meaning": "《主に米》研修会、ワークショップ",
+    "example": "What can I do to help set up the workshop?",
+    "exampleJa": "研修会の準備を手伝うために、私は何をすればよいですか。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-25 booth",
+    "meaning": "（展示会場などの）ブース",
+    "example": "Should we bring the posters back to the hotel, or leave them at the booth?",
+    "exampleJa": "ポスターをホテルに戻しましょうか、それともブースに置いておきますか。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-26 board",
+    "meaning": "取締役（会）",
+    "example": "Hasn't the board reviewed our proposal yet?",
+    "exampleJa": "取締役会はまだ私たちの提案書を検討していないのですか。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-27 walk",
+    "meaning": "（一緒に歩いて）送る、案内する",
+    "example": "Shall I walk you back to the entrance?",
+    "exampleJa": "玄関までお見送りしましょうか。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-28 informative",
+    "meaning": "有益な、知識を与える、教育的な",
+    "example": "Kendall's talk was very informative.",
+    "exampleJa": "Kendallの講義はとてもためになりました。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-29 start out",
+    "meaning": "始める、出発する",
+    "example": "She started out in sales.",
+    "exampleJa": "彼女は営業から始めました。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-30 get in",
+    "meaning": "（列車・飛行機などが）入ってくる、到着する",
+    "example": "Ms. Mondale's flight gets in at two.",
+    "exampleJa": "Mondaleさんの便は2時に到着します。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-31 step down",
+    "meaning": "（後任のために高い地位から）辞職する、引退する",
+    "example": "I hear Mr. Bonilla will be stepping down at the end of the year.",
+    "exampleJa": "Bonillaさんが年末に退任するそうです。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-32 take over 〜 / take 〜 over",
+    "meaning": "〜を引き継ぐ",
+    "example": "I wonder who'll take over his projects.",
+    "exampleJa": "誰が彼のプロジェクトを引き継ぐのでしょうか。",
+    "week": 4,
+    "vol": 2,
+    "unit": 1
+  },
+  {
+    "word": "V2-33 book review",
+    "meaning": "（新聞・雑誌に載る）書評",
+    "example": "I've been put in charge of doing the book review for David Coleman's autobiography.",
+    "exampleJa": "David Colemanの自伝の書評を書くのを任されています。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-34 entrepreneur",
+    "meaning": "起業家",
+    "example": "The man will interview an entrepreneur.",
+    "exampleJa": "その男性が起業家にインタビューを行うでしょう。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-35 deal",
+    "meaning": "（商品などの）取引、契約",
+    "example": "I saw on your Web site that anyone who joins this month gets a special deal.",
+    "exampleJa": "こちら（あなたがた）のウェブサイトで、今月入会する人は誰でも特別割引を受けられることを知りました。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-36 task",
+    "meaning": "（一定期間内にやるべき）仕事",
+    "example": "Actually, he asked me to take over that task for him.",
+    "exampleJa": "実は、その仕事を引き継ぐよう、彼に頼まれました。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-37 boss",
+    "meaning": "社長、所長、現場主任、上司",
+    "example": "I hope he stays until we turn the results in to the boss.",
+    "exampleJa": "上司に結果を提出するまでは彼にいてほしいと思っています。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-38 extend",
+    "meaning": "伸びる",
+    "example": "I like that the pipe extends this far.",
+    "exampleJa": "管がこんなに長く伸びるのが気に入りました。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-39 entitle",
+    "meaning": "（人に）（…の）権利［資格］を与える（しばしば受け身で用いる）",
+    "example": "I was thinking of joining for just a month. Would I still be entitled to the discount?",
+    "exampleJa": "1か月だけ入会しようと思っているのですが、それでも割引を受けられるのでしょうか。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-40 transfer",
+    "meaning": "転勤させる",
+    "example": "Did you know that Ryan's been transferred to the London office?",
+    "exampleJa": "Ryanがロンドン支社に転勤になったことを知っていましたか。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-41 rags-to-riches",
+    "meaning": "無一文から大金持ちになった",
+    "example": "His autobiography isn't your usual rags-to-riches story.",
+    "exampleJa": "彼の自伝は、よくある無一文から大金持ちになったという話ではありません。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-42 down-to-earth",
+    "meaning": "（人・性格・思想などが）実際的な、現実的な、足が地についた",
+    "example": "His writing style is down-to-earth, which is not what you'd expect from a college professor.",
+    "exampleJa": "彼の書き方は気取らないもので、大学教授から想像するようなものではありません。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-43 substantial",
+    "meaning": "相当な",
+    "example": "That woman offered to give us a substantial discount.",
+    "exampleJa": "その女性は相当な値引きをすることを申し出ました。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-44 leading",
+    "meaning": "一流の、先導する",
+    "example": "Dr. Sorenson is the leading authority on back pain and how to treat it.",
+    "exampleJa": "Sorenson博士は腰の痛みとその治療方法の第一人者です。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-45 suitable",
+    "meaning": "適した",
+    "example": "This book is suitable for a more general audience.",
+    "exampleJa": "この本は、もっと一般的な読者に適しています。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-46 entire",
+    "meaning": "全体の、全部の",
+    "example": "By the way, are you staying for the entire conference?",
+    "exampleJa": "ところで、あなたは会議には最初から最後までいますか。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-47 whole",
+    "meaning": "（時間・距離など）まる〜、ちょうど〜",
+    "example": "I'll be here the whole week.",
+    "exampleJa": "私は1週間ずっとここにいるつもりです。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-48 pharmaceutical",
+    "meaning": "製薬の、薬学の／製薬、調合薬",
+    "example": "I joined a pharmaceutical company in March.",
+    "exampleJa": "私は3月に製薬会社に入社しました。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-49 a lot",
+    "meaning": "非常に大きい程度",
+    "example": "It is compact and a lot lighter than it looks.",
+    "exampleJa": "それは小型で、見た目よりもずっと軽いです。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-50 turn 〜 in / turn in 〜",
+    "meaning": "〜を手渡す、（報告書などを）提出する",
+    "example": "Jan wants me to turn it in by next Friday.",
+    "exampleJa": "Janは私に、次の金曜日までにそれを提出してほしいそうです。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-51 try one's hand at 〜",
+    "meaning": "〜を一度やってみる",
+    "example": "He decided to try his hand at marketing inventions he came up with in his garage.",
+    "exampleJa": "彼はガレージで考え出した発明品を売り込んでみようと決心しました。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-52 quite a bit",
+    "meaning": "相当、かなり",
+    "example": "The things he said had me laughing quite a bit, too.",
+    "exampleJa": "彼が述べていることに、私もかなり笑わされました。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-53 vacuum cleaner",
+    "meaning": "電気掃除機",
+    "example": "I'd like to see the vacuum cleaner that's part of the store display over there.",
+    "exampleJa": "あちらで店の展示品の一部になっている掃除機を見たいのですが。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-54 electrical outlet",
+    "meaning": "電気コンセント",
+    "example": "This vacuum cleaner is cordless and recharges at a unit you attach to an electrical outlet.",
+    "exampleJa": "この掃除機はコードレスで、電気コンセントに取り付ける部品で再充電されます。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-55 make over 〜 / make 〜 over",
+    "meaning": "〜を改良する、作り直す",
+    "example": "That's an improvement the manufacturer made over the old model.",
+    "exampleJa": "それが、メーカーが旧型に加えた改良点です。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-56 half off",
+    "meaning": "半額の",
+    "example": "I can give you the one on display for half off.",
+    "exampleJa": "展示品は半額でご提供できます。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-57 sign up",
+    "meaning": "登録を申し込む",
+    "example": "You could join for just a month, but there are larger discounts if you sign up for longer.",
+    "exampleJa": "1か月だけ入会することもできますが、より長くご契約いただくと、より大幅な割引があります。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-58 take a look at 〜",
+    "meaning": "〜を一目見る",
+    "example": "Take a look at this brochure. It has all the information you need.",
+    "exampleJa": "こちらのパンフレットをご覧ください。必要な情報はすべて載っています。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-59 be in charge of 〜",
+    "meaning": "〜の責任者をしている、〜を担当している",
+    "example": "He'll be in charge of the marketing department there starting the first of next month.",
+    "exampleJa": "彼は来月の1日から、そこのマーケティング部の責任者になります。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-60 be meant for 〜",
+    "meaning": "〜に向けた［宛てた］ものである",
+    "example": "I've read two of his books. The first one was technical and meant for those in his profession, I think.",
+    "exampleJa": "彼の本のうち2冊を読みました。1冊目は専門的で、彼と同業の人々向けだったと思います。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-61 No kidding!",
+    "meaning": "本当ですか、まさか",
+    "example": "No kidding! It must be quite a change from your job at that medical journal.",
+    "exampleJa": "本当ですか。あの医学誌の仕事からはかなりの変化に違いないですね。",
+    "week": 4,
+    "vol": 2,
+    "unit": 2
+  },
+  {
+    "word": "V2-62 lettering",
+    "meaning": "（書いたり刻んだりした）文字の配置［体裁］、字体",
+    "example": "I'll write down the lettering I want on the back.",
+    "exampleJa": "背面に入れたい文字を書きますね。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-63 special",
+    "meaning": "（商店の）特価（品）",
+    "example": "We're having a special on Airthru this week, which makes them 20 percent cheaper than what they usually go for.",
+    "exampleJa": "今週はAirthruが特売となっていますから、通常の価格より20％お安くなります。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-64 gym",
+    "meaning": "ジム（gymnasiumの短縮形）",
+    "example": "I got home after working out at the gym last night.",
+    "exampleJa": "私は昨夜、ジムでトレーニングしたあとで家に帰りました。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-65 outage",
+    "meaning": "（電力・ガス・水などの）供給停止、（特に）停電",
+    "example": "The speakers are discussing a recent power outage.",
+    "exampleJa": "話し手たちは最近起こった停電について話しています。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-66 hassle",
+    "meaning": "面倒、困難",
+    "example": "It's a hassle thinking about what to have for lunch every day.",
+    "exampleJa": "毎日お昼に何を食べたらよいか考えるのが面倒です。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-67 stopover",
+    "meaning": "途中立寄り、途中下車",
+    "example": "The train gets in at 8:10 and leaves after a fifteen-minute stopover.",
+    "exampleJa": "その電車は8時10分に到着して、15分間の停車後に出発します。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-68 degree",
+    "meaning": "（温度計・経度・緯度などの）度",
+    "example": "I can't get the temperature lower than 28 degrees and it's really hot in here.",
+    "exampleJa": "温度を28度より下げることができず、中がとても暑いんです。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-69 policy",
+    "meaning": "政策、方針",
+    "example": "We're complying with the government's policy on saving energy.",
+    "exampleJa": "私どもは政府の節電政策に従っております。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-70 exception",
+    "meaning": "特例、例外",
+    "example": "Since the hotel isn't crowded, we'll make an exception.",
+    "exampleJa": "ホテルが混雑していないので、特例といたします。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-71 manual mode",
+    "meaning": "手動モード",
+    "example": "I'll send someone up to your room right away to switch the air conditioner to manual mode.",
+    "exampleJa": "エアコンを手動モードに切り替えられるよう、すぐに誰かをお部屋へ向かわせます。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-72 VP",
+    "meaning": "副社長、副総裁（Vice Presidentの略）",
+    "example": "I just spoke with the VP and I need to attend a conference going on there.",
+    "exampleJa": "今ちょうど副社長と話をしたんだけど、そこで行われる会議に出席しなければいけなくなりました。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-73 flyer",
+    "meaning": "チラシ",
+    "example": "I've got to run off a few more music flyers to hand out at the entrance.",
+    "exampleJa": "私は入り口で配る音楽のチラシをもう少しコピーしなければなりません。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-74 sure thing",
+    "meaning": "もちろん、オーケー、よーし",
+    "example": "Sure thing, Ms. Foster. We'll see you shortly.",
+    "exampleJa": "もちろんです、Fosterさん。あとでお会いしましょう。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-75 ingredient",
+    "meaning": "（料理の）材料、成分、原料",
+    "example": "I'm placing the order for the ingredients for this coming week.",
+    "exampleJa": "私は来週のために材料を注文するつもりです。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-76 pastry",
+    "meaning": "菓子類、ペストリー（菓子・パイやタルトなどのケーキ）",
+    "example": "Extra pastries and specialty breads were requested for each event.",
+    "exampleJa": "それぞれのイベントに、追加の菓子類と名物のパンのリクエストがありました。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-77 affect",
+    "meaning": "（〜に）悪影響を及ぼす",
+    "example": "The blackout must have affected quite a large area.",
+    "exampleJa": "停電はかなり広い地域に影響を及ぼしたに違いありません。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-78 distract",
+    "meaning": "（心・注意などを）（…から）そらす",
+    "example": "I like it out here. The air is fresh and there's not much to distract me from work.",
+    "exampleJa": "僕はここを気に入っています。空気は新鮮だし、仕事の気を散らすものがあまりありません。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-79 skip",
+    "meaning": "《口語》（食事などを）抜く",
+    "example": "I skip lunch and go jogging instead.",
+    "exampleJa": "私はお昼を抜いて、代わりにジョギングに行きます。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-80 announce",
+    "meaning": "告知する、発表する",
+    "example": "They just announced that there's been a delay at the station before this one.",
+    "exampleJa": "ここより前の駅で遅延していると、ちょうどアナウンスがありました。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-81 concern",
+    "meaning": "（人を）心配させる",
+    "example": "Why is the woman concerned?",
+    "exampleJa": "女性はなぜ心配していますか。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-82 custom-made",
+    "meaning": "オーダーメイドの、注文品の、あつらえの",
+    "example": "I'd like to place an order for some custom-made T-shirts.",
+    "exampleJa": "オーダーメイドのTシャツを注文したいのですが。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-83 breathable",
+    "meaning": "（布地が）通気性のある",
+    "example": "Airthru is light, breathable, and dries quickly, so I'd choose that for sports.",
+    "exampleJa": "Airthruは軽くて通気性があり、速く乾きますから、私でしたらスポーツにはそちらを選びます。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-84 preoccupied",
+    "meaning": "（〜に）夢中になって、気をとられて",
+    "example": "I guess I was preoccupied with grabbing a cup of coffee before boarding the train.",
+    "exampleJa": "たぶん、電車に乗る前にコーヒーを1杯飲むのに気を取られていたんでしょう。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-85 already",
+    "meaning": "（今でも）すでに、（それでなくても）もう",
+    "example": "I hope the train isn't later than it already is.",
+    "exampleJa": "電車が現状より遅れないといいのですが。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-86 come in",
+    "meaning": "（品物が）出回る",
+    "example": "They come in both pure cotton and a new synthetic fabric called Airthru.",
+    "exampleJa": "100％コットン製と、Airthruと呼ばれる新しい合成繊維の両方があります。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-87 It turns out that 〜",
+    "meaning": "（〜ということが）わかる；（〜ということに）なる",
+    "example": "It turned out that the whole neighborhood had no power for a couple of hours.",
+    "exampleJa": "近所全体が2、3時間停電していたことがわかりました。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-88 some of 〜",
+    "meaning": "〜の一部",
+    "example": "I'm starting to lose some of the weight I put on during my transfer to Thailand.",
+    "exampleJa": "タイに転勤している間に増えた体重を減らし始めています。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-89 something else",
+    "meaning": "《口語》格別にすばらしいもの［人］",
+    "example": "The food there was something else.",
+    "exampleJa": "あそこの食べ物はすごかったです。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-90 behind schedule",
+    "meaning": "予定［定刻］に遅れて",
+    "example": "The train is running about ten minutes behind schedule.",
+    "exampleJa": "電車は予定より約10分遅れで運行しています。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-91 something is wrong with 〜",
+    "meaning": "〜に異常がある",
+    "example": "Something's wrong with the air conditioner.",
+    "exampleJa": "エアコンが何かおかしいんです。",
+    "week": 4,
+    "vol": 2,
+    "unit": 3
+  },
+  {
+    "word": "V2-92 appointment",
+    "meaning": "予約",
+    "example": "I'm calling about your three o'clock appointment tomorrow.",
+    "exampleJa": "あなたの明日の3時のご予約についてお電話しています。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-93 stain",
+    "meaning": "しみ、汚れ",
+    "example": "Clothing with stains or tears will not be accepted.",
+    "exampleJa": "シミやほころびのある服は受け付けられません。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-94 greenhouse gas",
+    "meaning": "温室効果ガス",
+    "example": "Here's what you can do to reduce greenhouse gases while improving the fuel economy of your car.",
+    "exampleJa": "車の燃料効率を高めながら温室効果ガスを減らすために、何ができるかをお伝えします。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-95 art form",
+    "meaning": "（芸術）芸術の域にまで高められたもの［こと］",
+    "example": "Jeremy Meyer's first love was glass as an art form.",
+    "exampleJa": "Jeremy Meyerが最初に惚れこんだのは、芸術作品としてのガラスでした。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-96 exhibition",
+    "meaning": "展示、展示会",
+    "example": "I'll take you through Venetian glass artist Michaela Tucci's exhibition in the south wing.",
+    "exampleJa": "南棟にあるベネチアングラスのアーティスト、Michaela Tucciの展示へと皆様をご案内します。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-97 curator",
+    "meaning": "（博物館・動物園などの）管理者、館長、園長、学芸員",
+    "example": "Jeremy Meyer is an experienced curator.",
+    "exampleJa": "Jeremy Meyerは経験豊富な学芸員です。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-98 contestant",
+    "meaning": "競技者",
+    "example": "The armbands will give you permission to come within five meters of contestants in the cycle and run portions of the triathlon.",
+    "exampleJa": "腕章があれば、トライアスロンの自転車とランニングの部分で出場者の周囲5メートル以内に近づく許可が与えられます。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-99 privilege",
+    "meaning": "特権",
+    "example": "This is a privilege granted to the press starting this year.",
+    "exampleJa": "これは今年から始まった、報道関係者に与えられた特権です。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-100 discretion",
+    "meaning": "（主として自分の言動に関する）分別、端正さ、思慮深さ、慎重さ",
+    "example": "We ask that you practice discretion when covering the event so as not to get in the way of contestants, spectators, and other members of the media.",
+    "exampleJa": "イベントを取材する際には、出場者、観客、ほかのメディアの方々の邪魔にならないよう、ご配慮をお願いいたします。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-101 reschedule",
+    "meaning": "（行事・計画などの）日程［予定］を変更する",
+    "example": "We're calling all patients who have appointments tomorrow and the day after to see whether you would like to reschedule.",
+    "exampleJa": "私たちは、予定を変更されたいかどうかを確認するため、明日と明後日に予約の入っている患者さん全員に電話をしています。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-102 encourage",
+    "meaning": "（人を）（…するように）元気づける、励ます",
+    "example": "Everyone is encouraged to bring in items to work that they no longer want so they can be donated to a local charity.",
+    "exampleJa": "皆さんには、地域の慈善団体に寄付できるように、もはや必要でない物を職場に持ってくるようお願いします。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-103 fray",
+    "meaning": "すり減らす",
+    "example": "Household items are fine too, as long as they aren't chipped or frayed.",
+    "exampleJa": "家庭用品も、欠けたりすり減ったりしていなければ構いません。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-104 sort",
+    "meaning": "（種類ごとに）分類［整理］する／種類",
+    "example": "We also need a few more volunteers to sort and get things ready to be sent out.",
+    "exampleJa": "また、仕分けをして発送の準備をするボランティアをあと数名必要としています。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-105 patent",
+    "meaning": "〜の特許［専売］権をとる／特許",
+    "example": "Jeremy Meyer patented numerous industrial glass technologies that continue to be manufactured by Meyer Glass.",
+    "exampleJa": "Jeremy Meyerは、Meyerガラスが製造を続けている数多くの工業ガラス技術の特許を取得しました。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-106 accumulate",
+    "meaning": "（長期にわたって）（〜を）ためる、蓄積する",
+    "example": "The vast collection of glass-as-art that he accumulated is what this museum is mainly about.",
+    "exampleJa": "彼が集めた芸術的ガラス作品の膨大なコレクションが、この美術館の中心となっています。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-107 qualify",
+    "meaning": "（〜の）資格を取得する",
+    "example": "Winners will qualify for the Triathlon of the World in March.",
+    "exampleJa": "勝者には3月のトライアスロン・オブ・ザ・ワールドへの出場資格が与えられます。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-108 cover",
+    "meaning": "（担当記者が）（事件・会合などを）（新聞で）報道する、取材する",
+    "example": "All of you covering the event are required to display your press armbands at all times.",
+    "exampleJa": "当イベントを取材する皆様には、常にプレス用の腕章を見えるようにつけていただく必要があります。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-109 gas-powered",
+    "meaning": "ガソリンで動く",
+    "example": "Some people are switching to hybrid, electric and clean diesel, but the truth is that most of us still drive gas-powered vehicles.",
+    "exampleJa": "私たちの中には、ハイブリッド車、電気自動車、クリーンディーゼル車に替えている人がいますが、実際のところは、私たちの大半はまだガソリン車を運転しています。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-110 cordially",
+    "meaning": "心から、まごころこめて",
+    "example": "All of you are cordially invited to the awards ceremony and party to be held at the Interlaken Hotel from 7 P.M. tomorrow.",
+    "exampleJa": "Interlakenホテルで明日午後7時より開かれる授賞式、並びにパーティーに、謹んでご招待いたします。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-111 call away 〜 / call 〜 away",
+    "meaning": "（人を）呼んで席をはずさせる（しばしば受け身で用いる）",
+    "example": "Dr. Jones has been called away on urgent business and will not be back until the day after tomorrow.",
+    "exampleJa": "Jones先生は急用で呼び出しを受け、あさってまで戻りません。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-112 fill in",
+    "meaning": "《口語》（〜の）代理［代役］をする",
+    "example": "Dr. Rashad will fill in for him during his absence.",
+    "exampleJa": "彼の不在の間は、Rashad先生が代わりを務めます。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-113 hear from 〜",
+    "meaning": "（人）から連絡をもらう",
+    "example": "In any case, we'd appreciate hearing back from you by the end of the day.",
+    "exampleJa": "いずれにせよ、今日中に折り返しのご連絡をいただけるとありがたく思います。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-114 go easy on 〜",
+    "meaning": "〜を加減して用いる",
+    "example": "Go easy on the brakes and accelerator.",
+    "exampleJa": "ブレーキとアクセルを控えめにすること。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-115 cruise control",
+    "meaning": "クルーズコントロール装置（車速設定装置：高速道路で車を自動的に一定の速度に保つ）",
+    "example": "Stepping on the gas pedal and braking suddenly uses a lot of gas — if you have it, use cruise control on highways.",
+    "exampleJa": "急にアクセルを踏んだりブレーキを踏んだりすると、多くのガソリンを消費します。お持ちでしたら、幹線道路ではクルーズコントロール装置を使いましょう。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-116 cut down on 〜",
+    "meaning": "〜を減らす",
+    "example": "Idling is also a hidden gas-guzzler — try cutting down on it or stop doing it altogether.",
+    "exampleJa": "アイドリングも、見えないところでガソリンを大量に消費します。アイドリングの回数を減らすか、一切やめましょう。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-117 clean out 〜 / clean 〜 out",
+    "meaning": "〜（の中）をきれいに（はいて）掃除する",
+    "example": "Clean out your trunk except for that spare tire, and remove your roof rack when you're not using it.",
+    "exampleJa": "スペアタイヤ以外はトランクの中を空にし、使っていないときはルーフラックを取りはずしておきましょう。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-118 get rid of 〜",
+    "meaning": "〜を取り除く",
+    "example": "Getting rid of extra weight can improve gas efficiency.",
+    "exampleJa": "余分な重さを取り除くことで、燃費を向上できます。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-119 permanent collection",
+    "meaning": "常設展",
+    "example": "The permanent collection is on display in the north wing.",
+    "exampleJa": "常設展は北棟で展示されています。",
+    "week": 5,
+    "vol": 2,
+    "unit": 4
+  },
+  {
+    "word": "V2-120 par",
+    "meaning": "標準、基準",
+    "example": "What you showed me the day before yesterday definitely was not up to par.",
+    "exampleJa": "おととい私に見せてくれたものは、まったく標準に達していませんでした。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-121 amendment",
+    "meaning": "修正、訂正",
+    "example": "I'd be happy to look over any amendments you've made, so e-mail a draft to me any time today.",
+    "exampleJa": "加えた修正には喜んで目を通しますから、今日いつでも草案をメールしてください。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-122 accommodation",
+    "meaning": "《米》宿泊（設備）",
+    "example": "This amazing price includes port charges, accommodations, luggage handling, and on-land sightseeing at the ports you'll be visiting.",
+    "exampleJa": "この驚くべき価格には、入港税、宿泊、荷物の取り扱い、寄港地の陸上での観光が含まれます。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-123 space",
+    "meaning": "座席、場所",
+    "example": "Space is limited, so call us today at 1-800-200-0345 to book your dream vacation!",
+    "exampleJa": "席に限りがありますので、今すぐ、弊社1-800-200-0345までお電話いただき、夢の休暇をご予約ください。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-124 bracket",
+    "meaning": "（同類として区分される）グループ",
+    "example": "Since the line was launched six months ago, sales have increased steadily, particularly in the thirty-to-forty age bracket.",
+    "exampleJa": "このシリーズが6か月前に発売されてから、売り上げが、特に30歳から40歳の年齢層で着実に伸びました。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-125 inception",
+    "meaning": "初め、発端",
+    "example": "The Voices are just that — the only instruments they've used since the group's inception are their own voices.",
+    "exampleJa": "The Voicesはその名の通り、彼らがグループ結成以来使っている唯一の楽器は、彼ら自身の声です。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-126 ringer",
+    "meaning": "着信音",
+    "example": "We ask that you not speak on mobile devices and turn off your ringers.",
+    "exampleJa": "携帯電話での通話はご遠慮いただき、着信音はオフにしていただくようお願いいたします。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-127 afford",
+    "meaning": "買う余裕がある",
+    "example": "Have you always dreamed of taking a luxury cruise vacation, but always thought you couldn't afford it?",
+    "exampleJa": "ぜいたくなクルーズでの休暇をいつも夢見ていたけれど、自分には手が届かない（金銭的な余裕がない）といつも思っていましたか。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-128 congratulate",
+    "meaning": "（人を）祝う、（人に）祝いの言葉を述べる",
+    "example": "I'd like to congratulate you on the success of our Scrub line of home cleaning products.",
+    "exampleJa": "家庭用掃除用品のScrubシリーズの成功について、皆さんにお祝いを申し上げたいと思います。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-129 browse",
+    "meaning": "（店などで）漫然と商品を見る",
+    "example": "Just sitting and gazing at the Falls is one thing, but I suggest browsing through White Falls Mall.",
+    "exampleJa": "ただ座って滝を眺めるのもひとつですが、私はWhite Fallsモールを見て回ることをおすすめします。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-130 consist",
+    "meaning": "（部分・要素から）成る",
+    "example": "The mall consists of twenty gift shops with varying themes.",
+    "exampleJa": "モールにはさまざまなテーマの、20のギフトショップがあります。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-131 prohibit",
+    "meaning": "（〜を）禁じる、禁止する",
+    "example": "Please be reminded that recording during the concert is strictly prohibited.",
+    "exampleJa": "コンサート中の録音は固くお断りいたしますのでご了承ください。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-132 decent",
+    "meaning": "妥当な",
+    "example": "I'm sure you're doing what you can to make it a decent proposal.",
+    "exampleJa": "妥当な案になるように、きっとできることをしてくれていると思います。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-133 instrumental",
+    "meaning": "（〜の）手段になって、助けになって",
+    "example": "No doubt the ad campaign featuring teen idol Don Windermere was instrumental in boosting sales among younger consumers.",
+    "exampleJa": "きっと、10代のアイドルDon Windermereを起用した広告キャンペーンが、より若い消費者の間で売り上げを伸ばすのに役立ったのでしょう。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-134 conservative",
+    "meaning": "保守的な",
+    "example": "I'd like to thank you for pushing the campaign over the more conservative ones.",
+    "exampleJa": "より保守的なものに優先してこちらのキャンペーンを推してくれたことに感謝したいと思います。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-135 periodically",
+    "meaning": "定期的に",
+    "example": "I won't be answering my phone, but will try to periodically check my e-mails.",
+    "exampleJa": "電話には出ませんが、Eメールは定期的に確認するようにします。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-136 locally",
+    "meaning": "地元で",
+    "example": "Everything sold at the mall is produced locally, including the honey and preserves.",
+    "exampleJa": "はちみつやジャムを含め、モールで販売されているものはすべて地元で作られています。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-137 sharp",
+    "meaning": "（時刻を表わす副詞句の後に置いて）きっかり、ぴったり",
+    "example": "Please be back at the bus at four sharp.",
+    "exampleJa": "4時ちょうどにバスに戻ってください。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-138 abundantly",
+    "meaning": "豊富に、多量に",
+    "example": "The a cappella group has produced original material that draws abundantly from their eastern European roots.",
+    "exampleJa": "このアカペラグループは、彼らの東ヨーロッパのルーツを大いに利用したオリジナル曲を制作しています。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-139 take a turn for the worse",
+    "meaning": "（病状が）悪化する",
+    "example": "My cold took a turn for the worse, so I won't be coming in today either.",
+    "exampleJa": "風邪が悪化したので、今日も出社いたしません。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-140 in a row",
+    "meaning": "連続して",
+    "example": "I'm sorry about having to take two days off in a row during such a busy time.",
+    "exampleJa": "こんなに忙しいときに2日続けて休まなければならず、申し訳ありません。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-141 double occupancy",
+    "meaning": "（ホテルの）二人部屋、ツインルーム",
+    "example": "Northern Cruises for ten-day vacations start at $1,580 per person, double occupancy.",
+    "exampleJa": "Northernクルーズ10日間の休暇は、2人部屋でお1人様1,580ドルからです。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-142 have 〜 in mind",
+    "meaning": "《文語》〜のことを考えている［計画している］",
+    "example": "This is the market we had in mind for Scrub, so nothing surprising there.",
+    "exampleJa": "これは私たちが想定していたScrubの市場なので、それには驚くことは何もありません。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-143 off guard",
+    "meaning": "警戒を怠って、油断して",
+    "example": "What caught me off guard was the fact that the line is popular with twenty-somethings.",
+    "exampleJa": "私の意表をついたのは、この商品が20代にも人気があるという事実です。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-144 top off 〜 / top 〜 off",
+    "meaning": "〜の仕上げをする、〜を終える",
+    "example": "We're honored that they chose Music Alley to top off their world tour.",
+    "exampleJa": "彼らがMusic Alleyをワールドツアーの締めくくりに選んでくれたことを光栄に思います。",
+    "week": 5,
+    "vol": 2,
+    "unit": 5
+  },
+  {
+    "word": "V2-145 insurance",
+    "meaning": "保険",
+    "example": "Contract employees may enroll in the company's insurance plan.",
+    "exampleJa": "契約社員は会社の保険制度に加入してもよいことになっています。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-146 reservation",
+    "meaning": "心配、懸念",
+    "example": "AMC's sales director expressed reservations about the high price of the company's newest tablet computer.",
+    "exampleJa": "AMC社の販売部長は、同社の最新型タブレットの高い価格について懸念を表明しました。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-147 ease",
+    "meaning": "容易さ",
+    "example": "What impresses users most about the copier is the ease of replacing toner cartridges.",
+    "exampleJa": "そのコピー機について、ユーザーに最も感銘を与えたのは、トナーカートリッジの取りかえやすさです。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-148 translation",
+    "meaning": "翻訳",
+    "example": "The translation must be checked carefully for errors before being sent to the printer.",
+    "exampleJa": "翻訳文は印刷業者に送られる前に、間違いがないか注意深く確認されなければなりません。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-149 predecessor",
+    "meaning": "前任者；先輩",
+    "example": "Betty Canales, the new office supervisor, is a stricter manager than her predecessor.",
+    "exampleJa": "会社の新しい上司であるBetty Canalesは、前任者よりも厳しい部長です。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-150 creditor",
+    "meaning": "債権者",
+    "example": "The CEO reached agreements with all of the company's creditors to avoid having to file for bankruptcy.",
+    "exampleJa": "CEOは破産申請をせざるを得ない事態を回避するため、すべての債権者と合意に達しました。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-151 improvement",
+    "meaning": "改良",
+    "example": "Goldtech's newest smartphone model is a clear improvement over the previous model.",
+    "exampleJa": "Goldtechの最新型スマートフォンは、以前のモデルより明らかに改良されています。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-152 premise",
+    "meaning": "（建物を含む）構内、敷地",
+    "example": "The school holds six fire drills a year to practice evacuating the premises in an orderly manner.",
+    "exampleJa": "規律正しく構内から避難する訓練をするため、学校では年に6回火災訓練を行います。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-153 snowfall",
+    "meaning": "降雪",
+    "example": "Heavy snowfall yesterday caused the cancellation of flights throughout the country.",
+    "exampleJa": "昨日の豪雪は全国的に便の欠航を引き起こしました。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-154 last",
+    "meaning": "長持ちする",
+    "example": "In durability tests, Rediro tires lasted longer than comparably priced models from other manufacturers.",
+    "exampleJa": "耐久性テストでは、Rediroのタイヤがほかのメーカーの同等価格品よりも長持ちしました。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-155 submit",
+    "meaning": "提出する",
+    "example": "Supervisors are responsible for submitting periodic updates about the status of their projects.",
+    "exampleJa": "監督者は、彼らのプロジェクトの状況について定期的に最新情報を提出する責任があります。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-156 incur",
+    "meaning": "（好ましくない結果に）陥る、（損害などを）招く",
+    "example": "Cancellations made within 48 hours of the reservation date will incur a 20 percent fee.",
+    "exampleJa": "予約日の48時間以内に行われたキャンセルには、20％の手数料がかかります。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-157 maintain",
+    "meaning": "整備する、保全する",
+    "example": "All escalators in the shopping mall are maintained regularly to ensure they meet safety standards.",
+    "exampleJa": "ショッピングモール内のすべてのエスカレーターは、確実に安全基準を満たすように、定期的にメンテナンスが行われています。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-158 postpone",
+    "meaning": "延期する",
+    "example": "The deadline for signing up for the sales training seminar was postponed to next Friday.",
+    "exampleJa": "営業研修セミナーの申し込みの期日は、今度の金曜日まで延期されました。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-159 extensive",
+    "meaning": "広範な",
+    "example": "Given his extensive managerial experience, Mr. Joban should have been a natural choice to lead the project team.",
+    "exampleJa": "Jobanさんの豊富な経営経験を考慮すると、彼がプロジェクトチームを率いるのに当然選ばれるべきでした。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-160 underway",
+    "meaning": "進行中で",
+    "example": "An internal audit of Blanthorp Associates has been underway since Monday morning.",
+    "exampleJa": "Blanthorp Associatesの内部監査は、月曜日の午前中から実施されています。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-161 authorized",
+    "meaning": "権限を与えられた",
+    "example": "Branch managers are authorized to make hiring decisions without prior approval from the head office.",
+    "exampleJa": "支店長は、本社から事前の承認なしで採用を決定する権限が与えられています。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-162 downtown",
+    "meaning": "商業地区で／中心街の、ビジネス街の",
+    "example": "Restaurants downtown generally open for lunch from 11:00 A.M. to 3:00 P.M. on weekdays.",
+    "exampleJa": "中心街のレストランは通常、平日は午前11時から午後3時までランチ営業をします。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-163 steadily",
+    "meaning": "着実に",
+    "example": "Martin Electronics has steadily increased its share of the mobile phone market.",
+    "exampleJa": "Martin Electronics社は携帯電話のマーケットシェアを着実に拡大しています。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-164 ably",
+    "meaning": "有能に、うまく、巧みに、立派に",
+    "example": "His assistant editor ably oversaw the publication of the magazine's July issue.",
+    "exampleJa": "彼の編集補佐が雑誌の7月号の刊行をうまく監督しました。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-165 throughout",
+    "meaning": "〜の間じゅう、初めから終わりまで",
+    "example": "Helen James and Gordon Teller remained in close contact with the company president throughout the negotiations.",
+    "exampleJa": "Helen JamesとGordon Tellerは、交渉の間ずっと、社長と密に連絡を取り続けました。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-166 in person",
+    "meaning": "（代理ではなく）本人が（直接に）",
+    "example": "Driver's licenses can be renewed either online or in person.",
+    "exampleJa": "運転免許証はオンラインか、直接出向くかのどちらかで更新することができます。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-167 a number of 〜",
+    "meaning": "かなりの〜",
+    "example": "A number of customers were overcharged last month due to a computer error.",
+    "exampleJa": "コンピュータのエラーにより、多くの顧客が先月、不当な料金請求を受けました。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-168 ahead of 〜",
+    "meaning": "（時間的に）〜より前に",
+    "example": "Both teams arrived at the stadium at noon, two hours ahead of the start of this afternoon's game.",
+    "exampleJa": "両チームは、今日の午後の試合開始の2時間前の正午にスタジアムに到着しました。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-169 consumer electronics",
+    "meaning": "家庭用電化製品",
+    "example": "Spending on consumer electronics was down overall.",
+    "exampleJa": "家庭用電化製品に対する支出は全体的に落ち込みました。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-170 as well",
+    "meaning": "その上に、同様に",
+    "example": "Besides its new 13-inch laptop, Fareed Computing offers 11-inch and 15-inch models as well.",
+    "exampleJa": "Fareed Computing社は、新製品の13インチのノートパソコンのほかに、11インチと15インチのモデルも売り出しています。",
+    "week": 5,
+    "vol": 2,
+    "unit": 6
+  },
+  {
+    "word": "V2-171 triumph",
+    "meaning": "栄冠、大業績",
+    "example": "This is Nathan Laurie's third triumph!",
+    "exampleJa": "これはNathan Laurieの3度目の栄冠です。",
+    "week": 6,
+    "vol": 2,
+    "unit": 7
+  },
+  {
+    "word": "V2-172 treat",
+    "meaning": "ごちそう",
+    "example": "Dana Strom was known for making mouth-watering sweet treats.",
+    "exampleJa": "Dana Stromはおいしいお菓子を作ることで知られていました。",
+    "week": 6,
+    "vol": 2,
+    "unit": 7
+  },
+  {
+    "word": "V2-173 recipe",
+    "meaning": "レシピ",
+    "example": "All the recipes are shared by Strom and her relatives.",
+    "exampleJa": "すべてのレシピはStromと彼女の親族が共有しています。",
+    "week": 6,
+    "vol": 2,
+    "unit": 7
+  },
+  {
+    "word": "V2-174 handling",
+    "meaning": "扱うこと",
+    "example": "We would like to offer you free handling on your next order.",
+    "exampleJa": "次回のご注文の際に手数料を無料とさせていただきます。",
+    "week": 6,
+    "vol": 2,
+    "unit": 7
+  },
+  {
+    "word": "V2-175 physique",
+    "meaning": "（特に男性の）体格",
+    "example": "A personal trainer designs a fitness and meal program adjusted to your unique physique and lifestyle.",
+    "exampleJa": "個人トレーナーが、あなた特有の体形やライフスタイルに合わせたフィットネスと食事のプログラムを作成します。",
+    "week": 6,
+    "vol": 2,
+    "unit": 7
+  },
+  {
+    "word": "V2-176 membership",
+    "meaning": "会員",
+    "example": "Join with a workout partner for 3 months and both of you get free membership the first month.",
+    "exampleJa": "3か月間、トレーニング仲間と一緒に入会すると、お二人とも最初の1か月は無料会員になれます。",
+    "week": 6,
+    "vol": 2,
+    "unit": 7
+  },
+  {
+    "word": "V2-177 idleness",
+    "meaning": "怠惰",
+    "example": "Choose health over idleness today at Urban Fitness.",
+    "exampleJa": "Urban Fitnessですぐに、怠惰よりも健康を選びましょう。",
+    "week": 6,
+    "vol": 2,
+    "unit": 7
+  },
+  {
+    "word": "V2-178 manufacturer",
+    "meaning": "（大規模な）製造業者［会社］、メーカー",
+    "example": "The manufacturer has informed us that a shipment will arrive at our warehouse by Monday, December 7.",
+    "exampleJa": "製造業者から、発送品は12月7日の月曜日までに弊社の倉庫に届くと連絡を受けました。",
+    "week": 6,
+    "vol": 2,
+    "unit": 7
+  },
+  {
+    "word": "V2-179 workout",
+    "meaning": "トレーニング、運動",
+    "example": "Join Urban Fitness before April 10 and receive an Urban Fitness gym bag and workout towel.",
+    "exampleJa": "4月10日までにUrban Fitnessに入会して、Urban Fitnessのジムバッグとトレーニングタオルをもらいましょう。",
+    "week": 6,
+    "vol": 2,
+    "unit": 7
+  },
+  {
+    "word": "V2-180 suffer",
+    "meaning": "（苦痛・不快な事を）経験する、こうむる、受ける",
+    "example": "Due to heavy snow, Delavan has historically suffered numerous power outages.",
+    "exampleJa": "大雪により、Delavanはこれまで数多くの停電の被害を受けてきました。",
+    "week": 6,
+    "vol": 2,
+    "unit": 7
+  },
+  {
+    "word": "V2-181 celebrate",
+    "meaning": "たたえる",
+    "example": "The book celebrates the way of life in a tiny Canadian farming town.",
+    "exampleJa": "その本はカナダの小さな農村での暮らし方をたたえています。",
+    "week": 6,
+    "vol": 2,
+    "unit": 7
+  },
+  {
+    "word": "V2-182 fulfill",
+    "meaning": "満たす",
+    "example": "The cookbook won't disappoint you when it comes to fulfilling that craving for a homemade sugar doughnut.",
+    "exampleJa": "自家製シュガードーナツへの欲求を満たすことに関して、その料理本はあなたを裏切らないでしょう。",
+    "week": 6,
+    "vol": 2,
+    "unit": 7
+  },
+  {
+    "word": "V2-183 enter",
+    "meaning": "入力する、記入する",
+    "example": "Please enter this Coupon Number in the \"Discounts/Coupons\" section of the order form.",
+    "exampleJa": "このクーポン番号を注文書の「値引き／クーポン」欄にご入力ください。",
+    "week": 6,
+    "vol": 2,
+    "unit": 7
+  },
+  {
+    "word": "V2-184 hit",
+    "meaning": "《口語》（〜に）達する；着く、至る",
+    "example": "And with Urban Fitness' new hours, hitting the gym before or after work just got easier.",
+    "exampleJa": "そして、Urban Fitnessの営業時間が新しくなり、仕事の前後にジムに行くことがより簡単になりました。",
+    "week": 6,
+    "vol": 2,
+    "unit": 7
+  },
+  {
+    "word": "V2-185 comforting",
+    "meaning": "安心できる、慰めとなる",
+    "example": "Strom's recipes for cookies, cakes and candy aren't fancy, but the end results are satisfying and comforting.",
+    "exampleJa": "Stromのクッキーやケーキ、そしてキャンディーのレシピは手の込んだものではないが、できあがりは満足のいくもので、気分が安らぎます。",
+    "week": 6,
+    "vol": 2,
+    "unit": 7
+  },
+  {
+    "word": "V2-186 rigorous",
+    "meaning": "厳重な",
+    "example": "Because the speakers are very delicate sound instruments, they must go through a rigorous packaging process.",
+    "exampleJa": "そのスピーカーは非常に精密な音響機器ですので、厳重な梱包作業を経なければなりません。",
+    "week": 6,
+    "vol": 2,
+    "unit": 7
+  },
+  {
+    "word": "V2-187 lavish",
+    "meaning": "豪華な",
+    "example": "Urban Fitness has the greatest selection of fitness classes, the largest pool, and the most lavish spa facilities of all the fitness centers in downtown Norfolk.",
+    "exampleJa": "Urban Fitnessには、Norfolkの中心街にあるすべてのフィットネスセンターの中で最も豊富なフィットネスクラスの取り揃えと、最も大きなプール、そして最も豪華なスパ施設があります。",
+    "week": 6,
+    "vol": 2,
+    "unit": 7
+  },
+  {
+    "word": "V2-188 prestigious",
+    "meaning": "名声［信望］のある",
+    "example": "Urban Fitness is also the recipient of the prestigious National Health Award for its Fitness Incentive Program (FIP).",
+    "exampleJa": "Urban Fitnessはフィットネス奨励プログラム（FIP）において、有名な全国健康賞の受賞企業でもあります。",
+    "week": 6,
+    "vol": 2,
+    "unit": 7
+  },
+  {
+    "word": "V2-189 dedicated",
+    "meaning": "献身的な",
+    "example": "Nathan was chosen as the Employee of the Month for his dedicated service to the population of Delavan.",
+    "exampleJa": "NathanはDelavan住民への献身的なサービスのため、月間優秀社員に選ばれました。",
+    "week": 6,
+    "vol": 2,
+    "unit": 7
+  },
+  {
+    "word": "V2-190 keep up 〜 / keep 〜 up",
+    "meaning": "（活動・状態などを）もち続ける、持続する",
+    "example": "Keep up the good work, Nathan!",
+    "exampleJa": "引き続き頑張ってください、Nathan。",
+    "week": 6,
+    "vol": 2,
+    "unit": 7
+  },
+  {
+    "word": "V2-191 in appreciation of 〜",
+    "meaning": "〜に感謝して",
+    "example": "In appreciation of your patience regarding the delay, we would like to offer you a 20 percent discount on your next order.",
+    "exampleJa": "お待ちいただくこと（その遅れに関するあなたの忍耐）に感謝して、次回のご注文の際に20％の割引をご提供いたします。",
+    "week": 6,
+    "vol": 2,
+    "unit": 7
+  },
+  {
+    "word": "V2-192 outing",
+    "meaning": "ピクニック、遠出",
+    "example": "Our annual company outing will take place on June 7 from 10 A.M. to 4 P.M. at Roxbury Farm.",
+    "exampleJa": "6月7日の午前10時から午後4時まで、Roxbury農場にて毎年恒例の社内ピクニックが催されます。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-193 courtesy",
+    "meaning": "特別の扱い、好意",
+    "example": "This is courtesy of our CEO.",
+    "exampleJa": "これはCEOのご厚意によるものです。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-194 expense",
+    "meaning": "費用",
+    "example": "The company will pay the expenses for employees and immediate family members.",
+    "exampleJa": "社員とその肉親の費用は、会社が負担いたします。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-195 shipping",
+    "meaning": "輸送、運送",
+    "example": "I will be billed later for $35.95 plus shipping if I decide to keep it.",
+    "exampleJa": "購入を決めた場合は、後に35ドル95セントと送料を請求されることになります。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-196 real estate",
+    "meaning": "不動産",
+    "example": "There are plans to build 20 more stores throughout the state on real estate owned by the Value Shopper Group.",
+    "exampleJa": "Value Shopperグループが所有する不動産に、州内でさらに20店舗開店する計画があります。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-197 quarter",
+    "meaning": "四半期",
+    "example": "Some Value Shopper stores have been recording poor sales for the last three quarters.",
+    "exampleJa": "Value Shopperのいくつかの店舗はここ3四半期に渡って芳しくない売上を記録してきました。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-198 alliance",
+    "meaning": "連携、連合、提携",
+    "example": "To form an alliance with Value Shopper is mentioned as an aim of Dollar-n-Under.",
+    "exampleJa": "Dollar-n-Underの目標として、Value Shopperとの連携を確立することが述べられています。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-199 foray",
+    "meaning": "進出",
+    "example": "Author Robin Mitchum's first foray into non-fiction is a book about her favorite South Pacific escape — Tau Island in Manu'a.",
+    "exampleJa": "作家Robin Mitchumのノンフィクションへの初の進出は、彼女のお気に入りである南太平洋の休息地、Manu'aにあるTau島についての本です。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-200 exchange",
+    "meaning": "やりとり；交換",
+    "example": "Her casual tone, particularly when describing her exchanges with island locals, may take some getting used to.",
+    "exampleJa": "特に島の地元住民たちとのやりとりを描写するときの彼女の砕けた語り口調には多少の慣れが必要かもしれません。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-201 aspect",
+    "meaning": "（もの・ことの）面、様相",
+    "example": "The book is written to describe an untold aspect of Manu'a.",
+    "exampleJa": "その本はManu'aの明らかにされていない側面を描くために書かれました。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-202 reviewer",
+    "meaning": "批評家",
+    "example": "A reviewer mentions that the book is complimentary to the people of Manu'a.",
+    "exampleJa": "批評家は、その本がManu'aの人々に好意的であると述べます。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-203 rent",
+    "meaning": "賃借り［賃借］する",
+    "example": "We have rented Roxbury Farm for the entire day.",
+    "exampleJa": "Roxbury農場を終日貸し切っています。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-204 incorporate",
+    "meaning": "合体する",
+    "example": "Future cooperation is expected to include Dollar-n-Under sections being incorporated into some of Value Shopper's larger retail outlets.",
+    "exampleJa": "今後の協力関係として、Value Shopperの一部の大型販売店にDollar-n-Under部門が組み込まれることが見込まれています。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-205 eye",
+    "meaning": "注目する、目をつける",
+    "example": "Dollar-n-Under has been eyeing entry into the US market.",
+    "exampleJa": "Dollar-n-Underは、アメリカ市場への参入を狙ってきました。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-206 describe",
+    "meaning": "述べる、記述する",
+    "example": "The main purpose of the article is to describe recent business trends.",
+    "exampleJa": "この記事の主な目的は昨今の事業動向を説明することです。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-207 adorn",
+    "meaning": "飾る、装飾する",
+    "example": "Light-hearted illustrations by the author adorn many pages of the book.",
+    "exampleJa": "著者による愉快な挿絵が、本書の多くのページに魅力を添えています。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-208 portray",
+    "meaning": "〜を言葉で描く",
+    "example": "Robin Mitchum wrote the book to portray a historical saga.",
+    "exampleJa": "Robin Mitchumは歴史的な冒険物語を描写するためにこの本を書きました。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-209 collaborate",
+    "meaning": "共同作業をする",
+    "example": "She collaborated with an illustrator for the book.",
+    "exampleJa": "彼女はこの本に関して、イラストレーターと協同作業をしました。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-210 direct",
+    "meaning": "道を教える、ある方向に向ける、指導する",
+    "example": "Could you direct him to an available conference room and offer him something to drink for me?",
+    "exampleJa": "私の代わりに彼を空いている会議室にお通しして、飲み物を出していただけますか。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-211 pre-screen",
+    "meaning": "前もって選別する、試写する",
+    "example": "John has been pre-screening job applications.",
+    "exampleJa": "Johnが求人の応募書類を前もって審査しています。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-212 upcoming",
+    "meaning": "《主に米》今度の、やがてやってくる",
+    "example": "The memo is mainly about an upcoming event.",
+    "exampleJa": "このメモは主に近々行われる行事についてのものです。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-213 sought-after",
+    "meaning": "珍重される、ひっぱりだこの",
+    "example": "The island is becoming one of the most sought-after vacation destinations for travelers from around the world.",
+    "exampleJa": "その島は、世界中の旅行者に最も人気のある休暇の目的地の1つとなりつつあります。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-214 remote",
+    "meaning": "人里離れた",
+    "example": "Mitchum's focus is on the remote area of Hillside.",
+    "exampleJa": "Mitchumの焦点は、Hillsideという人里離れた地域に置かれています。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-215 affordable",
+    "meaning": "手ごろな価格の",
+    "example": "The book has a section on affordable resorts.",
+    "exampleJa": "その本には手ごろな価格のリゾート地に関する節があります。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-216 amidst",
+    "meaning": "真ん中に、真っ最中に（＝amid）",
+    "example": "Locals still live quietly amidst unspoiled natural surroundings.",
+    "exampleJa": "地元住民は荒らされていない自然環境の中で今でも静かに暮らしています。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-217 tie up",
+    "meaning": "提携する、連合する",
+    "example": "The Austin-based retailer announced that it is tying up with Singapore discount giant Dollar-n-Under.",
+    "exampleJa": "そのオースティンに拠点を置く小売業者は、シンガポールの大手ディスカウント販売店、Dollar-n-Underと提携することを発表しました。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-218 retail outlet",
+    "meaning": "小売店",
+    "example": "Value Shopper will replace five of its retail outlets with Dollar-n-Under stores in southern Texas.",
+    "exampleJa": "Value Shopperは、テキサス南部の5つの小売店をDollar-n-Underに置きかえる予定です。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-219 be based on 〜",
+    "meaning": "〜に基づく",
+    "example": "The book is based on a real experience.",
+    "exampleJa": "その本は実体験に基づいています。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-220 so far",
+    "meaning": "ここまで",
+    "example": "It is looking good so far.",
+    "exampleJa": "今のところはいい感じです。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-221 on the right track",
+    "meaning": "正しい方向に向いている、正しい考え方で",
+    "example": "We're on the right track.",
+    "exampleJa": "うまくいっています。",
+    "week": 6,
+    "vol": 2,
+    "unit": 8
+  },
+  {
+    "word": "V2-222 new face",
+    "meaning": "新顔、ニューフェース",
+    "example": "The new Sunday hours mean new faces to help out at the library.",
+    "exampleJa": "日曜日に新しく開館時間ができるということは、図書館でサポートをする新しいスタッフが増えるということです。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-223 librarian",
+    "meaning": "図書館員",
+    "example": "Please welcome new librarians Dylan Yokum and Marsha Liversedge, transferring in from the Sycamore branch.",
+    "exampleJa": "新しい図書館員として、Sycamore分館から異動してくるDylan YokumさんとMarsha Liversedgeさんを歓迎してください。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-224 e-reading device",
+    "meaning": "電子書籍端末",
+    "example": "Bring an e-reading device to the library to learn about the many free downloads available from the library collection.",
+    "exampleJa": "電子書籍端末を図書館へご持参いただければ、図書館の蔵書から無料でダウンロードできるたくさんのデータについて知ることができます。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-225 booklover",
+    "meaning": "愛読家",
+    "example": "For adult booklovers: The Overland Park Book Group meets from 6:30 P.M. to 8 P.M. every second Thursday.",
+    "exampleJa": "大人の愛読家たち向けに、Overland Park読書会が、毎月第2木曜日の午後6時30分から午後8時まで会合を開きます。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-226 travelog",
+    "meaning": "《米》紀行（《英》travelogue）",
+    "example": "This year, we begin with Asian Travelogue by John Marshall.",
+    "exampleJa": "今年はJohn Marshall著のAsian Travelogueからスタートします。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-227 observance",
+    "meaning": "（習慣・規則・儀式などを）守ること、遵守、遵奉",
+    "example": "The Overland Park Library will be closed in observance of the national holiday on Monday, January 23.",
+    "exampleJa": "Overland Park図書館は、1月23日月曜日は法定休日のため、閉館いたします。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-228 giveaway",
+    "meaning": "《主に米・カナダ》（商品拡販用の）景品、サービス品",
+    "example": "The Sycamore branch will host an old-book giveaway from 11 A.M. to 2 P.M. on that day.",
+    "exampleJa": "Sycamore分館ではその日に、午前11時から午後2時まで、古本のお持ち帰りイベントを行います。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-229 shoulder",
+    "meaning": "《話》（比喩的）責任を負う能力、他人に力添えできる能力",
+    "example": "Since you and I are the only ones in marketing who worked closely with Nicki, that task falls on our shoulders.",
+    "exampleJa": "あなたと私だけが、マーケティング部でNickiと関わりが深かったので、私たちにその仕事が任されています。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-230 breakdown",
+    "meaning": "内訳、分析、明細",
+    "example": "The estimated costs are much higher than we expected, so could you give us a breakdown of them?",
+    "exampleJa": "見積もっていただいた費用が考えていたよりずっと高かったので、その内訳を出していただけますか。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-231 rooftop",
+    "meaning": "屋上",
+    "example": "Romantic rooftop dinners are available for an extra charge.",
+    "exampleJa": "ロマンチックな屋上でのディナーが追加料金にて楽しめます。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-232 studio",
+    "meaning": "台所・バスルーム付きの1部屋から成るアパート、ワンルームマンション",
+    "example": "The Sun and Sand offers everything from studios to multi-bedroom apartments.",
+    "exampleJa": "The Sun and Sandでは、ワンルームから複数の寝室を備えたお部屋までをご用意しています。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-233 order",
+    "meaning": "順序",
+    "example": "In what order has the information been compiled?",
+    "exampleJa": "その情報はどのような順番でまとめられていますか。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-234 instrument",
+    "meaning": "楽器",
+    "example": "The cost does not include an instrument.",
+    "exampleJa": "費用に楽器代は含まれていません。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-235 preserved flower",
+    "meaning": "プリザーブドフラワー（生花のみずみずしさ美しさをできるだけ長い期間楽しめるように作られた花）",
+    "example": "Preserved flowers and a glue gun aren't the only things you'll be using in this class!",
+    "exampleJa": "この講座で使うのは、プリザーブドフラワーとグルーガンだけではありません。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-236 corsage",
+    "meaning": "コサージ（婦人服の腰・肩などにつける花束）",
+    "example": "Get creative by decorating your corsage with rhinestones, sequins and ribbons.",
+    "exampleJa": "ラインストーン、スパンコールやリボンを使ってコサージュを飾り、創造性を発揮しましょう。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-237 transition",
+    "meaning": "移り変わり、変わり目",
+    "example": "According to Zoe Feldman's rules, the transition from summer to fall is an ideal time to organize your closet.",
+    "exampleJa": "Zoe Feldmanのルールによると、夏から秋への変わり目は、クローゼットを整理整頓するのに理想的な時期です。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-238 guru",
+    "meaning": "（精神的）指導者",
+    "example": "We're very lucky to have the Web's most popular clean-up guru share her foolproof organizing tips with us.",
+    "exampleJa": "非常に幸運なことに、インターネットで最も人気のある掃除のカリスマ的指導者が、私たちに失敗しない整理整頓の奥義を伝授してくれます。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-239 mix-up",
+    "meaning": "《口語》（手違いによる）混乱",
+    "example": "I'm truly sorry about the mix-up concerning the fall class schedule.",
+    "exampleJa": "秋の講座日程について混乱がありましたことを、心よりお詫び申し上げます。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-240 cuisine",
+    "meaning": "料理（法）",
+    "example": "His specialty is ethnic cuisine.",
+    "exampleJa": "彼の専門はエスニック料理です。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-241 deluge",
+    "meaning": "（人・場所を）（…で）殺到させる",
+    "example": "Everyone in advertising is deluged now since the campaign for the Speed Walk footwear line is starting on July 29.",
+    "exampleJa": "現在、宣伝部の全員はSpeed Walkシューズシリーズのキャンペーンが7月29日に始まるので手一杯です。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-242 organize",
+    "meaning": "（企画・催しなどを）計画［準備］する",
+    "example": "They want marketing to organize the party.",
+    "exampleJa": "彼らはマーケティング（部）にパーティーの準備をしてほしいのです。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-243 embody",
+    "meaning": "具体的に表現する、具体化する；体現する",
+    "example": "Located away from the beach on a quiet residential street, Chez Michel embodies the perfect hideaway.",
+    "exampleJa": "ビーチから離れた閑静な住宅街に建つChez Michelは最高の隠れ家そのものです。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-244 showcase",
+    "meaning": "展示する、紹介する／ショーケース",
+    "example": "You'll prepare — and eat — four dishes showcasing Phil's magic cooking techniques.",
+    "exampleJa": "Philの魔法の料理テクニックを使った4品を調理し、そして試食します。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-245 incoming",
+    "meaning": "入ってくる／到来、（複数形で）収入",
+    "example": "Since incoming flights to the airport have been increased from seven to ten per day, two buses will not be enough.",
+    "exampleJa": "空港への1日の着陸便が7便から10便に増えたので、2台のバスでは十分ではないでしょう。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-246 overwhelming",
+    "meaning": "圧倒的な、抵抗できない",
+    "example": "By an overwhelming vote by our board of directors, the library will now be open to the public on Sundays from 12 to 4 P.M.",
+    "exampleJa": "理事会での圧倒的多数の票決により、当図書館はこれから、毎週日曜日の12時から午後4時まで、一般に開放されることになります。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-247 cozy",
+    "meaning": "心地よい",
+    "example": "Situated right on the beach, this cozy guesthouse purposely has no Wi-Fi.",
+    "exampleJa": "ビーチに面したこの心地よいゲストハウスは、あえてWi-Fi設備を備えていません。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-248 fully-equipped",
+    "meaning": "完備の",
+    "example": "Rooms with washers/dryers and fully-equipped kitchens are available.",
+    "exampleJa": "洗濯機／乾燥機と完全装備のキッチンが付いた客室があります。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-249 climate-controlled",
+    "meaning": "室温調節されている",
+    "example": "All rooms are climate-controlled.",
+    "exampleJa": "全室が室温調節されています。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-250 initially",
+    "meaning": "初めは、初めのうちは",
+    "example": "If my memory serves me correctly, we initially asked Metro to supply two large buses per day, with drivers.",
+    "exampleJa": "私の記憶が正しければ、Metro社には当初、1日につき2台の大型バスと運転手を手配するよう依頼しました。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-251 maximum",
+    "meaning": "最大限",
+    "example": "We should be thinking of a place that holds 50 people maximum.",
+    "exampleJa": "最大50人を収容する会場を考えておくべきでしょう。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-252 otherwise",
+    "meaning": "別な方法で（は）、ほかの状態に",
+    "example": "He is learning the basics of playing what is otherwise known as a blues harmonica.",
+    "exampleJa": "彼は別名ブルース・ハーモニカの演奏の基本を学んでいます。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-253 somehow",
+    "meaning": "どういうわけか、何とかして",
+    "example": "My assistant somehow missed seeing your e-mail while I was on vacation.",
+    "exampleJa": "あなたのメールを、私の休暇中にアシスタントが見落としてしまったようです。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-254 in case 〜",
+    "meaning": "（接続詞的に用いて）〜の場合の用心に、〜するといけないから",
+    "example": "In case you're wondering, all of the buses do not have to be large.",
+    "exampleJa": "あなたが疑問に思うといけないので言っておきますが、すべてのバスが大型である必要はありません。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-255 in the event 〜",
+    "meaning": "（万一）〜という場合には",
+    "example": "In the event Metro cannot supply the extra buses, I'll have to ask you to contact a transportation service in neighboring Wilhelmina.",
+    "exampleJa": "万一、Metro社が追加のバスを用意できない場合は、近隣のWilhelminaの輸送サービス業者に連絡するよう、あなたにお願いしなければなりません。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-256 as always",
+    "meaning": "いつもながら、いつも通り（に）、相変わらず",
+    "example": "As always, thanks for your help.",
+    "exampleJa": "いつも助けてもらい、感謝しています。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-257 drop in",
+    "meaning": "《口語》（予告もなしに）ひょっこり訪ねる、ちょっと立ち寄る",
+    "example": "Don't forget to drop in on the first Sunday.",
+    "exampleJa": "最初の日曜日にぜひお立ち寄りください。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-258 yours truly",
+    "meaning": "《口語》私、自分、ぼく（3人称単数扱い）；敬具",
+    "example": "Our e-books and downloads specialist, yours truly, will be happy to help you.",
+    "exampleJa": "当館で電子書籍やダウンロードデータを専門とする私自身が、喜んでお手伝いさせていただきます。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-259 backpacker",
+    "meaning": "バックパッカー（低予算で国外を個人旅行する旅行者）",
+    "example": "The guesthouse wants to attract more backpackers.",
+    "exampleJa": "そのゲストハウスはより多くのバックパッカーの集客を望んでいます。",
+    "week": 6,
+    "vol": 2,
+    "unit": 9
+  },
+  {
+    "word": "V2-260 issue",
+    "meaning": "（雑誌・新聞などの）〜号、〜刷",
+    "example": "Thank you for agreeing to be interviewed for the article on recruiting to appear in the May/June issue of TODAY'S MANAGER.",
+    "exampleJa": "TODAY'S MANAGERの5・6月号に掲載される、人材リクルートに関する記事への取材にご承諾いただき、ありがとうございました。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-261 recruiter",
+    "meaning": "リクルーター",
+    "example": "Why did you decide to become a recruiter?",
+    "exampleJa": "なぜ人材リクルーターになることを決めましたか。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-262 field",
+    "meaning": "分野",
+    "example": "I was working in the pharmaceutical field.",
+    "exampleJa": "私は製薬分野で仕事をしていました。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-263 manner",
+    "meaning": "仕方、やり方",
+    "example": "I was greatly impressed with the manner in which she dealt with the situation.",
+    "exampleJa": "彼女が状況に対処する姿勢に大いに魅了されました。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-264 making",
+    "meaning": "（通例the makings）素質、資質、適性",
+    "example": "She thought I had all the makings of a great recruiter.",
+    "exampleJa": "彼女は、私に素晴らしい人材リクルーターのすべての素質があると思いました。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-265 sculpture",
+    "meaning": "彫刻",
+    "example": "She has since created over 300 sculptures of which half are on display at the museum.",
+    "exampleJa": "彼女はそれ以来、300を超える彫刻を制作し、その半数がその美術館に展示されています。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-266 phase",
+    "meaning": "（変化・発達の）段階；時期",
+    "example": "Her works can generally be divided into five phases — each lasting between five and seven years.",
+    "exampleJa": "彼女の作品は一般的に5つの時代に分けることができ、各時代は5〜7年に及びます。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-267 eclectic",
+    "meaning": "折衷主義",
+    "example": "Eclectic was not something I expected from Thiara Brouillard.",
+    "exampleJa": "折衷主義は、私がThiara Brouillardに求めていたものではありませんでした。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-268 medium",
+    "meaning": "（美術）制作材料",
+    "example": "It is obvious that the young artist is not only unsure of how to approach her themes, but also overwhelmed by the medium that is plastic.",
+    "exampleJa": "その若い芸術家は、テーマへのアプローチの仕方に確信を持っていないだけでなく、プラスチックという素材に圧倒されてしまっているのは明らかです。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-269 sous-chef",
+    "meaning": "副料理長",
+    "example": "I would like to be considered for the position of sous-chef advertised in the recruiting section of your restaurant's Web site.",
+    "exampleJa": "貴レストランのウェブサイトの採用ページで募集されている副料理長の職に、私をご検討いただきたいと思います。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-270 eatery",
+    "meaning": "料理店、レストラン",
+    "example": "I have been supporting head chef and owner Marvin Briggs in the running of one of the most popular seafood eateries in northern California.",
+    "exampleJa": "北カリフォルニアで最も人気のあるシーフードレストランの1つの運営において、料理長兼オーナーのMarvin Briggsを補佐してまいりました。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-271 portfolio",
+    "meaning": "（画家などの）作品選集；（紙挟み式の）画集",
+    "example": "A copy of my résumé and a portfolio of the dishes I created for Juliana are enclosed for your review.",
+    "exampleJa": "履歴書を一部と、私がJulianaで創作した料理の作品集を同封しますので、ご参照ください。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-272 reference",
+    "meaning": "推薦状",
+    "example": "I am also prepared to provide references, should you so require.",
+    "exampleJa": "ご依頼がございましたら、推薦状を提出する用意もできております。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-273 honor",
+    "meaning": "（複数形で）（大学の）優等",
+    "example": "He graduated in the class above you at Culinary Institute of New York with top honors.",
+    "exampleJa": "彼はあなたより1年先にCulinary Institute of New Yorkを首席で卒業しました。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-274 exhibit",
+    "meaning": "出品物、展示会／展示する、陳列する",
+    "example": "This Friday, the Highland Natural History Museum will be opening its newest exhibit, a look into the world of prehistoric mammals.",
+    "exampleJa": "今週の金曜日、Highland自然史博物館では先史時代のほ乳類の世界を探求する最新の展示を公開する予定です。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-275 figure",
+    "meaning": "数字、形、姿、図",
+    "example": "The meaning behind some of the figures is a little bit harder to parse.",
+    "exampleJa": "一部の数字の意味は、分析するのが少々困難です。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-276 parse",
+    "meaning": "文を構成要素に分析する",
+    "example": "The meaning behind some of the figures is a little bit harder to parse.",
+    "exampleJa": "一部の数字の意味は、分析するのが少々困難です。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-277 takeaway",
+    "meaning": "要点",
+    "example": "The biggest takeaways from the results are that more specific exhibits tend to do better.",
+    "exampleJa": "その結果が示す最も重要な点は、内容がより明確な展示ほど入場者が多い傾向があるということです。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-278 specific",
+    "meaning": "特定の、具体的な、明確な",
+    "example": "The biggest takeaways from the results are that more specific exhibits tend to do better.",
+    "exampleJa": "その結果が示す最も重要な点は、内容がより明確な展示ほど入場者が多い傾向があるということです。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-279 mentor",
+    "meaning": "〜の助言者［指導者］となる／よき指導者",
+    "example": "She mentored me in sourcing and recruiting top-notch personnel in the medical field.",
+    "exampleJa": "彼女は医療分野で優秀な人材を見つけて採用することについて、私を指導してくれました。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-280 elate",
+    "meaning": "〜を有頂天［大得意］にさせる",
+    "example": "He is elated that his article was accepted.",
+    "exampleJa": "彼は自分の記事が採用されて喜んでいます。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-281 depart",
+    "meaning": "（常道・習慣などから）はずれる、それる",
+    "example": "She departs completely from using natural materials such as metal and wood.",
+    "exampleJa": "彼女は金属や木材などの自然の素材の使用から完全に離れてしまいました。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-282 span",
+    "meaning": "（年月などに）及ぶ、わたる／（特定の長さの）期間",
+    "example": "Her career has spanned more than thirty years.",
+    "exampleJa": "彼女のキャリアは30年以上に及びます。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-283 apprentice",
+    "meaning": "見習いをする／見習い、実習生",
+    "example": "I apprenticed for two years in Italy at various restaurants.",
+    "exampleJa": "私はイタリアのさまざまなレストランで2年間、見習いとして修業を積みました。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-284 elicit",
+    "meaning": "引き起こす、引き出す、誘い出す",
+    "example": "It is nice to know that her work has had such an effect on fans that recent departures have elicited such strong reactions.",
+    "exampleJa": "彼女の作品はファンにとても強い影響を与えてきたもので、最近の逸脱がそれほど強い反応を引き起こしたことを知って、うれしく思います。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-285 debut",
+    "meaning": "公開される、デビューする／デビュー",
+    "example": "Due to some delays not all displays will be opening, but will debut in two weeks.",
+    "exampleJa": "少し遅れが出ているため、すべての展示は見られませんが、2週間後には公開されるでしょう。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-286 dampen",
+    "meaning": "水を差す、くじく、そぐ、湿らせる",
+    "example": "Some organizational issues with the mammal exhibit's opening seemed to dampen enthusiastic word of mouth.",
+    "exampleJa": "ほ乳類の展示を公開した際の組織としての問題は、熱心な口コミに水を注したようです。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-287 offend",
+    "meaning": "怒らせる、（しばしば受け身で用い）腹を立てる",
+    "example": "I'm sure she wouldn't be terribly offended by the mistake, but I felt I should clarify in the name of accuracy.",
+    "exampleJa": "彼女がこの間違いにひどく腹を立てることはないでしょうが、正確を期すために明確にするべきだと思いました。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-288 clarify",
+    "meaning": "明かにする、はっきりと説明する、浄化する",
+    "example": "I'm sure she wouldn't be terribly offended by the mistake, but I felt I should clarify in the name of accuracy.",
+    "exampleJa": "彼女がこの間違いにひどく腹を立てることはないでしょうが、正確を期すために明確にするべきだと思いました。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-289 thoughtful",
+    "meaning": "思いやりがある、情け深い",
+    "example": "It was thoughtful of you to pose some questions to me beforehand.",
+    "exampleJa": "事前にいくつか質問を私にお知らせいただき、お心遣いに感謝しております。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-290 rewarding",
+    "meaning": "（金銭上・物質上の）もうけ［利益］になる、報い［やりがい］のある、満足感を味わえる",
+    "example": "Being a medical recruiter may not be the most rewarding financially, but the emotional payback is something I wouldn't trade for anything else.",
+    "exampleJa": "医療の人材リクルーターでいることは、金銭的に最も割りが合うわけではないかもしれませんが、精神的な対価はほかの何物にも代えがたいものです。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-291 daring",
+    "meaning": "大胆な",
+    "example": "Her daring works were featured as part of an installation at the Festival of Lights in Lyon forty years ago.",
+    "exampleJa": "彼女の大胆な作品は、40年前にリヨンで行われた光の祭典でインスタレーションの一部として発表されました。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-292 renowned",
+    "meaning": "有名な、名高い",
+    "example": "Die-hard fans must have been wondering what came over the renowned French sculptor.",
+    "exampleJa": "筋金入りのファンたちは、この著名なフランス人彫刻家に一体何が起きたのだろうと思っていたに違いありません。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-293 culinary",
+    "meaning": "料理の",
+    "example": "If you start working for us and learn Bishop's culinary style, you could well qualify for head chef at our branch restaurant.",
+    "exampleJa": "もし、あなたが当店で働き始め、Bishop'sの料理スタイルを習得すれば、支店の料理長として十分に適任となることでしょう。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-294 experienced",
+    "meaning": "経験豊かな",
+    "example": "Bishop's on the Bay requires an experienced sous-chef to continue the tradition of excellence and innovation offered at our restaurant.",
+    "exampleJa": "Bishop's on the Bayは、当レストランで提供している素晴らしい伝統と新しい発想を引き継ぐ、経験豊かな副料理長を求めています。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-295 excellence",
+    "meaning": "卓越（していること）、優秀",
+    "example": "Bishop's on the Bay requires an experienced sous-chef to continue the tradition of excellence and innovation offered at our restaurant.",
+    "exampleJa": "Bishop's on the Bayは、当レストランで提供している素晴らしい伝統と新しい発想を引き継ぐ、経験豊かな副料理長を求めています。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-296 fiscal",
+    "meaning": "会計の",
+    "example": "Now that the fiscal year is over we can take a look at how our different exhibits performed.",
+    "exampleJa": "年度も終わりましたので、それぞれの展示がどんな結果を残したかを見ることができます。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-297 chronologically",
+    "meaning": "年代順に",
+    "example": "The current exhibition is arranged chronologically in five areas of the museum.",
+    "exampleJa": "今回の展示は館内の5つのエリアに、時代ごとに並べられています。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-298 favorably",
+    "meaning": "好意的に",
+    "example": "I sincerely hope you will consider my application favorably.",
+    "exampleJa": "ぜひとも、私の応募を前向きにご検討いただきたく存じます。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-299 suggested admission",
+    "meaning": "任意の入場料",
+    "example": "Suggested admission is $15.",
+    "exampleJa": "任意の入場料は15ドルです。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
+  },
+  {
+    "word": "V2-300 for the time being",
+    "meaning": "当面の間",
+    "example": "Would you be willing to consider working as Rick's assistant for the time being?",
+    "exampleJa": "当面の間、Rickの補佐として働くことを検討していただけませんか。",
+    "week": 7,
+    "vol": 2,
+    "unit": 10
   }
 ]
